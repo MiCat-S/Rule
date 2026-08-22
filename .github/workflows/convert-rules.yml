@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "*.Conf"
+      - "jys/**/*.list"
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/convert-rules.yml"
 
 permissions:
   contents: write

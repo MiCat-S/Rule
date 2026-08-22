@@ -21,6 +21,8 @@ git clone --recurse-submodules https://github.com/Autlin/Rule.git
 
 GitHub Actions 每天 `03:17 UTC`（北京时间 `11:17`）运行，也可以在 Actions 页面手动触发。转换结果只在内容变化时自动提交。
 
+源规则、转换脚本、测试或工作流发生变化时也会立即构建。自动提交只包含 `generated` 输出和上游 submodule 指针，不会因自动提交再次触发自身。
+
 本地生成与校验：
 
 ```bash
@@ -41,5 +43,9 @@ sing-box 的 source rule-set 不支持 `IP-ASN`，因此这类规则不会写入
 ## 上游声明
 
 submodule 内容来自 [Yuu518/sing-box-rules](https://github.com/Yuu518/sing-box-rules/) 及其列出的数据源，本仓库不宣称原创或重新授权。截至接入时，上游仓库没有声明许可证；使用或再分发其中规则前，请自行确认上游及原始数据源的许可条件。同步过程只推进 `rule_set` 分支的 commit 指针，不执行上游脚本或工作流。完整来源链见 [`ATTRIBUTION.md`](ATTRIBUTION.md)。
+
+## 对参考工作流的取舍
+
+本仓库借鉴了 Yuu518 工作流的定时、手动、源文件变更触发、多格式生成和按差异提交。以下部分因与本项目无关或风险较高而没有照搬：私有 R2、动态下载最新 Go、私有跨仓库 Token、强制覆盖发布分支、执行上游自定义脚本、自动删除历史运行记录。当前转换器只依赖 Python 标准库，上游规则只通过 submodule 更新。
 
 格式参考：[Mihomo rule-providers](https://wiki.metacubex.one/en/config/rule-providers/content/)、[Quantumult X 官方示例](https://github.com/crossutility/Quantumult-X/blob/master/filter.snippet)、[sing-box source rule-set](https://sing-box.sagernet.org/configuration/rule-set/source-format/)。
