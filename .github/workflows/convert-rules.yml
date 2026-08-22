@@ -8,8 +8,8 @@ on:
     branches:
       - main
     paths:
-      - "rules/source/**/*.Conf"
-      - "rules/source/**/*.list"
+      - "source/**/*.Conf"
+      - "source/**/*.list"
       - "scripts/**"
       - "tests/**"
       - ".github/workflows/convert-rules.yml"
@@ -29,9 +29,20 @@ jobs:
         with:
           submodules: true
 
+      - uses: actions/checkout@v7
+        with:
+          repository: Autlin/rules-generate
+          ref: 9f053435786429d5266be15c37b505733ab49b8f
+          path: tools/rules-generate
+
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
+
+      - uses: actions/setup-go@v7
+        with:
+          go-version-file: tools/rules-generate/go.mod
+          cache-dependency-path: tools/rules-generate/go.sum
 
       - name: Advance Yuu518 rule-set submodule
         run: python scripts/sync_upstream.py
@@ -40,7 +51,14 @@ jobs:
         run: python scripts/convert_rules.py
 
       - name: Convert upstream rule sets
-        run: python scripts/convert_upstream_rules.py
+        working-directory: tools/rules-generate
+        run: |
+          go test ./...
+          go run . convert \
+            --datapath ../../vendor/Yuu518/sing-box-rules \
+            --output ../../rules \
+            --quantumult-policy proxy \
+            --report ../../metadata/upstream-conversion.json
 
       - name: Run tests and freshness check
         run: |
@@ -49,12 +67,12 @@ jobs:
 
       - name: Commit updated outputs
         run: |
-          if [ -z "$(git status --porcelain -- rules/generated rules/upstream rules/upstream-generated)" ]; then
+          if [ -z "$(git status --porcelain -- rules metadata vendor)" ]; then
             echo "Generated and mirrored files are already current."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add rules/generated rules/upstream rules/upstream-generated
+          git add rules metadata vendor
           git commit -m "chore: sync upstream and update rules"
           git push

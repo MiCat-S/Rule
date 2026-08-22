@@ -1,0 +1,4 @@
+host,amp-api.podcasts.apple.com,proxy
+host,podcasts.apple.com,proxy
+host-suffix,applepodcasts.com,proxy
+host-suffix,podcasts.apple.com,proxy

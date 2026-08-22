@@ -14,8 +14,11 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE_ROOT = ROOT / "rules" / "source"
-GENERATED = ROOT / "rules" / "generated"
+SOURCE_ROOT = ROOT / "source"
+RULES_ROOT = ROOT / "rules"
+METADATA_ROOT = ROOT / "metadata"
+LOCAL_MANIFEST = METADATA_ROOT / "local-manifest.json"
+LOCAL_UNSUPPORTED = METADATA_ROOT / "local-unsupported.json"
 SUPPORTED_TYPES = {
     "DOMAIN",
     "DOMAIN-SUFFIX",
@@ -26,6 +29,7 @@ SUPPORTED_TYPES = {
 }
 OPTIONS = {"no-resolve", "extended-matching"}
 TEXT_TARGETS = ("surge", "loon", "shadowrocket")
+TARGETS = (*TEXT_TARGETS, "mihomo", "quantumult-x", "sing-box")
 
 
 @dataclass(frozen=True)
@@ -165,7 +169,8 @@ def render_sing_box(rules: list[Rule]) -> tuple[str, list[Rule]]:
 
 
 def output_relative(source: Path, root: Path, suffix: str) -> Path:
-    return source.relative_to(root).with_suffix(suffix)
+    relative = source.relative_to(root).with_suffix("")
+    return Path("-".join(relative.parts) + suffix)
 
 
 def write_file(path: Path, content: str) -> None:
@@ -210,7 +215,7 @@ def build(output_root: Path, root: Path = SOURCE_ROOT) -> dict[str, object]:
         manifest_sources.append({"source": relative_source, "rules": len(rules)})
 
     manifest: dict[str, object] = {
-        "targets": [*TEXT_TARGETS, "mihomo", "quantumult-x", "sing-box"],
+        "targets": list(TARGETS),
         "sources": manifest_sources,
         "unsupported_rules": len(unsupported_report),
     }
@@ -222,12 +227,42 @@ def build(output_root: Path, root: Path = SOURCE_ROOT) -> dict[str, object]:
     return manifest
 
 
-def trees_equal(left: Path, right: Path) -> bool:
-    left_files = sorted(path.relative_to(left) for path in left.rglob("*") if path.is_file())
-    right_files = sorted(path.relative_to(right) for path in right.rglob("*") if path.is_file())
-    if left_files != right_files:
-        return False
-    return all((left / path).read_bytes() == (right / path).read_bytes() for path in left_files)
+def local_outputs_current(candidate: Path) -> bool:
+    for target in TARGETS:
+        expected = candidate / target
+        actual = RULES_ROOT / target
+        expected_files = sorted(path.name for path in expected.iterdir() if path.is_file())
+        actual_files = sorted(
+            path.name
+            for path in actual.iterdir()
+            if path.is_file() and not path.name.startswith(("site-", "ip-"))
+        ) if actual.is_dir() else []
+        if expected_files != actual_files:
+            return False
+        if any((expected / name).read_bytes() != (actual / name).read_bytes() for name in expected_files):
+            return False
+    return (
+        LOCAL_MANIFEST.is_file()
+        and LOCAL_UNSUPPORTED.is_file()
+        and LOCAL_MANIFEST.read_bytes() == (candidate / "manifest.json").read_bytes()
+        and LOCAL_UNSUPPORTED.read_bytes() == (candidate / "unsupported.json").read_bytes()
+    )
+
+
+def install_local_outputs(candidate: Path) -> None:
+    for target in TARGETS:
+        destination = RULES_ROOT / target
+        destination.mkdir(parents=True, exist_ok=True)
+        for existing in destination.iterdir():
+            if existing.is_file() and not existing.name.startswith(("site-", "ip-")):
+                existing.unlink()
+        for source in (candidate / target).iterdir():
+            if not source.is_file():
+                raise ValueError(f"local output must be flat: {source}")
+            shutil.copy2(source, destination / source.name)
+    METADATA_ROOT.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(candidate / "manifest.json", LOCAL_MANIFEST)
+    shutil.copy2(candidate / "unsupported.json", LOCAL_UNSUPPORTED)
 
 
 def main() -> int:
@@ -243,7 +278,7 @@ def main() -> int:
         with tempfile.TemporaryDirectory(prefix="rule-convert-") as temporary:
             candidate = Path(temporary) / "generated"
             build(candidate)
-            if not GENERATED.exists() or not trees_equal(GENERATED, candidate):
+            if not local_outputs_current(candidate):
                 print("generated files are out of date", file=sys.stderr)
                 return 1
         print("generated files are up to date")
@@ -252,9 +287,7 @@ def main() -> int:
     with tempfile.TemporaryDirectory(prefix="rule-convert-", dir=ROOT) as temporary:
         candidate = Path(temporary) / "generated"
         manifest = build(candidate)
-        if GENERATED.exists():
-            shutil.rmtree(GENERATED)
-        shutil.copytree(candidate, GENERATED)
+        install_local_outputs(candidate)
     print(
         f"converted {len(manifest['sources'])} source files to "
         f"{len(manifest['targets'])} target formats"

@@ -1,0 +1,10 @@
+host,aqqmusic.tc.qq.com,proxy
+host,qqmusic.qq.com,proxy
+host,snowflake.qq.com,proxy
+host,v.streaming.qq.com,proxy
+host,y.gtimg.cn,proxy
+host-suffix,d3g.qq.com,proxy
+host-suffix,music.qq.com,proxy
+host-suffix,music.tc.qq.com,proxy
+host-suffix,tencentmusic.com,proxy
+host-suffix,y.qq.com,proxy

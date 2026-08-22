@@ -1,0 +1,3 @@
+host,crashlyticsreports-pa.googleapis.com,proxy
+host,firebase-settings.crashlytics.com,proxy
+host,update.crashlytics.com,proxy

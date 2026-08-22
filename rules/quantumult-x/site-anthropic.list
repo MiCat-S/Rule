@@ -1,0 +1,8 @@
+host,servd-anthropic-website.b-cdn.net,proxy
+host-suffix,anthropic.com,proxy
+host-suffix,clau.de,proxy
+host-suffix,claude-code.mintlify.app,proxy
+host-suffix,claude.ai,proxy
+host-suffix,claude.com,proxy
+host-suffix,claudemcpclient.com,proxy
+host-suffix,claudeusercontent.com,proxy

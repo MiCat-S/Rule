@@ -1,0 +1,5 @@
+host,apple-relay.apple.com,proxy
+host,apple-relay.cloudflare.com,proxy
+host,apple-relay.fastly-edge.com,proxy
+host,cp4.cloudflare.com,proxy
+host,gspe1-ssl.ls.apple.com,proxy

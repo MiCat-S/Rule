@@ -1,0 +1,4 @@
+host,android.googlesource.com,proxy
+host-suffix,android,proxy
+host-suffix,android.com,proxy
+host-suffix,androidify.com,proxy
