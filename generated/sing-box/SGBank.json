@@ -1,0 +1,44 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".dbs.com.sg",
+        ".dbs.com",
+        ".posb.com.sg",
+        ".ocbc.com",
+        ".bankofsingapore.com",
+        ".uob.com.sg",
+        ".uobgroup.com",
+        ".hsbc.com.sg",
+        ".citibank.com.sg",
+        ".maybank2u.com.sg",
+        ".maybank.com.sg",
+        ".rhbgroup.com.sg",
+        ".cimb.com.sg",
+        ".bankofchina.com",
+        ".boc.cn",
+        ".icbc.com.sg",
+        ".sg.ccb.com",
+        ".sg1.ccb.com",
+        ".ccb.com.sg",
+        ".hkbea.com",
+        ".icicibank.com.sg",
+        ".sg.statebank",
+        ".hlbank.com.sg",
+        ".hlbankconnect.com.sg",
+        ".bangkokbank.com",
+        ".boi.com.sg",
+        ".indianbank.sg",
+        ".indianbank-singapore.com",
+        ".iobsingapore.com",
+        ".ptbni.com.sg",
+        ".trustbank.sg",
+        ".gxs.com.sg",
+        ".maribank.sg",
+        ".anext.com.sg",
+        ".glbank.com"
+      ]
+    }
+  ]
+}

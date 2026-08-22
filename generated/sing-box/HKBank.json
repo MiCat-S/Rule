@@ -1,0 +1,52 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".hsbc.com.hk",
+        ".hk.hsbc.com",
+        ".hangseng.com",
+        ".bochk.com",
+        ".hkbea.com",
+        ".sc.com.hk",
+        ".sc.com",
+        ".citibank.com.hk",
+        ".dbs.com.hk",
+        ".icbcasia.com",
+        ".asia.ccb.com",
+        ".online.asia.ccb.com",
+        ".ocbc.com.hk",
+        ".ocbcwhhk.com",
+        ".dahsing.com",
+        ".cmbwinglungbank.com",
+        ".cncbinternational.com",
+        ".ncb.com.hk",
+        ".zajourney.com",
+        ".za.group",
+        ".zaticdn.com",
+        ".zafinsvc.com",
+        ".antbank.hk",
+        ".antbank.com.hk",
+        ".airstarbank.com",
+        ".elebank.com",
+        ".livi.bank",
+        ".welab.bank",
+        ".fusionbank.com",
+        ".mox.com"
+      ],
+      "domain": [
+        "mobile.eum-appdynamics.com",
+        "accdn.lpsnmedia.net",
+        "collect-ap-east-1.tealiumiq.com",
+        "yvn1g4-cdn-settings.appsflyersdk.com",
+        "yvn1g4-launches.appsflyersdk.com"
+      ],
+      "domain_keyword": [
+        "bochk",
+        "standchartbank",
+        "citibank",
+        "antbank"
+      ]
+    }
+  ]
+}

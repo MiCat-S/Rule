@@ -1,0 +1,53 @@
+{
+  "targets": [
+    "surge",
+    "loon",
+    "shadowrocket",
+    "mihomo",
+    "quantumult-x",
+    "sing-box"
+  ],
+  "sources": [
+    {
+      "source": "Apple.Ai.Conf",
+      "rules": 4
+    },
+    {
+      "source": "ApplePush.Conf",
+      "rules": 12
+    },
+    {
+      "source": "HKBank.Conf",
+      "rules": 39
+    },
+    {
+      "source": "jys/jyx.list",
+      "rules": 44
+    },
+    {
+      "source": "N26.Conf",
+      "rules": 19
+    },
+    {
+      "source": "SGBank.Conf",
+      "rules": 35
+    },
+    {
+      "source": "UKBank.Conf",
+      "rules": 27
+    },
+    {
+      "source": "USBank.Conf",
+      "rules": 117
+    },
+    {
+      "source": "WeChat.Conf",
+      "rules": 4
+    },
+    {
+      "source": "WifiCall.Conf",
+      "rules": 61
+    }
+  ],
+  "unsupported_rules": 2
+}

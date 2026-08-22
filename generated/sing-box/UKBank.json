@@ -1,0 +1,36 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".hsbc.co.uk",
+        ".uk.hsbc.com",
+        ".starlingbank.com",
+        ".ifastgb.com",
+        ".ifastcorp.com",
+        ".natwest.com",
+        ".virginmoneyukplc.com",
+        ".lloydsbank.com",
+        ".tescobank.com",
+        ".atombank.com",
+        ".investec.com",
+        ".gatehousebank.com",
+        ".securetrustbank.com",
+        ".hampdenandco.com",
+        ".pcf.bank",
+        ".barclays.co.uk",
+        ".nationwide.co.uk",
+        ".sc.co.uk",
+        ".santander.co.uk",
+        ".co-operativebank.co.uk",
+        ".metrobankonline.co.uk",
+        ".tsb.co.uk",
+        ".paragonbank.co.uk",
+        ".aldermore.co.uk",
+        ".shawbrook.co.uk",
+        ".ikano.co.uk",
+        ".chartersavingsbank.co.uk"
+      ]
+    }
+  ]
+}

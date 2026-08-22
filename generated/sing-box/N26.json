@@ -1,0 +1,32 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".n26.com",
+        ".tech26.de",
+        ".number26.de"
+      ],
+      "domain": [
+        "n26.my.site.com",
+        "n26-eu.c2nwa3.net",
+        "n26.kontenwechsel.de",
+        "m-n26.kontenwechsel.de",
+        "n26-privacy.my.onetrust.com",
+        "n26-admedia.s3.eu-central-1.amazonaws.com",
+        "mcgthfrqrs95vdbzkhtchf5fc0g4.device.marketingcloudapis.com",
+        "api.idnow.de",
+        "video.idnow.de",
+        "app.adjust.com",
+        "app.usercentrics.eu",
+        "assets.ctfassets.net",
+        "images.ctfassets.net",
+        "geolocation.onetrust.com",
+        "www.datadoghq-browser-agent.com"
+      ],
+      "ip_cidr": [
+        "213.95.145.10/32"
+      ]
+    }
+  ]
+}
