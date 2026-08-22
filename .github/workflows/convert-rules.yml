@@ -8,8 +8,8 @@ on:
     branches:
       - main
     paths:
-      - "*.Conf"
-      - "jys/**/*.list"
+      - "rules/source/**/*.Conf"
+      - "rules/source/**/*.list"
       - "scripts/**"
       - "tests/**"
       - ".github/workflows/convert-rules.yml"
@@ -39,6 +39,9 @@ jobs:
       - name: Convert rule sets
         run: python scripts/convert_rules.py
 
+      - name: Convert upstream rule sets
+        run: python scripts/convert_upstream_rules.py
+
       - name: Run tests and freshness check
         run: |
           python -m unittest discover -s tests -v
@@ -46,12 +49,12 @@ jobs:
 
       - name: Commit updated outputs
         run: |
-          if [ -z "$(git status --porcelain -- generated upstream)" ]; then
+          if [ -z "$(git status --porcelain -- rules/generated rules/upstream rules/upstream-generated)" ]; then
             echo "Generated and mirrored files are already current."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add generated upstream
+          git add rules/generated rules/upstream rules/upstream-generated
           git commit -m "chore: sync upstream and update rules"
           git push

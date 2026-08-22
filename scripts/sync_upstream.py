@@ -15,8 +15,8 @@ ROOT = Path(__file__).resolve().parents[1]
 UPSTREAM_REPOSITORY = "Yuu518/sing-box-rules"
 UPSTREAM_URL = f"https://github.com/{UPSTREAM_REPOSITORY}.git"
 UPSTREAM_BRANCH = "rule_set"
-DESTINATION = ROOT / "upstream" / "Yuu518" / "sing-box-rules"
-MANIFEST = ROOT / "upstream" / "Yuu518" / "sing-box-rules.UPSTREAM.json"
+DESTINATION = ROOT / "rules" / "upstream" / "Yuu518" / "sing-box-rules"
+MANIFEST = ROOT / "rules" / "upstream" / "Yuu518" / "sing-box-rules.UPSTREAM.json"
 RULE_DIRECTORIES = ("rule_set_ip", "rule_set_site")
 ALLOWED_SUFFIXES = {".json", ".srs"}
 

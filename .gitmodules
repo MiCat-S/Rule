@@ -1,4 +1,4 @@
-[submodule "upstream/Yuu518/sing-box-rules"]
-	path = upstream/Yuu518/sing-box-rules
+[submodule "rules/upstream/Yuu518/sing-box-rules"]
+	path = rules/upstream/Yuu518/sing-box-rules
 	url = https://github.com/Yuu518/sing-box-rules.git
 	branch = rule_set

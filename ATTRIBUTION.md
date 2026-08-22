@@ -1,6 +1,6 @@
 # Upstream attribution
 
-本仓库通过 Git submodule 引用 `Yuu518/sing-box-rules` 的生成产物，不宣称这些规则原创，也不对它们重新授权。以下来源根据该仓库当前 `master` 分支的构建工作流整理；工具的许可证不等于其输入数据自动获得相同许可。
+本仓库通过 Git submodule 引用 `Yuu518/sing-box-rules` 的生成产物，并将其中可映射字段转换为其他客户端格式；不宣称这些规则原创，也不对它们重新授权。以下来源根据该仓库当前 `master` 分支的构建工作流整理；工具的许可证不等于其输入数据自动获得相同许可。
 
 | 层级 | 项目或来源 | 用途 | 已核验的许可证或状态 |
 | --- | --- | --- | --- |
@@ -20,4 +20,4 @@
 
 关键二级来源还包括：[gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)（LGPL-2.1）、[Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) 与 MaxMind GeoLite2、[17mon/china_ip_list](https://github.com/17mon/china_ip_list)（README 声明 CC-BY-NC-SA-4.0）、[misakaio/chnroutes2](https://github.com/misakaio/chnroutes2)（LICENSE 与 README 的 CC-BY-SA 版本声明不一致）、[pexcn/daily](https://github.com/pexcn/daily)（GPL-3.0）、[bigdargon/hostsVN](https://github.com/bigdargon/hostsVN)（MIT）及未发现 LICENSE 的 [DH-Teams/DH-Geo_AS_IP_CN](https://github.com/DH-Teams/DH-Geo_AS_IP_CN)。
 
-由于来源链中包含未声明许可、许可冲突及非商业条款，本仓库只保存 submodule 指针和来源清单，不把整套上游产物作为本仓库普通文件重新发布或套用单一许可证。
+由于来源链中包含未声明许可、许可冲突及非商业条款，上游原始 JSON/SRS 只通过 submodule 引用；`rules/upstream-generated` 中的转换结果继续受各原始来源条款约束，不能被视为本仓库原创，也不套用单一许可证。

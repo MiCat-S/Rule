@@ -14,7 +14,8 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-GENERATED = ROOT / "generated"
+SOURCE_ROOT = ROOT / "rules" / "source"
+GENERATED = ROOT / "rules" / "generated"
 SUPPORTED_TYPES = {
     "DOMAIN",
     "DOMAIN-SUFFIX",
@@ -25,7 +26,6 @@ SUPPORTED_TYPES = {
 }
 OPTIONS = {"no-resolve", "extended-matching"}
 TEXT_TARGETS = ("surge", "loon", "shadowrocket")
-IGNORED_DIRS = {".git", ".github", "generated", "scripts", "tests"}
 
 
 @dataclass(frozen=True)
@@ -40,13 +40,10 @@ class Rule:
         return ",".join(parts)
 
 
-def find_sources(root: Path = ROOT) -> list[Path]:
+def find_sources(root: Path = SOURCE_ROOT) -> list[Path]:
     sources: list[Path] = []
     for path in root.rglob("*"):
         if not path.is_file() or path.suffix.lower() not in {".conf", ".list"}:
-            continue
-        relative = path.relative_to(root)
-        if any(part in IGNORED_DIRS for part in relative.parts):
             continue
         sources.append(path)
     return sorted(sources, key=lambda item: item.relative_to(root).as_posix().lower())
@@ -177,7 +174,7 @@ def write_file(path: Path, content: str) -> None:
         output.write(content)
 
 
-def build(output_root: Path, root: Path = ROOT) -> dict[str, object]:
+def build(output_root: Path, root: Path = SOURCE_ROOT) -> dict[str, object]:
     sources = find_sources(root)
     if not sources:
         raise ValueError("no .Conf or .list source files found")
