@@ -2,6 +2,25 @@
 
 一组以 Surge Rule Set 为源格式的代理分流规则。仓库每天自动生成以下客户端可直接引用的格式：
 
+## 快速跳转
+
+| 内容 | 目录或文件 |
+| --- | --- |
+| Surge | [`generated/surge`](generated/surge/) |
+| Loon | [`generated/loon`](generated/loon/) |
+| Shadowrocket | [`generated/shadowrocket`](generated/shadowrocket/) |
+| Mihomo / Clash.Meta | [`generated/mihomo`](generated/mihomo/) |
+| Quantumult X | [`generated/quantumult-x`](generated/quantumult-x/) |
+| sing-box | [`generated/sing-box`](generated/sing-box/) |
+| Yuu518 上游规则 | [`upstream/Yuu518/sing-box-rules`](upstream/Yuu518/sing-box-rules/) |
+| 转换与同步脚本 | [`scripts`](scripts/) |
+| 自动化工作流 | [`.github/workflows/convert-rules.yml`](.github/workflows/convert-rules.yml) |
+| 上游来源与许可证 | [`ATTRIBUTION.md`](ATTRIBUTION.md) |
+| 生成清单 | [`generated/manifest.json`](generated/manifest.json) |
+| 未转换规则报告 | [`generated/unsupported.json`](generated/unsupported.json) |
+
+## 支持格式
+
 - `generated/surge`：Surge Rule Set
 - `generated/loon`：Loon Rule Set
 - `generated/shadowrocket`：Shadowrocket Rule Set
