@@ -1521,6 +1521,7 @@ host-suffix,content.powerapps.com,proxy
 host-suffix,content.presspage.com,proxy
 host-suffix,content.wepik.com,proxy
 host-suffix,content001.bet365.com,proxy
+host-suffix,contentful-asset-proxy.sd.indazn.com,proxy
 host-suffix,contenthub.allstate.com,proxy
 host-suffix,contents-thumbnail2.fc2.com,proxy
 host-suffix,contents.fc2.com,proxy
@@ -1595,6 +1596,7 @@ host-suffix,dataplane.rudderstack.com,proxy
 host-suffix,datocms-assets.com,proxy
 host-suffix,daumcdn.net,proxy
 host-suffix,david-dm.org,proxy
+host-suffix,dazn-content-proxy.sd.indazn.com,proxy
 host-suffix,db.onlinewebfonts.com,proxy
 host-suffix,dc-cdn.cdw.com,proxy
 host-suffix,dc-telemetry.net,proxy
@@ -1841,6 +1843,7 @@ host-suffix,fbcdn.net,proxy
 host-suffix,fbsbx.com,proxy
 host-suffix,fdn.gsmarena.com,proxy
 host-suffix,fdn2.gsmarena.com,proxy
+host-suffix,fe.indazn.com,proxy
 host-suffix,featureassets.org,proxy
 host-suffix,featureflags.netlify.com,proxy
 host-suffix,feedercdn.com,proxy
@@ -2220,6 +2223,7 @@ host-suffix,image.civitai.com,proxy
 host-suffix,image.cnbcfm.com,proxy
 host-suffix,image.comicbz.com,proxy
 host-suffix,image.crisp.chat,proxy
+host-suffix,image.discovery.indazn.com,proxy
 host-suffix,image.dooo.ng,proxy
 host-suffix,image.email.microsoftemail.com,proxy
 host-suffix,image.freepik.com,proxy
@@ -3937,6 +3941,7 @@ host-suffix,static.cracked.sh,proxy
 host-suffix,static.crunchyroll.com,proxy
 host-suffix,static.crypto.com,proxy
 host-suffix,static.dash.cloudflare.com,proxy
+host-suffix,static.dazndn.com,proxy
 host-suffix,static.deepl.com,proxy
 host-suffix,static.domains,proxy
 host-suffix,static.doujins.com,proxy
