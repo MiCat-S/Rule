@@ -1914,6 +1914,7 @@ host-suffix,api.ai,proxy
 host-suffix,api.moomoobull.com,proxy
 host-suffix,api.news,proxy
 host-suffix,api.palworldgame.com,proxy
+host-suffix,api.shuaiapi.com,proxy
 host-suffix,apiary.io,proxy
 host-suffix,apiauto.ru,proxy
 host-suffix,apibay.org,proxy
@@ -24948,6 +24949,7 @@ host-suffix,x18r.com,proxy
 host-suffix,x3guide.com,proxy
 host-suffix,x3vid.com,proxy
 host-suffix,x6av.com,proxy
+host-suffix,x86.fr,proxy
 host-suffix,x99av.com,proxy
 host-suffix,xamarin.com,proxy
 host-suffix,xandr.com,proxy
