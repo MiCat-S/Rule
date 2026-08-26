@@ -307,7 +307,6 @@ ip-cidr,172.225.106.32/28,proxy
 ip-cidr,172.225.209.96/28,proxy
 ip-cidr,172.225.222.96/28,proxy
 ip-cidr,172.225.223.80/28,proxy
-ip-cidr,172.225.223.96/27,proxy
 ip-cidr,177.11.254.0/23,proxy
 ip-cidr,177.234.130.0/24,proxy
 ip-cidr,177.250.0.0/15,proxy

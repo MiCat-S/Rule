@@ -318,7 +318,6 @@ ip-cidr,207.2.103.0/29,proxy
 ip-cidr,207.2.103.32/29,proxy
 ip-cidr,207.2.103.40/30,proxy
 ip-cidr,207.2.103.48/30,proxy
-ip-cidr,207.2.103.62/32,proxy
 ip-cidr,207.2.103.68/30,proxy
 ip-cidr,207.2.103.84/30,proxy
 ip-cidr,207.2.103.104/30,proxy

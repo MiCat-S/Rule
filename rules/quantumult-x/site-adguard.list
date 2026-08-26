@@ -9,6 +9,7 @@ host-suffix,adguard.info,proxy
 host-suffix,adguard.io,proxy
 host-suffix,adguard.org,proxy
 host-suffix,adguardaccount.com,proxy
+host-suffix,adguardaccount.net,proxy
 host-suffix,adguardcdn.com,proxy
 host-suffix,adguardvpn.com,proxy
 host-suffix,adtidy.net,proxy

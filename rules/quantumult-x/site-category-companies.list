@@ -1207,6 +1207,7 @@ host-suffix,antiphishing.ru,proxy
 host-suffix,anydesk.com,proxy
 host-suffix,aodahl.com,proxy
 host-suffix,aokwholesale.net,proxy
+host-suffix,aolcdn.com,proxy
 host-suffix,aorus.com,proxy
 host-suffix,aoruszone.cn,proxy
 host-suffix,ap0le.com,proxy
@@ -6275,6 +6276,7 @@ host-suffix,ospray.net,proxy
 host-suffix,ospray.org,proxy
 host-suffix,ospserver.net,proxy
 host-suffix,ouroath.com,proxy
+host-suffix,ouryahoo.com,proxy
 host-suffix,out-app-purchase.com,proxy
 host-suffix,outingsapp.com,proxy
 host-suffix,outletbeatsshop.com,proxy
@@ -7904,6 +7906,7 @@ host-suffix,yahooapis.com,proxy
 host-suffix,yahoodns.net,proxy
 host-suffix,yahoofinance.com,proxy
 host-suffix,yahoohealth.com,proxy
+host-suffix,yahooinc.com,proxy
 host-suffix,yahoomusic.com,proxy
 host-suffix,yahoosandbox.com,proxy
 host-suffix,yahoosportsbook.com,proxy

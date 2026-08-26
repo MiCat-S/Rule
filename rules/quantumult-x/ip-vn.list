@@ -98,7 +98,10 @@ ip-cidr,36.50.236.0/23,proxy
 ip-cidr,37.202.219.0/24,proxy
 ip-cidr,38.54.14.0/23,proxy
 ip-cidr,38.54.30.0/23,proxy
+ip-cidr,38.54.90.0/23,proxy
 ip-cidr,38.54.115.0/24,proxy
+ip-cidr,38.60.219.0/24,proxy
+ip-cidr,38.60.225.0/24,proxy
 ip-cidr,38.60.228.0/23,proxy
 ip-cidr,38.60.230.0/24,proxy
 ip-cidr,38.60.252.0/23,proxy
@@ -233,7 +236,8 @@ ip-cidr,72.37.140.0/24,proxy
 ip-cidr,72.37.146.0/24,proxy
 ip-cidr,72.57.186.0/23,proxy
 ip-cidr,72.57.188.0/22,proxy
-ip-cidr,72.57.192.0/22,proxy
+ip-cidr,72.57.192.0/24,proxy
+ip-cidr,72.57.195.0/24,proxy
 ip-cidr,75.125.89.0/24,proxy
 ip-cidr,75.125.220.128/25,proxy
 ip-cidr,79.108.216.0/21,proxy
@@ -1436,6 +1440,8 @@ ip-cidr,149.87.169.0/24,proxy
 ip-cidr,149.104.80.0/23,proxy
 ip-cidr,149.104.83.0/24,proxy
 ip-cidr,149.104.101.0/24,proxy
+ip-cidr,149.104.123.0/24,proxy
+ip-cidr,149.104.125.0/24,proxy
 ip-cidr,150.95.16.0/22,proxy
 ip-cidr,150.95.104.0/21,proxy
 ip-cidr,150.95.112.0/20,proxy
@@ -1483,9 +1489,13 @@ ip-cidr,154.82.174.0/23,proxy
 ip-cidr,154.83.10.0/24,proxy
 ip-cidr,154.92.212.0/23,proxy
 ip-cidr,154.92.214.0/24,proxy
+ip-cidr,154.93.48.0/24,proxy
 ip-cidr,154.93.72.0/24,proxy
 ip-cidr,154.93.96.0/23,proxy
 ip-cidr,154.93.98.0/24,proxy
+ip-cidr,154.93.103.0/24,proxy
+ip-cidr,154.93.106.0/24,proxy
+ip-cidr,154.93.126.0/24,proxy
 ip-cidr,154.94.68.0/22,proxy
 ip-cidr,154.94.127.0/24,proxy
 ip-cidr,154.193.99.0/24,proxy
@@ -1798,6 +1808,8 @@ ip-cidr,163.44.200.0/24,proxy
 ip-cidr,163.44.204.0/22,proxy
 ip-cidr,163.47.30.0/23,proxy
 ip-cidr,163.47.177.0/24,proxy
+ip-cidr,163.52.6.0/23,proxy
+ip-cidr,163.52.14.0/23,proxy
 ip-cidr,163.61.68.0/22,proxy
 ip-cidr,163.61.72.0/22,proxy
 ip-cidr,163.61.108.0/22,proxy
@@ -2983,6 +2995,8 @@ ip6-cidr,2001:df7:5340::/48,proxy
 ip6-cidr,2001:df7:53c0::/48,proxy
 ip6-cidr,2001:df7:56c0::/48,proxy
 ip6-cidr,2001:df7:5740::/48,proxy
+ip6-cidr,2001:df7:65c0::/48,proxy
+ip6-cidr,2001:df7:6640::/48,proxy
 ip6-cidr,2001:df7:7300::/48,proxy
 ip6-cidr,2001:df7:7e80::/48,proxy
 ip6-cidr,2001:df7:a900::/48,proxy

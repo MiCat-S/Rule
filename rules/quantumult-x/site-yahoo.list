@@ -1,5 +1,6 @@
 host,cdn.js7k.com,proxy
 host-suffix,ads.yahoo.com,proxy
+host-suffix,aolcdn.com,proxy
 host-suffix,flic.kr,proxy
 host-suffix,flickr,proxy
 host-suffix,flickr.com,proxy
@@ -7,6 +8,7 @@ host-suffix,flickr.net,proxy
 host-suffix,gemini.yahoo.com,proxy
 host-suffix,maktoob.com,proxy
 host-suffix,myguide.hk,proxy
+host-suffix,ouryahoo.com,proxy
 host-suffix,staticflickr.com,proxy
 host-suffix,techcrunch.com,proxy
 host-suffix,yahoo,proxy
@@ -164,6 +166,7 @@ host-suffix,yahooapis.com,proxy
 host-suffix,yahoodns.net,proxy
 host-suffix,yahoofinance.com,proxy
 host-suffix,yahoohealth.com,proxy
+host-suffix,yahooinc.com,proxy
 host-suffix,yahoomusic.com,proxy
 host-suffix,yahoosandbox.com,proxy
 host-suffix,yahoosportsbook.com,proxy

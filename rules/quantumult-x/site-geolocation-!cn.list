@@ -866,6 +866,7 @@ host-suffix,adguard.info,proxy
 host-suffix,adguard.io,proxy
 host-suffix,adguard.org,proxy
 host-suffix,adguardaccount.com,proxy
+host-suffix,adguardaccount.net,proxy
 host-suffix,adguardcdn.com,proxy
 host-suffix,adguardvpn.com,proxy
 host-suffix,adhelpnews.com,proxy
@@ -1894,6 +1895,7 @@ host-suffix,aoc.cat,proxy
 host-suffix,aodahl.com,proxy
 host-suffix,aofriend.com,proxy
 host-suffix,aokwholesale.net,proxy
+host-suffix,aolcdn.com,proxy
 host-suffix,aomedia.org,proxy
 host-suffix,aomiwang.com,proxy
 host-suffix,aorus.com,proxy
@@ -17574,6 +17576,7 @@ host-suffix,ourshdtv.com,proxy
 host-suffix,ourshemales.com,proxy
 host-suffix,oursteps.com.au,proxy
 host-suffix,ourtv.hk,proxy
+host-suffix,ouryahoo.com,proxy
 host-suffix,out-app-purchase.com,proxy
 host-suffix,outbound.io,proxy
 host-suffix,outdoorpublicsex.com,proxy
@@ -25694,6 +25697,7 @@ host-suffix,yahooapis.com,proxy
 host-suffix,yahoodns.net,proxy
 host-suffix,yahoofinance.com,proxy
 host-suffix,yahoohealth.com,proxy
+host-suffix,yahooinc.com,proxy
 host-suffix,yahoomusic.com,proxy
 host-suffix,yahoosandbox.com,proxy
 host-suffix,yahoosportsbook.com,proxy
