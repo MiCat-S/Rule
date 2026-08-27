@@ -281,6 +281,7 @@ payload:
     - DOMAIN-SUFFIX,googlevideo.com
     - DOMAIN-SUFFIX,gorin.jp
     - DOMAIN-SUFFIX,gyao.yahoo.co.jp
+    - DOMAIN-SUFFIX,h264.io
     - DOMAIN-SUFFIX,hamivideo.hinet.net
     - DOMAIN-SUFFIX,hayabusa.dev
     - DOMAIN-SUFFIX,hayabusa.io

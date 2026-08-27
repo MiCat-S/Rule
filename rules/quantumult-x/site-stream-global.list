@@ -280,6 +280,7 @@ host-suffix,go.com,proxy
 host-suffix,googlevideo.com,proxy
 host-suffix,gorin.jp,proxy
 host-suffix,gyao.yahoo.co.jp,proxy
+host-suffix,h264.io,proxy
 host-suffix,hamivideo.hinet.net,proxy
 host-suffix,hayabusa.dev,proxy
 host-suffix,hayabusa.io,proxy
