@@ -1457,7 +1457,6 @@ host-suffix,cms.typenetwork.com,proxy
 host-suffix,cms.worldpokerdeals.com,proxy
 host-suffix,cmtycdn.powerpages.microsoft.com,proxy
 host-suffix,cn-smp-paymentservices.apple.com,proxy
-host-suffix,cn.windowssearch.com,proxy
 host-suffix,cnbetacdn.com,proxy
 host-suffix,code.benco.io,proxy
 host-suffix,code.buywithprime.amazon.com,proxy
@@ -3458,6 +3457,7 @@ host-suffix,reasoningtheory.net,proxy
 host-suffix,rebound.postmarkapp.com,proxy
 host-suffix,rechargecdn.com,proxy
 host-suffix,recharts.org,proxy
+host-suffix,reconvert-cdn.com,proxy
 host-suffix,redcdn.net,proxy
 host-suffix,redd.it,proxy
 host-suffix,redditmedia.com,proxy

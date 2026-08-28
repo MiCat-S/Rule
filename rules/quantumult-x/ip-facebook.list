@@ -97,8 +97,7 @@ ip6-cidr,2a03:2887:ff2e::/47,proxy
 ip6-cidr,2a03:2887:ff30::/48,proxy
 ip6-cidr,2a03:2887:ff33::/48,proxy
 ip6-cidr,2a03:2887:ff37::/48,proxy
-ip6-cidr,2a03:2887:ff38::/48,proxy
-ip6-cidr,2a03:2887:ff3a::/47,proxy
+ip6-cidr,2a03:2887:ff38::/46,proxy
 ip6-cidr,2a03:2887:ff3e::/47,proxy
 ip6-cidr,2a03:2887:ff40::/46,proxy
 ip6-cidr,2a03:2887:ff44::/47,proxy
