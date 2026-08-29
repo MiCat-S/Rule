@@ -31,7 +31,7 @@ jobs:
 
       - uses: actions/checkout@v7
         with:
-          repository: Autlin/rules-generate
+          repository: MiCat-S/rules-generate
           ref: 9f053435786429d5266be15c37b505733ab49b8f
           path: tools/rules-generate
 

@@ -14,7 +14,7 @@
 | 直接 | [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) | 广告域名 | [GPL-3.0](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE) |
 | 直接 | [SukkaW/Surge](https://github.com/SukkaW/Surge) | CDN 与下载域名 | [AGPL-3.0](https://github.com/SukkaW/Surge/blob/master/LICENSE) |
 | 工具 | [cokebar/gfwlist2dnsmasq](https://github.com/cokebar/gfwlist2dnsmasq) | 转换 GFWList | [GPL-3.0](https://github.com/cokebar/gfwlist2dnsmasq/blob/master/LICENSE) |
-| 工具 | [Yuu518/rules-generate](https://github.com/Yuu518/rules-generate) / [Autlin/rules-generate](https://github.com/Autlin/rules-generate) | 原转换器及经作者允许修改的六端扁平输出版本 | [AGPL-3.0](https://github.com/Autlin/rules-generate/blob/main/LICENSE)，保留原许可及修改声明 |
+| 工具 | [Yuu518/rules-generate](https://github.com/Yuu518/rules-generate) / [MiCat-S/rules-generate](https://github.com/MiCat-S/rules-generate) | 原转换器及经作者允许修改的六端扁平输出版本 | [AGPL-3.0](https://github.com/MiCat-S/rules-generate/blob/master/LICENSE)，保留原许可及修改声明 |
 | 架构参考 | [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) | Yuu README 所述用法及相近构建路线 | [GPL-3.0](https://github.com/Loyalsoldier/v2ray-rules-dat/blob/master/LICENSE) |
 | 私有/自定义 | Yuu `src`、私有 Cloudflare R2、独立静态 URL | 自定义增删、CN 基础表及额外分类 | 无法公开核验许可或完整来源 |
 

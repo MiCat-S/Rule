@@ -32,7 +32,7 @@ rules/
 前缀只用于区分规则类型和避免同名覆盖，不代表产物被分成不同来源目录。可直接使用 Raw 地址订阅，例如：
 
 ```text
-https://raw.githubusercontent.com/Autlin/Rule/main/rules/surge/site-google.list
+https://raw.githubusercontent.com/MiCat-S/Rule/main/rules/surge/site-google.list
 ```
 
 ## 自动同步和转换
@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/Autlin/Rule/main/rules/surge/site-google.list
 
 1. 推进 [Yuu518/sing-box-rules](https://github.com/Yuu518/sing-box-rules/) 的 `rule_set` submodule 指针；
 2. 转换 [`source`](source/) 中的本地 Surge 风格规则；
-3. 使用修改后的 [Autlin/rules-generate](https://github.com/Autlin/rules-generate/) 转换全部上游 JSON/SRS；
+3. 使用修改后的 [MiCat-S/rules-generate](https://github.com/MiCat-S/rules-generate/) 转换全部上游 JSON/SRS；
 4. 运行测试和新鲜度检查，仅在内容变化时提交 `rules/`、`metadata/` 和 submodule 指针。
 
 构建输入和报告放在 `rules/` 外，避免污染客户端目录：
@@ -57,12 +57,12 @@ https://raw.githubusercontent.com/Autlin/Rule/main/rules/surge/site-google.list
 包含上游规则的完整克隆方式：
 
 ```bash
-git clone --recurse-submodules https://github.com/Autlin/Rule.git
+git clone --recurse-submodules https://github.com/MiCat-S/Rule.git
 ```
 
 ## 转换说明
 
-上游转换器来自作者允许修改的 [Yuu518/rules-generate](https://github.com/Yuu518/rules-generate/)，本仓库使用的修改版发布在 [Autlin/rules-generate](https://github.com/Autlin/rules-generate/)，并保留原 AGPL-3.0 许可证和修改说明。
+上游转换器来自作者允许修改的 [Yuu518/rules-generate](https://github.com/Yuu518/rules-generate/)，本仓库使用的修改版发布在 [MiCat-S/rules-generate](https://github.com/MiCat-S/rules-generate/)，并保留原 AGPL-3.0 许可证和修改说明。
 
 - Surge、Loon 和 Shadowrocket 产物不写入策略，由客户端引用配置决定。
 - Mihomo 文件使用 `behavior: classical` 和 `format: yaml`。
@@ -82,7 +82,7 @@ python3 -m unittest discover -s tests -v
 python3 scripts/convert_rules.py --check
 ```
 
-上游转换由 Action 临时检出 `Autlin/rules-generate` 后执行，固定到已验证的 commit，避免上游工具变化导致未经检查的输出。
+上游转换由 Action 临时检出 `MiCat-S/rules-generate` 后执行，固定到已验证的 commit，避免上游工具变化导致未经检查的输出。
 
 ## 上游声明
 
