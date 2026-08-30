@@ -63,6 +63,7 @@ payload:
     - DOMAIN-SUFFIX,artifacts.electronjs.org
     - DOMAIN-SUFFIX,artifacts.nixos.org
     - DOMAIN-SUFFIX,artifacts.ui.com
+    - DOMAIN-SUFFIX,assets-tcpviewer.proxyman.com
     - DOMAIN-SUFFIX,assets.dataflare.app
     - DOMAIN-SUFFIX,assets1.xboxlive.com
     - DOMAIN-SUFFIX,assets2.xboxlive.com

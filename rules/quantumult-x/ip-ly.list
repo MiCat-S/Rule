@@ -155,6 +155,7 @@ ip6-cidr,2001:470:74b6::/48,proxy
 ip6-cidr,2001:470:ecae::/48,proxy
 ip6-cidr,2001:43f8:50::/48,proxy
 ip6-cidr,2001:43f8:16b0::/48,proxy
+ip6-cidr,2401:3620:231:8e::/64,proxy
 ip6-cidr,2605:59c0:9100::/40,proxy
 ip6-cidr,2606:54c0:47f8::/45,proxy
 ip6-cidr,2606:54c3:0:8cf::/64,proxy
@@ -199,6 +200,7 @@ ip6-cidr,2a0a:6044:6a6a::/48,proxy
 ip6-cidr,2a0b:4e07:3:4340::/60,proxy
 ip6-cidr,2a0d:3341:e400::/40,proxy
 ip6-cidr,2a10:9007:2:e::/64,proxy
+ip6-cidr,2a13:241:2f00::/40,proxy
 ip6-cidr,2a14:67c2:8fc::/48,proxy
 ip6-cidr,2c0f:9c0::/32,proxy
 ip6-cidr,2c0f:a40::/32,proxy

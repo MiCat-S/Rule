@@ -1608,6 +1608,7 @@ host-suffix,dditscdn.com,proxy
 host-suffix,ddpic.info,proxy
 host-suffix,dejavu.apple.com,proxy
 host-suffix,delegated-ipfs.dev,proxy
+host-suffix,delivery.twentythree.com,proxy
 host-suffix,dellcdn.com,proxy
 host-suffix,demo.unified-streaming.com,proxy
 host-suffix,demotiles.maplibre.org,proxy
@@ -1858,6 +1859,7 @@ host-suffix,file1.hkepc.net,proxy
 host-suffix,filecunhua.top,proxy
 host-suffix,files.armorgames.com,proxy
 host-suffix,files.bbci.co.uk,proxy
+host-suffix,files.blocktempo.ai,proxy
 host-suffix,files.buildwithfern.com,proxy
 host-suffix,files.gempages.net,proxy
 host-suffix,files.gitbook.io,proxy
@@ -1970,6 +1972,7 @@ host-suffix,gateway.scarf.sh,proxy
 host-suffix,gateway.serph.network,proxy
 host-suffix,gauthstatic.com,proxy
 host-suffix,gayzyimage.com,proxy
+host-suffix,gazzettaobjects.it,proxy
 host-suffix,gcr.si,proxy
 host-suffix,gdb.rferl.org,proxy
 host-suffix,gdb.voanews.com,proxy
@@ -2219,6 +2222,7 @@ host-suffix,image-stgus.samsung.com,proxy
 host-suffix,image-us.samsung.com,proxy
 host-suffix,image.acg.lol,proxy
 host-suffix,image.ap-mail.org,proxy
+host-suffix,image.blocktempo.com,proxy
 host-suffix,image.civitai.com,proxy
 host-suffix,image.cnbcfm.com,proxy
 host-suffix,image.comicbz.com,proxy
@@ -3447,6 +3451,7 @@ host-suffix,raxcdn.com,proxy
 host-suffix,raygun.io,proxy
 host-suffix,rbds-static.redbull.com,proxy
 host-suffix,rbxcdn.com,proxy
+host-suffix,rcsobjects.it,proxy
 host-suffix,rdr.windy.com,proxy
 host-suffix,rdtcdn.com,proxy
 host-suffix,react.dev,proxy
@@ -4163,6 +4168,7 @@ host-suffix,static1.smartbear.co,proxy
 host-suffix,static1.squarespace.com,proxy
 host-suffix,static10.lottiefiles.com,proxy
 host-suffix,static2.avg.com,proxy
+host-suffix,static2.giroditalia.it,proxy
 host-suffix,static2.lottiefiles.com,proxy
 host-suffix,static2.onlyfans.com,proxy
 host-suffix,static2.sharepointonline.com,proxy
@@ -4589,6 +4595,7 @@ host-suffix,video-meta.humix.com,proxy
 host-suffix,video.bsky.app,proxy
 host-suffix,video.cdnbye.com,proxy
 host-suffix,video.dailymail.co.uk,proxy
+host-suffix,video.giroditalia.it,proxy
 host-suffix,video.missav.com,proxy
 host-suffix,video1.7mmtv.sx,proxy
 host-suffix,video2.7mmtv.sx,proxy
