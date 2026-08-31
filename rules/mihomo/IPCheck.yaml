@@ -47,6 +47,8 @@ payload:
   - 'DOMAIN-SUFFIX,iphey.com'
   - 'DOMAIN,stun.miwifi.com'
   - 'IP-CIDR,39.107.142.158/32,no-resolve'
+  - 'IP-CIDR,111.206.174.2/32,no-resolve'
+  - 'IP-CIDR,111.206.174.3/32,no-resolve'
   - 'DOMAIN,stun.l.google.com'
   - 'DOMAIN,stun1.l.google.com'
   - 'DOMAIN,stun2.l.google.com'
