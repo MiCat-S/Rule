@@ -21,6 +21,10 @@
       "rules": 39
     },
     {
+      "source": "IPCheck.list",
+      "rules": 59
+    },
+    {
       "source": "jys/jyx.list",
       "rules": 44
     },
