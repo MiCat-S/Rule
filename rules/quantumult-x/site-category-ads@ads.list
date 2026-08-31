@@ -303,6 +303,12 @@ host-suffix,analytics.tiktok.com,proxy
 host-suffix,analytics.vk.com,proxy
 host-suffix,analytics.vpc.duolingo.com,proxy
 host-suffix,api-adservices.apple.com,proxy
+host-suffix,api-secure.amplitude.com,proxy
+host-suffix,api-secure.eu.amplitude.com,proxy
+host-suffix,api-sr.amplitude.com,proxy
+host-suffix,api-sr.eu.amplitude.com,proxy
+host-suffix,api.amplitude.com,proxy
+host-suffix,api.eu.amplitude.com,proxy
 host-suffix,api2.amplitude.com,proxy
 host-suffix,app-analytics-services-att.com,proxy
 host-suffix,app-analytics-services.com,proxy
@@ -317,6 +323,8 @@ host-suffix,apptracer.ru,proxy
 host-suffix,ar.umeng.com,proxy
 host-suffix,ark.letv.com,proxy
 host-suffix,aspect-upush.umeng.com,proxy
+host-suffix,assistant-api.amplitude.com,proxy
+host-suffix,assistant-api.eu.amplitude.com,proxy
 host-suffix,assp.sohu.com,proxy
 host-suffix,atanx.alicdn.com,proxy
 host-suffix,atanx2.alicdn.com,proxy
@@ -348,6 +356,8 @@ host-suffix,c.uaa.iqiyi.com,proxy
 host-suffix,cb.baidu.com,proxy
 host-suffix,cbjs.baidu.com,proxy
 host-suffix,ccs.umeng.com,proxy
+host-suffix,cdn.amplitude.com,proxy
+host-suffix,cdn.eu.amplitude.com,proxy
 host-suffix,cdp.cloud.unity3d.com,proxy
 host-suffix,clarity.ms,proxy
 host-suffix,clck.yandex.ru,proxy
@@ -406,6 +416,8 @@ host-suffix,ecmc.bdimg.com,proxy
 host-suffix,eduad.baidu.com,proxy
 host-suffix,eiv.baidu.com,proxy
 host-suffix,ems.youku.com,proxy
+host-suffix,engagement-static.amplitude.com,proxy
+host-suffix,engagement-static.eu.amplitude.com,proxy
 host-suffix,euads-o.api.leiniao.com,proxy
 host-suffix,extlog.snssdk.com,proxy
 host-suffix,facebookads.com,proxy
@@ -450,6 +462,8 @@ host-suffix,graph-fallback.instagram.com,proxy
 host-suffix,graph.instagram.com,proxy
 host-suffix,graph.whatsapp.com,proxy
 host-suffix,graph.whatsapp.net,proxy
+host-suffix,gs.amplitude.com,proxy
+host-suffix,gs.eu.amplitude.com,proxy
 host-suffix,guanggaoad.youku.com,proxy
 host-suffix,h-adashx.ut.ele.me,proxy
 host-suffix,h-adashx.ut.taobao.com,proxy
@@ -487,6 +501,8 @@ host-suffix,ja1.gamersky.com,proxy
 host-suffix,ja2.gamersky.com,proxy
 host-suffix,jzt.jd.com,proxy
 host-suffix,kurogames-ads.com,proxy
+host-suffix,lab.amplitude.com,proxy
+host-suffix,lab.eu.amplitude.com,proxy
 host-suffix,ladsp.com,proxy
 host-suffix,lianmeng.360.cn,proxy
 host-suffix,log-upload-os.hoyoverse.com,proxy
@@ -603,6 +619,8 @@ host-suffix,qqdata.ab.qq.com,proxy
 host-suffix,qwapi.com,proxy
 host-suffix,r.mail.ru,proxy
 host-suffix,radar.imgsmail.ru,proxy
+host-suffix,regionconfig.amplitude.com,proxy
+host-suffix,regionconfig.eu.amplitude.com,proxy
 host-suffix,reke.at.sohu.com,proxy
 host-suffix,relap.mail.ru,proxy
 host-suffix,report.qqweb.qq.com,proxy
@@ -638,6 +656,8 @@ host-suffix,socdm.com,proxy
 host-suffix,spcode.baidu.com,proxy
 host-suffix,splash-ads.cdn.unity.cn,proxy
 host-suffix,splash-ads.unitychina.cn,proxy
+host-suffix,sr-client-cfg.amplitude.com,proxy
+host-suffix,sr-client-cfg.eu.amplitude.com,proxy
 host-suffix,stat.m.jd.com,proxy
 host-suffix,stat.y.qq.com,proxy
 host-suffix,stat.youku.com,proxy

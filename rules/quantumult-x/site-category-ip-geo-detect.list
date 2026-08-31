@@ -16,6 +16,8 @@ host-suffix,abstractapi.com,proxy
 host-suffix,addr.tools,proxy
 host-suffix,apiip.net,proxy
 host-suffix,apivoid.com,proxy
+host-suffix,bgp.he.net,proxy
+host-suffix,bgp.tools,proxy
 host-suffix,bigdatacloud.net,proxy
 host-suffix,browserleaks.com,proxy
 host-suffix,check-host.net,proxy

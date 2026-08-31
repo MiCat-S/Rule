@@ -785,6 +785,7 @@ host-suffix,cdn.camweara.com,proxy
 host-suffix,cdn.candid.org,proxy
 host-suffix,cdn.candu.ai,proxy
 host-suffix,cdn.candy.ai,proxy
+host-suffix,cdn.candycode.com,proxy
 host-suffix,cdn.casestudies.svc.ui.com,proxy
 host-suffix,cdn.casetify.com,proxy
 host-suffix,cdn.catch.dmm.co.jp,proxy
@@ -1268,6 +1269,8 @@ host-suffix,cdn2.stamped.io,proxy
 host-suffix,cdn2.suno.ai,proxy
 host-suffix,cdn2.sysgears.com,proxy
 host-suffix,cdn2.techbang.com,proxy
+host-suffix,cdn2.telegram.space,proxy
+host-suffix,cdn2.telesco.pe,proxy
 host-suffix,cdn2.ttloli.com,proxy
 host-suffix,cdn2.tubeteen18.com,proxy
 host-suffix,cdn2.turboviplay.cc,proxy
@@ -1282,6 +1285,8 @@ host-suffix,cdn3.iconfinder.com,proxy
 host-suffix,cdn3.onlyfans.com,proxy
 host-suffix,cdn3.stamped.io,proxy
 host-suffix,cdn3.sysgears.com,proxy
+host-suffix,cdn3.telegram.space,proxy
+host-suffix,cdn3.telesco.pe,proxy
 host-suffix,cdn3.tubeteen18.com,proxy
 host-suffix,cdn3.unrealengine.com,proxy
 host-suffix,cdn4.apple-mapkit.com,proxy
@@ -4688,6 +4693,7 @@ host-suffix,website-cdn.ipinfo.io,proxy
 host-suffix,website-files.com,proxy
 host-suffix,website-media.deel.com,proxy
 host-suffix,website-prod.cache.wpscdn.com,proxy
+host-suffix,websiteres.nmteam.xyz,proxy
 host-suffix,webstatic.chargebee.com,proxy
 host-suffix,widen.net,proxy
 host-suffix,widencdn.net,proxy
