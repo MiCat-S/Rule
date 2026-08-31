@@ -44,6 +44,8 @@ host-suffix,whoer.net,proxy
 host-suffix,browserscan.net,proxy
 host-suffix,pixelscan.net,proxy
 host-suffix,iphey.com,proxy
+host,stun.miwifi.com,proxy
+ip-cidr,39.107.142.158/32,proxy,no-resolve
 host,stun.l.google.com,proxy
 host,stun1.l.google.com,proxy
 host,stun2.l.google.com,proxy

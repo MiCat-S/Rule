@@ -50,6 +50,8 @@ DOMAIN-SUFFIX,pixelscan.net
 DOMAIN-SUFFIX,iphey.com
 
 # Public STUN services
+DOMAIN,stun.miwifi.com
+IP-CIDR,39.107.142.158/32,no-resolve
 DOMAIN,stun.l.google.com
 DOMAIN,stun1.l.google.com
 DOMAIN,stun2.l.google.com

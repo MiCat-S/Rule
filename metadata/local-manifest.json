@@ -22,7 +22,7 @@
     },
     {
       "source": "IPCheck.list",
-      "rules": 59
+      "rules": 61
     },
     {
       "source": "jys/jyx.list",

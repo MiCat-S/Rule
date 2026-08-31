@@ -50,6 +50,7 @@
         "cloudflare.com",
         "speed.cloudflare.com",
         "one.one.one.one",
+        "stun.miwifi.com",
         "stun.l.google.com",
         "stun1.l.google.com",
         "stun2.l.google.com",
@@ -64,6 +65,9 @@
         "stun.freeswitch.org",
         "stun.linphone.org",
         "stun.telnyx.com"
+      ],
+      "ip_cidr": [
+        "39.107.142.158/32"
       ]
     }
   ]
