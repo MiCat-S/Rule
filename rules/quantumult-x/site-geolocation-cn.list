@@ -188,6 +188,7 @@ host-suffix,360panyun.cn,proxy
 host-suffix,360pay.cn,proxy
 host-suffix,360qhcdn.com,proxy
 host-suffix,360safe.com,proxy
+host-suffix,360scdn.com,proxy
 host-suffix,360shouji.com,proxy
 host-suffix,360sjyh.cn,proxy
 host-suffix,360so.com,proxy
@@ -1399,6 +1400,7 @@ host-suffix,dedecms.com,proxy
 host-suffix,deepepg.com,proxy
 host-suffix,deepinos.org,proxy
 host-suffix,deepseek.com,proxy
+host-suffix,deepseeksvc.com,proxy
 host-suffix,dengguobi.com,proxy
 host-suffix,deppon.com,proxy
 host-suffix,deppon.com.cn,proxy
@@ -4187,6 +4189,7 @@ host-suffix,tcl.com.cn,proxy
 host-suffix,tclai.top,proxy
 host-suffix,tcltech.com,proxy
 host-suffix,tcp5.com,proxy
+host-suffix,tctpwebankcdn.net,proxy
 host-suffix,tcwqqdy.guru,proxy
 host-suffix,te5.com,proxy
 host-suffix,teachblog.net,proxy
@@ -4550,6 +4553,7 @@ host-suffix,warsaga.cn,proxy
 host-suffix,wasu.cn,proxy
 host-suffix,wasu.tv,proxy
 host-suffix,wasumedia.cn,proxy
+host-suffix,wbweilicai.com,proxy
 host-suffix,wcbygame.com,proxy
 host-suffix,wch-ic.com,proxy
 host-suffix,wch.cn,proxy
@@ -4650,6 +4654,7 @@ host-suffix,wonnder.com,proxy
 host-suffix,woodo.cn,proxy
 host-suffix,wooyun.org,proxy
 host-suffix,woozooo.com,proxy
+host-suffix,workbuddy.cn,proxy
 host-suffix,workercn.cn,proxy
 host-suffix,worktile.com,proxy
 host-suffix,worldofship.cn,proxy

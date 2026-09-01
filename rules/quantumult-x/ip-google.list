@@ -86,8 +86,7 @@ ip-cidr,50.115.218.0/23,proxy
 ip-cidr,50.115.222.0/23,proxy
 ip-cidr,50.151.212.0/23,proxy
 ip-cidr,50.151.215.0/24,proxy
-ip-cidr,50.151.216.0/23,proxy
-ip-cidr,50.151.218.0/24,proxy
+ip-cidr,50.151.216.0/22,proxy
 ip-cidr,50.151.220.0/23,proxy
 ip-cidr,50.151.223.0/24,proxy
 ip-cidr,50.152.230.0/24,proxy
@@ -303,7 +302,7 @@ ip-cidr,136.22.101.0/24,proxy
 ip-cidr,136.22.102.0/23,proxy
 ip-cidr,136.22.105.0/24,proxy
 ip-cidr,136.22.106.0/23,proxy
-ip-cidr,136.22.110.0/23,proxy
+ip-cidr,136.22.111.0/24,proxy
 ip-cidr,136.22.115.0/24,proxy
 ip-cidr,136.22.122.0/23,proxy
 ip-cidr,136.22.128.0/23,proxy
@@ -2833,6 +2832,7 @@ ip-cidr,185.117.60.0/24,proxy
 ip-cidr,185.117.62.0/24,proxy
 ip-cidr,185.124.96.0/23,proxy
 ip-cidr,185.124.99.0/24,proxy
+ip-cidr,185.127.202.0/24,proxy
 ip-cidr,185.142.144.0/23,proxy
 ip-cidr,185.142.146.0/24,proxy
 ip-cidr,185.145.247.0/24,proxy
@@ -3081,7 +3081,7 @@ ip6-cidr,2604:a940:300::/47,proxy
 ip6-cidr,2604:a940:302::/48,proxy
 ip6-cidr,2604:b040:13::/48,proxy
 ip6-cidr,2604:ca00:f::/48,proxy
-ip6-cidr,2604:ca00:100::/42,proxy
+ip6-cidr,2604:ca00:120::/43,proxy
 ip6-cidr,2604:ca00:180::/43,proxy
 ip6-cidr,2604:ca00:1c0::/46,proxy
 ip6-cidr,2604:ca00:1c4::/47,proxy
@@ -3089,7 +3089,7 @@ ip6-cidr,2604:ca00:1c8::/45,proxy
 ip6-cidr,2604:ca00:1d0::/46,proxy
 ip6-cidr,2604:ca00:1d4::/47,proxy
 ip6-cidr,2604:ca00:1d8::/45,proxy
-ip6-cidr,2604:ca00:21e::/47,proxy
+ip6-cidr,2604:ca00:21f::/48,proxy
 ip6-cidr,2604:ca00:224::/48,proxy
 ip6-cidr,2604:ca00:1000::/48,proxy
 ip6-cidr,2604:ca00:1140::/43,proxy
@@ -3102,11 +3102,11 @@ ip6-cidr,2604:ca00:f016::/47,proxy
 ip6-cidr,2604:ca00:f018::/48,proxy
 ip6-cidr,2604:ca00:f01a::/47,proxy
 ip6-cidr,2604:ca00:f01e::/47,proxy
-ip6-cidr,2604:ca00:f020::/48,proxy
 ip6-cidr,2604:ca00:f024::/47,proxy
 ip6-cidr,2604:ca00:f027::/48,proxy
 ip6-cidr,2604:ca00:f029::/48,proxy
 ip6-cidr,2604:ca00:f032::/47,proxy
+ip6-cidr,2605:3e40::/48,proxy
 ip6-cidr,2605:a600::/32,proxy
 ip6-cidr,2605:a601::/36,proxy
 ip6-cidr,2605:a601:1000::/39,proxy
@@ -8074,10 +8074,10 @@ ip6-cidr,2a00:1588:d802::/48,proxy
 ip6-cidr,2a00:79e0::/31,proxy
 ip6-cidr,2a06:7ac0:f00::/48,proxy
 ip6-cidr,2a07:8241::/36,proxy
+ip6-cidr,2a0a:7a80::/47,proxy
 ip6-cidr,2a0b:4e07:cb9::/48,proxy
 ip6-cidr,2a0d:5980:100::/48,proxy
 ip6-cidr,2a0e:f600:55::/48,proxy
-ip6-cidr,2a0f:9400:7a00::/40,proxy
 ip6-cidr,2a0f:f4c1:2::/48,proxy
 ip6-cidr,2a12:7280::/29,proxy
 ip6-cidr,2a14:2a00::/40,proxy

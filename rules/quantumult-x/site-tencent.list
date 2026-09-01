@@ -540,7 +540,9 @@ host-suffix,tencentbyod.com,proxy
 host-suffix,tencentcdb.cn,proxy
 host-suffix,tencentcdb.com,proxy
 host-suffix,tencentcdb.com.cn,proxy
+host-suffix,tencentclb.cn,proxy
 host-suffix,tencentclb.com,proxy
+host-suffix,tencentclb.com.cn,proxy
 host-suffix,tencentcloud-aiot.com,proxy
 host-suffix,tencentcloud.com,proxy
 host-suffix,tencentcloudapi.com,proxy
@@ -564,6 +566,7 @@ host-suffix,tencenteiam.com,proxy
 host-suffix,tencentelasticsearch.com,proxy
 host-suffix,tencentid.com,proxy
 host-suffix,tencentidentity.com,proxy
+host-suffix,tencentmiying.com,proxy
 host-suffix,tencentmusic.com,proxy
 host-suffix,tencentproxy.com,proxy
 host-suffix,tencentrio.com,proxy
@@ -574,6 +577,7 @@ host-suffix,tencentwepark.com,proxy
 host-suffix,tencentyun.com,proxy
 host-suffix,tendbcluster.com,proxy
 host-suffix,tendis.net,proxy
+host-suffix,tengmed.com,proxy
 host-suffix,tenpay.com,proxy
 host-suffix,testjrzk.net.cn,proxy
 host-suffix,testmeet.cn,proxy

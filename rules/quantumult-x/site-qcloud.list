@@ -277,7 +277,9 @@ host-suffix,tencentbyod.com,proxy
 host-suffix,tencentcdb.cn,proxy
 host-suffix,tencentcdb.com,proxy
 host-suffix,tencentcdb.com.cn,proxy
+host-suffix,tencentclb.cn,proxy
 host-suffix,tencentclb.com,proxy
+host-suffix,tencentclb.com.cn,proxy
 host-suffix,tencentcloud-aiot.com,proxy
 host-suffix,tencentcloudapi.com,proxy
 host-suffix,tencentcloudclub.com,proxy

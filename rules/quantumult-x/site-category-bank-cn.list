@@ -35,11 +35,13 @@ host-suffix,psbc.com,proxy
 host-suffix,shrbank.com,proxy
 host-suffix,spdb.com.cn,proxy
 host-suffix,suningbank.com,proxy
+host-suffix,tctpwebankcdn.net,proxy
 host-suffix,unionpay.com,proxy
 host-suffix,unionpay.net,proxy
 host-suffix,unionpayintl.cn,proxy
 host-suffix,unionpayintl.com,proxy
 host-suffix,unionpaysecure.com,proxy
+host-suffix,wbweilicai.com,proxy
 host-suffix,webank.com,proxy
 host-suffix,webankcdn.net,proxy
 host-suffix,wegobank.cn,proxy

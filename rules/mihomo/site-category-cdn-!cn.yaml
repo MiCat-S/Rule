@@ -1414,6 +1414,7 @@ payload:
     - DOMAIN-SUFFIX,claudeusercontent.com
     - DOMAIN-SUFFIX,cldup.com
     - DOMAIN-SUFFIX,clickup.marketlinc.com
+    - DOMAIN-SUFFIX,client-log-forwarder.1password.com
     - DOMAIN-SUFFIX,clientflow.apple.com
     - DOMAIN-SUFFIX,clientflow.apple.com.akadns.net
     - DOMAIN-SUFFIX,clientmetrics-pa.googleapis.com

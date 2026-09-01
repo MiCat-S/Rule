@@ -32,6 +32,7 @@ host-suffix,cozetest3.cn,proxy
 host-suffix,cueme.cn,proxy
 host-suffix,dbbuilding.fun,proxy
 host-suffix,deepseek.com,proxy
+host-suffix,deepseeksvc.com,proxy
 host-suffix,diandianlife.top,proxy
 host-suffix,doubao-dev.com,proxy
 host-suffix,doubao.com,proxy
@@ -97,6 +98,7 @@ host-suffix,tongyi.com,proxy
 host-suffix,trae.cn,proxy
 host-suffix,trae.com.cn,proxy
 host-suffix,trae.guru,proxy
+host-suffix,workbuddy.cn,proxy
 host-suffix,xiaoaiassist.com,proxy
 host-suffix,xiaomimimo.com,proxy
 host-suffix,xiezuocat.com,proxy

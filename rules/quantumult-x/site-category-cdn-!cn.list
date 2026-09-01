@@ -1413,6 +1413,7 @@ host-suffix,claritystatic.azureedge.net,proxy
 host-suffix,claudeusercontent.com,proxy
 host-suffix,cldup.com,proxy
 host-suffix,clickup.marketlinc.com,proxy
+host-suffix,client-log-forwarder.1password.com,proxy
 host-suffix,clientflow.apple.com,proxy
 host-suffix,clientflow.apple.com.akadns.net,proxy
 host-suffix,clientmetrics-pa.googleapis.com,proxy
