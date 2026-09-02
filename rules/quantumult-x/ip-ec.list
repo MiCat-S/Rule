@@ -1,4 +1,5 @@
 ip-cidr,2.57.225.28/31,proxy
+ip-cidr,2.152.36.0/22,proxy
 ip-cidr,8.242.88.0/22,proxy
 ip-cidr,8.242.160.0/21,proxy
 ip-cidr,8.242.216.0/21,proxy
@@ -1059,6 +1060,7 @@ ip6-cidr,2803:70a0::/32,proxy
 ip6-cidr,2803:7260::/32,proxy
 ip6-cidr,2803:7890::/32,proxy
 ip6-cidr,2803:7ad0::/32,proxy
+ip6-cidr,2803:7b30::/32,proxy
 ip6-cidr,2803:7bd0::/32,proxy
 ip6-cidr,2803:7c20::/32,proxy
 ip6-cidr,2803:7d30::/32,proxy

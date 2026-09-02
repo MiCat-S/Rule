@@ -1,4 +1,5 @@
 ip-cidr,2.57.225.36/31,proxy
+ip-cidr,2.152.252.0/22,proxy
 ip-cidr,5.145.169.88/30,proxy
 ip-cidr,5.252.152.0/22,proxy
 ip-cidr,8.242.240.0/22,proxy
@@ -128,6 +129,7 @@ ip-cidr,104.28.12.94/32,proxy
 ip-cidr,104.28.20.0/30,proxy
 ip-cidr,104.28.20.4/31,proxy
 ip-cidr,104.28.32.84/31,proxy
+ip-cidr,104.28.32.91/32,proxy
 ip-cidr,104.28.36.112/31,proxy
 ip-cidr,104.28.91.95/32,proxy
 ip-cidr,104.28.91.96/32,proxy

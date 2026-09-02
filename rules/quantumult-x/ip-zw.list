@@ -237,7 +237,8 @@ ip-cidr,217.15.116.0/22,proxy
 ip-cidr,217.15.120.0/22,proxy
 ip-cidr,217.15.124.0/23,proxy
 ip-cidr,217.15.126.0/24,proxy
-ip-cidr,217.74.224.0/20,proxy
+ip-cidr,217.74.224.0/22,proxy
+ip-cidr,217.74.239.0/24,proxy
 ip6-cidr,2001:470:26:460::/64,proxy
 ip6-cidr,2001:470:28:69f::/64,proxy
 ip6-cidr,2001:470:28:8ad::/64,proxy

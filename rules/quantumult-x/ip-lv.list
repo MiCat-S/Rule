@@ -1183,7 +1183,7 @@ ip-cidr,213.21.237.0/24,proxy
 ip-cidr,213.21.238.0/23,proxy
 ip-cidr,213.21.241.0/24,proxy
 ip-cidr,213.21.243.0/24,proxy
-ip-cidr,213.21.244.0/23,proxy
+ip-cidr,213.21.244.0/24,proxy
 ip-cidr,213.21.247.0/24,proxy
 ip-cidr,213.21.249.0/24,proxy
 ip-cidr,213.21.255.0/24,proxy

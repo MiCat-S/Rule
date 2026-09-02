@@ -103,6 +103,7 @@ ip6-cidr,2001:470:52ca::/48,proxy
 ip6-cidr,2001:470:ec4e::/48,proxy
 ip6-cidr,2001:470:fb29::/48,proxy
 ip6-cidr,2001:470:ffbb::/48,proxy
+ip6-cidr,2001:978:3301::/48,proxy
 ip6-cidr,2001:43f8:b0::/48,proxy
 ip6-cidr,2001:43f8:a90::/48,proxy
 ip6-cidr,2001:43f8:1a30::/47,proxy

@@ -460,7 +460,6 @@ ip-cidr,176.105.236.0/22,proxy
 ip-cidr,176.125.255.0/24,proxy
 ip-cidr,176.222.60.0/22,proxy
 ip-cidr,176.241.80.0/20,proxy
-ip-cidr,177.177.220.0/24,proxy
 ip-cidr,178.17.48.0/24,proxy
 ip-cidr,178.17.49.0/25,proxy
 ip-cidr,178.17.49.128/26,proxy
