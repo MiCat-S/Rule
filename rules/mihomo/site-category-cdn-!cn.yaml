@@ -1011,7 +1011,6 @@ payload:
     - DOMAIN-SUFFIX,cdn.nfcube.com
     - DOMAIN-SUFFIX,cdn.nimg.jp
     - DOMAIN-SUFFIX,cdn.nintendo.net
-    - DOMAIN-SUFFIX,cdn.nodeimage.com
     - DOMAIN-SUFFIX,cdn.nolt.io
     - DOMAIN-SUFFIX,cdn.northropgrumman.com
     - DOMAIN-SUFFIX,cdn.now.gg
@@ -1145,6 +1144,7 @@ payload:
     - DOMAIN-SUFFIX,cdn.svgator.com
     - DOMAIN-SUFFIX,cdn.svgporn.com
     - DOMAIN-SUFFIX,cdn.syftdata.com
+    - DOMAIN-SUFFIX,cdn.system1.com
     - DOMAIN-SUFFIX,cdn.tailwindcss.com
     - DOMAIN-SUFFIX,cdn.tatlerasia.com
     - DOMAIN-SUFFIX,cdn.techcommunity.microsoft.com
@@ -2781,6 +2781,7 @@ payload:
     - DOMAIN-SUFFIX,launcher-files.modrinth.com
     - DOMAIN-SUFFIX,launcher.spot.im
     - DOMAIN-SUFFIX,launchercontent.mojang.com
+    - DOMAIN-SUFFIX,layers.mapq.st
     - DOMAIN-SUFFIX,lazcdn.com
     - DOMAIN-SUFFIX,lbpicpic.com
     - DOMAIN-SUFFIX,lbpictupian.com
@@ -3043,6 +3044,7 @@ payload:
     - DOMAIN-SUFFIX,mpnbenefits.download.prss.microsoft.com
     - DOMAIN-SUFFIX,mpnbenefitsrtl.download.prss.microsoft.com
     - DOMAIN-SUFFIX,mpnbenefitsrtluat.download.prss.microsoft.com
+    - DOMAIN-SUFFIX,mqcdn.com
     - DOMAIN-SUFFIX,msdn.download.prss.microsoft.com
     - DOMAIN-SUFFIX,msdprod-ad.download.prss.microsoft.com
     - DOMAIN-SUFFIX,msftauthimages.net
@@ -3117,6 +3119,7 @@ payload:
     - DOMAIN-SUFFIX,nodebox-runtime.codesandbox.io
     - DOMAIN-SUFFIX,nodecdn.net
     - DOMAIN-SUFFIX,nodei.co
+    - DOMAIN-SUFFIX,nodeimage.com
     - DOMAIN-SUFFIX,nodejs.org
     - DOMAIN-SUFFIX,nordcdn.com
     - DOMAIN-SUFFIX,notify.bugsnag.com
@@ -4587,6 +4590,7 @@ payload:
     - DOMAIN-SUFFIX,vbmspic.video.friday.tw
     - DOMAIN-SUFFIX,vcdn.anysex.com
     - DOMAIN-SUFFIX,vcmdiawe.com
+    - DOMAIN-SUFFIX,vector.hereapi.com
     - DOMAIN-SUFFIX,vectorified.com
     - DOMAIN-SUFFIX,vercel.app
     - DOMAIN-SUFFIX,vercel.dev

@@ -1010,7 +1010,6 @@ host-suffix,cdn.neverbounce.com,proxy
 host-suffix,cdn.nfcube.com,proxy
 host-suffix,cdn.nimg.jp,proxy
 host-suffix,cdn.nintendo.net,proxy
-host-suffix,cdn.nodeimage.com,proxy
 host-suffix,cdn.nolt.io,proxy
 host-suffix,cdn.northropgrumman.com,proxy
 host-suffix,cdn.now.gg,proxy
@@ -1144,6 +1143,7 @@ host-suffix,cdn.survey.medallia.com,proxy
 host-suffix,cdn.svgator.com,proxy
 host-suffix,cdn.svgporn.com,proxy
 host-suffix,cdn.syftdata.com,proxy
+host-suffix,cdn.system1.com,proxy
 host-suffix,cdn.tailwindcss.com,proxy
 host-suffix,cdn.tatlerasia.com,proxy
 host-suffix,cdn.techcommunity.microsoft.com,proxy
@@ -2780,6 +2780,7 @@ host-suffix,latency-test.skk.moe,proxy
 host-suffix,launcher-files.modrinth.com,proxy
 host-suffix,launcher.spot.im,proxy
 host-suffix,launchercontent.mojang.com,proxy
+host-suffix,layers.mapq.st,proxy
 host-suffix,lazcdn.com,proxy
 host-suffix,lbpicpic.com,proxy
 host-suffix,lbpictupian.com,proxy
@@ -3042,6 +3043,7 @@ host-suffix,mparticle.weather.com,proxy
 host-suffix,mpnbenefits.download.prss.microsoft.com,proxy
 host-suffix,mpnbenefitsrtl.download.prss.microsoft.com,proxy
 host-suffix,mpnbenefitsrtluat.download.prss.microsoft.com,proxy
+host-suffix,mqcdn.com,proxy
 host-suffix,msdn.download.prss.microsoft.com,proxy
 host-suffix,msdprod-ad.download.prss.microsoft.com,proxy
 host-suffix,msftauthimages.net,proxy
@@ -3116,6 +3118,7 @@ host-suffix,nodeassets.nbcnews.com,proxy
 host-suffix,nodebox-runtime.codesandbox.io,proxy
 host-suffix,nodecdn.net,proxy
 host-suffix,nodei.co,proxy
+host-suffix,nodeimage.com,proxy
 host-suffix,nodejs.org,proxy
 host-suffix,nordcdn.com,proxy
 host-suffix,notify.bugsnag.com,proxy
@@ -4586,6 +4589,7 @@ host-suffix,variations.brave.com,proxy
 host-suffix,vbmspic.video.friday.tw,proxy
 host-suffix,vcdn.anysex.com,proxy
 host-suffix,vcmdiawe.com,proxy
+host-suffix,vector.hereapi.com,proxy
 host-suffix,vectorified.com,proxy
 host-suffix,vercel.app,proxy
 host-suffix,vercel.dev,proxy
