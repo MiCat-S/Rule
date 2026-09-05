@@ -929,6 +929,7 @@ payload:
     - DOMAIN-SUFFIX,cdn.imageengine.io
     - DOMAIN-SUFFIX,cdn.imago-images.com
     - DOMAIN-SUFFIX,cdn.img.ly
+    - DOMAIN-SUFFIX,cdn.imgchest.com
     - DOMAIN-SUFFIX,cdn.imgeng.in
     - DOMAIN-SUFFIX,cdn.imghaste.com
     - DOMAIN-SUFFIX,cdn.infoq.com

@@ -14,6 +14,9 @@ host-suffix,gputechconf.com.tw,proxy
 host-suffix,gputechconf.eu,proxy
 host-suffix,gputechconf.in,proxy
 host-suffix,gputechconf.jp,proxy
+host-suffix,hf.co,proxy
+host-suffix,hf.space,proxy
+host-suffix,huggingface.co,proxy
 host-suffix,nvidia.asia,proxy
 host-suffix,nvidia.at,proxy
 host-suffix,nvidia.be,proxy

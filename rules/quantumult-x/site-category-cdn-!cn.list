@@ -928,6 +928,7 @@ host-suffix,cdn.ifixit.com,proxy
 host-suffix,cdn.imageengine.io,proxy
 host-suffix,cdn.imago-images.com,proxy
 host-suffix,cdn.img.ly,proxy
+host-suffix,cdn.imgchest.com,proxy
 host-suffix,cdn.imgeng.in,proxy
 host-suffix,cdn.imghaste.com,proxy
 host-suffix,cdn.infoq.com,proxy

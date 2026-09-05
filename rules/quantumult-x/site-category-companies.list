@@ -4304,6 +4304,8 @@ host-suffix,hewlettpackard.enterprises,proxy
 host-suffix,hey.boo,proxy
 host-suffix,heywire.com,proxy
 host-suffix,hf-iphone.com,proxy
+host-suffix,hf.co,proxy
+host-suffix,hf.space,proxy
 host-suffix,hh.by,proxy
 host-suffix,hh.kz,proxy
 host-suffix,hh.ru,proxy
@@ -4493,6 +4495,7 @@ host-suffix,httpsfacebook.com,proxy
 host-suffix,httpwwwfacebook.com,proxy
 host-suffix,htznr.li,proxy
 host-suffix,hubblephone.com,proxy
+host-suffix,huggingface.co,proxy
 host-suffix,hummingbird.ms,proxy
 host-suffix,hwgo.com,proxy
 host-suffix,hwslabs.com,proxy
