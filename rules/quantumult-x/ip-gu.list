@@ -27,6 +27,7 @@ ip-cidr,103.3.240.0/22,proxy
 ip-cidr,103.7.100.0/22,proxy
 ip-cidr,103.17.112.0/22,proxy
 ip-cidr,103.62.49.0/28,proxy
+ip-cidr,103.103.61.162/31,proxy
 ip-cidr,103.112.0.0/25,proxy
 ip-cidr,103.112.0.128/29,proxy
 ip-cidr,103.112.0.160/27,proxy

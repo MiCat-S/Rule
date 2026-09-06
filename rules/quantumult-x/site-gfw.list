@@ -4,6 +4,8 @@ host-suffix,1-apple.com.tw,proxy
 host-suffix,1000giri.net,proxy
 host-suffix,10beasts.net,proxy
 host-suffix,10musume.com,proxy
+host-suffix,123av.com,proxy
+host-suffix,123av.me,proxy
 host-suffix,12bet.com,proxy
 host-suffix,12vpn.com,proxy
 host-suffix,12vpn.net,proxy
@@ -1832,6 +1834,7 @@ host-suffix,help.byspotify.com,proxy
 host-suffix,helpeachpeople.com,proxy
 host-suffix,helpster.de,proxy
 host-suffix,hembed.com,proxy
+host-suffix,hentai.tv,proxy
 host-suffix,heqinglian.net,proxy
 host-suffix,heritage.org,proxy
 host-suffix,herokuapp.com,proxy
@@ -3098,6 +3101,7 @@ host-suffix,rlwlw.com,proxy
 host-suffix,rmbl.ws,proxy
 host-suffix,roblox.com,proxy
 host-suffix,robustnessiskey.com,proxy
+host-suffix,roc-taiwan.org,proxy
 host-suffix,rocket-inc.net,proxy
 host-suffix,rocket.chat,proxy
 host-suffix,rocksdb.org,proxy
@@ -3107,6 +3111,7 @@ host-suffix,rolia.net,proxy
 host-suffix,rolsociety.org,proxy
 host-suffix,ronjoneswriter.com,proxy
 host-suffix,rou.video,proxy
+host-suffix,roushuwo.com,proxy
 host-suffix,rsdlmonitor.com,proxy
 host-suffix,rsf-chinese.org,proxy
 host-suffix,rsf.org,proxy
@@ -3408,6 +3413,7 @@ host-suffix,supchina.com,proxy
 host-suffix,superpages.com,proxy
 host-suffix,supervpn.net,proxy
 host-suffix,superzooi.com,proxy
+host-suffix,supjav.com,proxy
 host-suffix,supremecourt.gov,proxy
 host-suffix,suprememastertv.com,proxy
 host-suffix,surfeasy.com,proxy
@@ -3437,10 +3443,12 @@ host-suffix,taa-usa.org,proxy
 host-suffix,taaze.tw,proxy
 host-suffix,taedp.org.tw,proxy
 host-suffix,tagwalk.com,proxy
+host-suffix,taiav.com,proxy
 host-suffix,tails.net,proxy
 host-suffix,taipeisociety.org,proxy
 host-suffix,taipeitimes.com,proxy
 host-suffix,taisounds.com,proxy
+host-suffix,taiwanembassy.org,proxy
 host-suffix,taiwanhot.net,proxy
 host-suffix,taiwanjustice.net,proxy
 host-suffix,taiwanncf.org.tw,proxy
@@ -4121,6 +4129,7 @@ host-suffix,write.as,proxy
 host-suffix,writesonic.com,proxy
 host-suffix,wsj.com,proxy
 host-suffix,wsj.net,proxy
+host-suffix,wtfpass.com,proxy
 host-suffix,wufafangwen.com,proxy
 host-suffix,wufi.org.tw,proxy
 host-suffix,wujieliulan.com,proxy

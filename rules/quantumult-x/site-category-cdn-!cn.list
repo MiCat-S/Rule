@@ -378,7 +378,6 @@ host-suffix,assets.squarespace.com,proxy
 host-suffix,assets.squarewebsites.org,proxy
 host-suffix,assets.st-note.com,proxy
 host-suffix,assets.stash.com,proxy
-host-suffix,assets.static-upwork.com,proxy
 host-suffix,assets.stickpng.com,proxy
 host-suffix,assets.stigg.io,proxy
 host-suffix,assets.streamlinehq.com,proxy
@@ -3245,6 +3244,7 @@ host-suffix,perf.hsforms.com,proxy
 host-suffix,permaweb.eu.org,proxy
 host-suffix,permaweb.io,proxy
 host-suffix,pg2dhpc3p5ec22g3.jkforum.net,proxy
+host-suffix,pgimgs.com,proxy
 host-suffix,pgl.yoyo.org,proxy
 host-suffix,pgw.udn.com.tw,proxy
 host-suffix,ph.langfuse.com,proxy
@@ -3887,6 +3887,7 @@ host-suffix,static-resource.np.community.playstation.net,proxy
 host-suffix,static-secure-uploads.ui.com,proxy
 host-suffix,static-sg-cdn.eporner.com,proxy
 host-suffix,static-sv.fc2.com,proxy
+host-suffix,static-upwork.com,proxy
 host-suffix,static-us.afterpay.com,proxy
 host-suffix,static-web-prod.skillshare.com,proxy
 host-suffix,static-web.grammarly.com,proxy
@@ -4015,6 +4016,7 @@ host-suffix,static.hosting.com,proxy
 host-suffix,static.hotjar.com,proxy
 host-suffix,static.hubspot.com,proxy
 host-suffix,static.hugedomains.com,proxy
+host-suffix,static.idp.sph.com.sg,proxy
 host-suffix,static.ietf.org,proxy
 host-suffix,static.ifunny.co,proxy
 host-suffix,static.incapsula.com,proxy

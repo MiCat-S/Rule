@@ -644,6 +644,7 @@ payload:
     - IP-CIDR6,2a10:9007::/64
     - IP-CIDR6,2a10:d880::/29
     - IP-CIDR6,2a12:8bc0::/29
+    - IP-CIDR6,2a12:a403::/32
     - IP-CIDR6,2a12:d1c0::/29
     - IP-CIDR6,2a12:f4c0::/29
     - IP-CIDR6,2a13:240:fd00::/40
