@@ -1,12 +1,12 @@
 {
   "repository": "Yuu518/sing-box-rules",
   "branch": "rule_set",
-  "commit": "0f59efda6d4b709b0ffaca6764ede3a2712c4ca3",
-  "source": "https://github.com/Yuu518/sing-box-rules/tree/0f59efda6d4b709b0ffaca6764ede3a2712c4ca3",
+  "commit": "8f89f1d1346c6223df630b1ffb154a2a0f1103df",
+  "source": "https://github.com/Yuu518/sing-box-rules/tree/8f89f1d1346c6223df630b1ffb154a2a0f1103df",
   "rule_sets": 2148,
   "json_files": 2146,
   "binary_files": 2148,
   "binary_only": 2,
   "files": 4294,
-  "bytes": 59913718
+  "bytes": 59929677
 }
