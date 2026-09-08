@@ -8,7 +8,9 @@ host,accdn.lpsnmedia.net,proxy
 host,collect-ap-east-1.tealiumiq.com,proxy
 host-suffix,hangseng.com,proxy
 host-suffix,bochk.com,proxy
+host-suffix,boccc.com.hk,proxy
 host-keyword,bochk,proxy
+host-suffix,bankcomm.com.hk,proxy
 host-suffix,hkbea.com,proxy
 host-suffix,sc.com.hk,proxy
 host-suffix,sc.com,proxy
@@ -27,12 +29,18 @@ host-suffix,dahsing.com,proxy
 host-suffix,cmbwinglungbank.com,proxy
 host-suffix,cncbinternational.com,proxy
 host-suffix,ncb.com.hk,proxy
+host-suffix,chiyubank.com,proxy
+host-suffix,chbank.com,proxy
+host-suffix,fubonbank.com.hk,proxy
+host-suffix,publicbank.com.hk,proxy
+host-suffix,shacombank.com.hk,proxy
 host-suffix,zajourney.com,proxy
 host-suffix,za.group,proxy
 host-suffix,zaticdn.com,proxy
 host-suffix,zafinsvc.com,proxy
 host-suffix,antbank.hk,proxy
 host-suffix,antbank.com.hk,proxy
+host-suffix,alipay.hk,proxy
 host-keyword,antbank,proxy
 host-suffix,airstarbank.com,proxy
 host-suffix,elebank.com,proxy
@@ -40,3 +48,5 @@ host-suffix,livi.bank,proxy
 host-suffix,welab.bank,proxy
 host-suffix,fusionbank.com,proxy
 host-suffix,mox.com,proxy
+host-suffix,paob.com.hk,proxy
+host-suffix,pingandb.com,proxy

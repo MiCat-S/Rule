@@ -12,6 +12,7 @@
         ".uobgroup.com",
         ".hsbc.com.sg",
         ".citibank.com.sg",
+        ".citi.com",
         ".maybank2u.com.sg",
         ".maybank.com.sg",
         ".rhbgroup.com.sg",
@@ -24,6 +25,7 @@
         ".ccb.com.sg",
         ".hkbea.com",
         ".icicibank.com.sg",
+        ".icicibank.com",
         ".sg.statebank",
         ".hlbank.com.sg",
         ".hlbankconnect.com.sg",
@@ -37,7 +39,16 @@
         ".gxs.com.sg",
         ".maribank.sg",
         ".anext.com.sg",
-        ".glbank.com"
+        ".glbank.com",
+        ".sc.com",
+        ".bnpparibas.com.sg",
+        ".bankofamerica.com",
+        ".ca-cib.com",
+        ".jpmorgan.com",
+        ".mizuho.com",
+        ".mufg.jp",
+        ".smbc.co.jp",
+        ".ucobank.com"
       ]
     }
   ]

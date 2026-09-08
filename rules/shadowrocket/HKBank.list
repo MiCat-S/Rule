@@ -8,7 +8,9 @@ DOMAIN,accdn.lpsnmedia.net
 DOMAIN,collect-ap-east-1.tealiumiq.com
 DOMAIN-SUFFIX,hangseng.com
 DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,boccc.com.hk
 DOMAIN-KEYWORD,bochk
+DOMAIN-SUFFIX,bankcomm.com.hk
 DOMAIN-SUFFIX,hkbea.com
 DOMAIN-SUFFIX,sc.com.hk
 DOMAIN-SUFFIX,sc.com
@@ -27,12 +29,18 @@ DOMAIN-SUFFIX,dahsing.com
 DOMAIN-SUFFIX,cmbwinglungbank.com
 DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-SUFFIX,ncb.com.hk
+DOMAIN-SUFFIX,chiyubank.com
+DOMAIN-SUFFIX,chbank.com
+DOMAIN-SUFFIX,fubonbank.com.hk
+DOMAIN-SUFFIX,publicbank.com.hk
+DOMAIN-SUFFIX,shacombank.com.hk
 DOMAIN-SUFFIX,zajourney.com
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zaticdn.com
 DOMAIN-SUFFIX,zafinsvc.com
 DOMAIN-SUFFIX,antbank.hk
 DOMAIN-SUFFIX,antbank.com.hk
+DOMAIN-SUFFIX,alipay.hk
 DOMAIN-KEYWORD,antbank
 DOMAIN-SUFFIX,airstarbank.com
 DOMAIN-SUFFIX,elebank.com
@@ -40,3 +48,5 @@ DOMAIN-SUFFIX,livi.bank
 DOMAIN-SUFFIX,welab.bank
 DOMAIN-SUFFIX,fusionbank.com
 DOMAIN-SUFFIX,mox.com
+DOMAIN-SUFFIX,paob.com.hk
+DOMAIN-SUFFIX,pingandb.com

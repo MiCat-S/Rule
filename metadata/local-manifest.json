@@ -18,7 +18,7 @@
     },
     {
       "source": "HKBank.Conf",
-      "rules": 39
+      "rules": 49
     },
     {
       "source": "IPCheck.list",
@@ -34,15 +34,15 @@
     },
     {
       "source": "SGBank.Conf",
-      "rules": 35
+      "rules": 46
     },
     {
       "source": "UKBank.Conf",
-      "rules": 27
+      "rules": 60
     },
     {
       "source": "USBank.Conf",
-      "rules": 117
+      "rules": 138
     },
     {
       "source": "WeChat.Conf",

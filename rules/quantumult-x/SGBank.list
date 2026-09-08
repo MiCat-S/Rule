@@ -10,6 +10,7 @@ host-suffix,uob.com.sg,proxy
 host-suffix,uobgroup.com,proxy
 host-suffix,hsbc.com.sg,proxy
 host-suffix,citibank.com.sg,proxy
+host-suffix,citi.com,proxy
 host-suffix,maybank2u.com.sg,proxy
 host-suffix,maybank.com.sg,proxy
 host-suffix,rhbgroup.com.sg,proxy
@@ -22,6 +23,7 @@ host-suffix,sg1.ccb.com,proxy
 host-suffix,ccb.com.sg,proxy
 host-suffix,hkbea.com,proxy
 host-suffix,icicibank.com.sg,proxy
+host-suffix,icicibank.com,proxy
 host-suffix,sg.statebank,proxy
 host-suffix,hlbank.com.sg,proxy
 host-suffix,hlbankconnect.com.sg,proxy
@@ -36,3 +38,12 @@ host-suffix,gxs.com.sg,proxy
 host-suffix,maribank.sg,proxy
 host-suffix,anext.com.sg,proxy
 host-suffix,glbank.com,proxy
+host-suffix,sc.com,proxy
+host-suffix,bnpparibas.com.sg,proxy
+host-suffix,bankofamerica.com,proxy
+host-suffix,ca-cib.com,proxy
+host-suffix,jpmorgan.com,proxy
+host-suffix,mizuho.com,proxy
+host-suffix,mufg.jp,proxy
+host-suffix,smbc.co.jp,proxy
+host-suffix,ucobank.com,proxy
