@@ -2697,7 +2697,7 @@ ip-cidr,153.72.0.0/18,proxy
 ip-cidr,153.72.68.0/22,proxy
 ip-cidr,153.72.128.0/18,proxy
 ip-cidr,153.72.224.0/22,proxy
-ip-cidr,153.72.228.0/24,proxy
+ip-cidr,153.72.228.0/23,proxy
 ip-cidr,153.72.234.0/23,proxy
 ip-cidr,153.72.236.0/23,proxy
 ip-cidr,153.72.238.0/24,proxy
@@ -2709,6 +2709,7 @@ ip-cidr,155.184.0.0/19,proxy
 ip-cidr,156.77.128.0/20,proxy
 ip-cidr,156.77.176.0/23,proxy
 ip-cidr,156.93.224.0/23,proxy
+ip-cidr,157.70.0.0/21,proxy
 ip-cidr,157.239.15.0/24,proxy
 ip-cidr,158.51.129.0/24,proxy
 ip-cidr,158.71.136.0/22,proxy
@@ -2834,6 +2835,7 @@ ip-cidr,185.117.60.0/24,proxy
 ip-cidr,185.117.62.0/24,proxy
 ip-cidr,185.124.96.0/23,proxy
 ip-cidr,185.124.99.0/24,proxy
+ip-cidr,185.127.202.0/24,proxy
 ip-cidr,185.142.144.0/23,proxy
 ip-cidr,185.142.146.0/24,proxy
 ip-cidr,185.145.247.0/24,proxy
@@ -5800,7 +5802,21 @@ ip6-cidr,2605:a601:a50e:4400::/54,proxy
 ip6-cidr,2605:a601:a50e:4800::/53,proxy
 ip6-cidr,2605:a601:a50e:5000::/52,proxy
 ip6-cidr,2605:a601:a50e:6000::/51,proxy
-ip6-cidr,2605:a601:a50e:8000::/49,proxy
+ip6-cidr,2605:a601:a50e:8000::/52,proxy
+ip6-cidr,2605:a601:a50e:9000::/55,proxy
+ip6-cidr,2605:a601:a50e:9200::/56,proxy
+ip6-cidr,2605:a601:a50e:9301::/64,proxy
+ip6-cidr,2605:a601:a50e:9302::/63,proxy
+ip6-cidr,2605:a601:a50e:9304::/62,proxy
+ip6-cidr,2605:a601:a50e:9308::/61,proxy
+ip6-cidr,2605:a601:a50e:9310::/60,proxy
+ip6-cidr,2605:a601:a50e:9320::/59,proxy
+ip6-cidr,2605:a601:a50e:9340::/58,proxy
+ip6-cidr,2605:a601:a50e:9380::/57,proxy
+ip6-cidr,2605:a601:a50e:9400::/54,proxy
+ip6-cidr,2605:a601:a50e:9800::/53,proxy
+ip6-cidr,2605:a601:a50e:a000::/51,proxy
+ip6-cidr,2605:a601:a50e:c000::/50,proxy
 ip6-cidr,2605:a601:a50f::/48,proxy
 ip6-cidr,2605:a601:a510::/45,proxy
 ip6-cidr,2605:a601:a518::/49,proxy
@@ -8101,6 +8117,7 @@ ip6-cidr,2606:40::/32,proxy
 ip6-cidr,2606:3dc0:80::/42,proxy
 ip6-cidr,2606:3dc0:880::/41,proxy
 ip6-cidr,2606:73c0::/32,proxy
+ip6-cidr,2606:c7c0:200::/48,proxy
 ip6-cidr,2606:ec80::/44,proxy
 ip6-cidr,2606:f4c0:2000::/35,proxy
 ip6-cidr,2606:f4c0:5000::/40,proxy
