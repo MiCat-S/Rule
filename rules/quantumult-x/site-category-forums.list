@@ -56,6 +56,7 @@ host-suffix,nodeget.com,proxy
 host-suffix,nodeimage.com,proxy
 host-suffix,nodequality.com,proxy
 host-suffix,nodeseek.com,proxy
+host-suffix,nodeseek.org,proxy
 host-suffix,parkvv.com,proxy
 host-suffix,parler.com,proxy
 host-suffix,pimg.tw,proxy
