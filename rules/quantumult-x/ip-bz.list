@@ -303,7 +303,6 @@ ip6-cidr,2a0a:6044:6742::/47,proxy
 ip6-cidr,2a0a:6044:6744::/46,proxy
 ip6-cidr,2a0a:6044:6748::/45,proxy
 ip6-cidr,2a0b:4e07:3:840::/60,proxy
-ip6-cidr,2a0d:d904:1::/48,proxy
 ip6-cidr,2a0e:ec05:8dc0::/42,proxy
 ip6-cidr,2a0e:ec05:8e00::/40,proxy
 ip6-cidr,2a0e:ec05:8f00::/41,proxy
