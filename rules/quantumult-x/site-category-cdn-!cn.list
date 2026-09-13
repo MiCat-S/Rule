@@ -3516,6 +3516,7 @@ host-suffix,resources.allstate.com,proxy
 host-suffix,resources.chessbase.com,proxy
 host-suffix,resources.digital-cloud.medallia.com,proxy
 host-suffix,resources.help.salesforce.com,proxy
+host-suffix,resources.redbull.tv,proxy
 host-suffix,resources.whatwg.org,proxy
 host-suffix,rest.happierleads.com,proxy
 host-suffix,reviews-badge.capterra.com,proxy
@@ -4364,6 +4365,7 @@ host-suffix,themes.hibootstrap.com,proxy
 host-suffix,thesourcemediaassets.com,proxy
 host-suffix,thirdwebcdn.com,proxy
 host-suffix,thisiscdn.com,proxy
+host-suffix,thumb.wikimedia.org,proxy
 host-suffix,thumbnail.missav.com,proxy
 host-suffix,thumbnailer.mixcloud.com,proxy
 host-suffix,thumbnails.applegamingwiki.com,proxy

@@ -315,6 +315,7 @@ host-suffix,dl.dropboxusercontent.com,proxy
 host-suffix,dl.elementary.io,proxy
 host-suffix,dl.flathub.org,proxy
 host-suffix,dl.getaurora.dev,proxy
+host-suffix,dl.gl-inet.com,proxy
 host-suffix,dl.google.com,proxy
 host-suffix,dl.iina.io,proxy
 host-suffix,dl.imobie.com,proxy
