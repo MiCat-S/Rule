@@ -353,6 +353,7 @@ host-suffix,assets.polarbyte.com,proxy
 host-suffix,assets.poool.fr,proxy
 host-suffix,assets.porndig.com,proxy
 host-suffix,assets.positional-bucket.com,proxy
+host-suffix,assets.production.linktr.ee,proxy
 host-suffix,assets.prowritingaid.com,proxy
 host-suffix,assets.pscp.tv,proxy
 host-suffix,assets.queue-it.net,proxy
@@ -471,6 +472,7 @@ host-suffix,awsstatic.com,proxy
 host-suffix,awxcdn.com,proxy
 host-suffix,ax1x.com,proxy
 host-suffix,axiecdn.axieinfinity.com,proxy
+host-suffix,axiom-cdn.io,proxy
 host-suffix,axis-cdn.net,proxy
 host-suffix,az700632.vo.msecnd.net,proxy
 host-suffix,azuremigrate.download.prss.microsoft.com,proxy
@@ -1476,6 +1478,7 @@ host-suffix,code.upscope.io,proxy
 host-suffix,codeberg.page,proxy
 host-suffix,codeforces.org,proxy
 host-suffix,codepenassets.com,proxy
+host-suffix,coin-images.coingecko.com,proxy
 host-suffix,collaborate.download.prss.microsoft.com,proxy
 host-suffix,collaborateppe.download.prss.microsoft.com,proxy
 host-suffix,colliderimages.com,proxy
@@ -4037,6 +4040,7 @@ host-suffix,static.izanmei.icu,proxy
 host-suffix,static.j51.net,proxy
 host-suffix,static.javhd.com,proxy
 host-suffix,static.jsbin.com,proxy
+host-suffix,static.jup.ag,proxy
 host-suffix,static.k2s.cc,proxy
 host-suffix,static.killedbygoogle.com,proxy
 host-suffix,static.klaviyo.com,proxy
@@ -4370,6 +4374,7 @@ host-suffix,thumbnail.missav.com,proxy
 host-suffix,thumbnailer.mixcloud.com,proxy
 host-suffix,thumbnails.applegamingwiki.com,proxy
 host-suffix,thumbnails.cbsig.net,proxy
+host-suffix,thumbnails.padre.gg,proxy
 host-suffix,thumbor.4gamers.com.tw,proxy
 host-suffix,thumbor.forbes.com,proxy
 host-suffix,thumbs.onlyfans.com,proxy
@@ -4512,6 +4517,7 @@ host-suffix,ubistatic2-a.ubisoft.com,proxy
 host-suffix,ucarecdn.com,proxy
 host-suffix,udata.namespace.so,proxy
 host-suffix,udify.app,proxy
+host-suffix,ugc.production.linktr.ee,proxy
 host-suffix,uhf.microsoft.com,proxy
 host-suffix,ui-cdn.digitalocean-ui.com,proxy
 host-suffix,ui-cdn.digitalocean.com,proxy

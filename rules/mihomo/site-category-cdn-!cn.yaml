@@ -354,6 +354,7 @@ payload:
     - DOMAIN-SUFFIX,assets.poool.fr
     - DOMAIN-SUFFIX,assets.porndig.com
     - DOMAIN-SUFFIX,assets.positional-bucket.com
+    - DOMAIN-SUFFIX,assets.production.linktr.ee
     - DOMAIN-SUFFIX,assets.prowritingaid.com
     - DOMAIN-SUFFIX,assets.pscp.tv
     - DOMAIN-SUFFIX,assets.queue-it.net
@@ -472,6 +473,7 @@ payload:
     - DOMAIN-SUFFIX,awxcdn.com
     - DOMAIN-SUFFIX,ax1x.com
     - DOMAIN-SUFFIX,axiecdn.axieinfinity.com
+    - DOMAIN-SUFFIX,axiom-cdn.io
     - DOMAIN-SUFFIX,axis-cdn.net
     - DOMAIN-SUFFIX,az700632.vo.msecnd.net
     - DOMAIN-SUFFIX,azuremigrate.download.prss.microsoft.com
@@ -1477,6 +1479,7 @@ payload:
     - DOMAIN-SUFFIX,codeberg.page
     - DOMAIN-SUFFIX,codeforces.org
     - DOMAIN-SUFFIX,codepenassets.com
+    - DOMAIN-SUFFIX,coin-images.coingecko.com
     - DOMAIN-SUFFIX,collaborate.download.prss.microsoft.com
     - DOMAIN-SUFFIX,collaborateppe.download.prss.microsoft.com
     - DOMAIN-SUFFIX,colliderimages.com
@@ -4038,6 +4041,7 @@ payload:
     - DOMAIN-SUFFIX,static.j51.net
     - DOMAIN-SUFFIX,static.javhd.com
     - DOMAIN-SUFFIX,static.jsbin.com
+    - DOMAIN-SUFFIX,static.jup.ag
     - DOMAIN-SUFFIX,static.k2s.cc
     - DOMAIN-SUFFIX,static.killedbygoogle.com
     - DOMAIN-SUFFIX,static.klaviyo.com
@@ -4371,6 +4375,7 @@ payload:
     - DOMAIN-SUFFIX,thumbnailer.mixcloud.com
     - DOMAIN-SUFFIX,thumbnails.applegamingwiki.com
     - DOMAIN-SUFFIX,thumbnails.cbsig.net
+    - DOMAIN-SUFFIX,thumbnails.padre.gg
     - DOMAIN-SUFFIX,thumbor.4gamers.com.tw
     - DOMAIN-SUFFIX,thumbor.forbes.com
     - DOMAIN-SUFFIX,thumbs.onlyfans.com
@@ -4513,6 +4518,7 @@ payload:
     - DOMAIN-SUFFIX,ucarecdn.com
     - DOMAIN-SUFFIX,udata.namespace.so
     - DOMAIN-SUFFIX,udify.app
+    - DOMAIN-SUFFIX,ugc.production.linktr.ee
     - DOMAIN-SUFFIX,uhf.microsoft.com
     - DOMAIN-SUFFIX,ui-cdn.digitalocean-ui.com
     - DOMAIN-SUFFIX,ui-cdn.digitalocean.com
