@@ -8,6 +8,7 @@ payload:
     - DOMAIN,log3-applog.fqnovel.com
     - DOMAIN,log5-applog-hl.fqnovel.com
     - DOMAIN,log5-applog.fqnovel.com
+    - DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
     - DOMAIN,p16-tiktokcdn-com.akamaized.net
     - DOMAIN,p3-ad-sign.byteimg.com
     - DOMAIN,p6-ad-sign.byteimg.com

@@ -54,6 +54,7 @@ host,ntp7.ntp-servers.net,proxy
 host,ntppool1.time.nl,proxy
 host,ntppool2.time.nl,proxy
 host,ood.opsource.net,proxy
+host,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com,proxy
 host,public-us-pingsx.api.clonoth.com,proxy
 host,q676790b.pmhcjk.com,proxy
 host,rink.hockeyapp.net,proxy
@@ -21552,6 +21553,9 @@ host-suffix,stripcamfun.com,proxy
 host-suffix,stripchat.com,proxy
 host-suffix,stripe-terminal-local-reader.net,proxy
 host-suffix,stripe.com,proxy
+host-suffix,stripe.dev,proxy
+host-suffix,stripe.events,proxy
+host-suffix,stripe.global,proxy
 host-suffix,stripe.network,proxy
 host-suffix,stripecdn.com,proxy
 host-suffix,stripparadise.com,proxy

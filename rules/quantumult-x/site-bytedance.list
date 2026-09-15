@@ -7,6 +7,7 @@ host,log3-applog-hl.fqnovel.com,proxy
 host,log3-applog.fqnovel.com,proxy
 host,log5-applog-hl.fqnovel.com,proxy
 host,log5-applog.fqnovel.com,proxy
+host,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com,proxy
 host,p16-tiktokcdn-com.akamaized.net,proxy
 host,p3-ad-sign.byteimg.com,proxy
 host,p6-ad-sign.byteimg.com,proxy
