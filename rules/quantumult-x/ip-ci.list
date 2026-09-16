@@ -125,8 +125,7 @@ ip-cidr,102.210.16.0/22,proxy
 ip-cidr,102.210.80.0/22,proxy
 ip-cidr,102.210.208.0/24,proxy
 ip-cidr,102.211.232.0/23,proxy
-ip-cidr,102.212.5.0/24,proxy
-ip-cidr,102.212.6.0/23,proxy
+ip-cidr,102.212.4.0/22,proxy
 ip-cidr,102.212.188.0/22,proxy
 ip-cidr,102.213.112.0/22,proxy
 ip-cidr,102.213.172.0/22,proxy

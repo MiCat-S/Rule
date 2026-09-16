@@ -51,7 +51,6 @@ ip-cidr,202.123.148.0/22,proxy
 ip-cidr,202.123.156.0/23,proxy
 ip-cidr,202.123.158.0/24,proxy
 ip-cidr,202.123.159.0/25,proxy
-ip-cidr,202.128.0.0/23,proxy
 ip-cidr,202.128.24.0/21,proxy
 ip-cidr,210.23.80.0/20,proxy
 ip6-cidr,2001:470:24:31b::/64,proxy

@@ -285,7 +285,6 @@ ip-cidr,92.112.77.0/24,proxy
 ip-cidr,92.112.81.0/24,proxy
 ip-cidr,92.112.119.0/24,proxy
 ip-cidr,92.112.128.0/24,proxy
-ip-cidr,92.113.62.0/24,proxy
 ip-cidr,92.180.192.0/18,proxy
 ip-cidr,92.240.224.0/20,proxy
 ip-cidr,92.240.245.128/25,proxy
@@ -324,6 +323,7 @@ ip-cidr,104.28.114.58/32,proxy
 ip-cidr,104.28.129.53/32,proxy
 ip-cidr,104.28.129.54/32,proxy
 ip-cidr,104.28.130.136/31,proxy
+ip-cidr,104.28.131.144/31,proxy
 ip-cidr,104.28.131.148/31,proxy
 ip-cidr,104.28.135.72/31,proxy
 ip-cidr,104.28.148.22/32,proxy

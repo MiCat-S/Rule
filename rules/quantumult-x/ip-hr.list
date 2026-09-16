@@ -690,6 +690,7 @@ ip-cidr,195.190.136.0/24,proxy
 ip-cidr,195.202.108.112/29,proxy
 ip-cidr,195.202.111.64/30,proxy
 ip-cidr,195.202.111.184/29,proxy
+ip-cidr,195.202.122.4/30,proxy
 ip-cidr,195.234.22.0/23,proxy
 ip-cidr,195.245.255.0/24,proxy
 ip-cidr,196.48.71.0/24,proxy
