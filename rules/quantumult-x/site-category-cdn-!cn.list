@@ -867,6 +867,7 @@ host-suffix,cdn.eu.contentful.com,proxy
 host-suffix,cdn.european-alternatives.eu,proxy
 host-suffix,cdn.evbstatic.com,proxy
 host-suffix,cdn.evgnet.com,proxy
+host-suffix,cdn.eye-able.com,proxy
 host-suffix,cdn.f5.com,proxy
 host-suffix,cdn.faire.com,proxy
 host-suffix,cdn.fastcomments.com,proxy
@@ -2354,6 +2355,7 @@ host-suffix,images.prismic.io,proxy
 host-suffix,images.profile.autodesk.com,proxy
 host-suffix,images.ptt.cc,proxy
 host-suffix,images.purevpn-tools.com,proxy
+host-suffix,images.radio-canada.ca,proxy
 host-suffix,images.rss.app,proxy
 host-suffix,images.samsung.com,proxy
 host-suffix,images.scalero.io,proxy
@@ -3688,6 +3690,7 @@ host-suffix,secure.beer7live.com,proxy
 host-suffix,secure.fanboy.co.nz,proxy
 host-suffix,secure.telegraph.co.uk,proxy
 host-suffix,seecdn.com,proxy
+host-suffix,seecdn.net,proxy
 host-suffix,seed-sequoia.siri.apple.com,proxy
 host-suffix,seed-swallow.siri.apple.com,proxy
 host-suffix,seed.siri.apple.com,proxy
@@ -4084,6 +4087,7 @@ host-suffix,static.nrk.no,proxy
 host-suffix,static.nyse.com,proxy
 host-suffix,static.observablehq.com,proxy
 host-suffix,static.oklink.com,proxy
+host-suffix,static.okou.io,proxy
 host-suffix,static.okx.cab,proxy
 host-suffix,static.okx.com,proxy
 host-suffix,static.olelive.com,proxy
@@ -4486,7 +4490,6 @@ host-suffix,tracking.inflection.io,proxy
 host-suffix,trafficdeposit.com,proxy
 host-suffix,transcend-cdn.com,proxy
 host-suffix,trekcdnprod.azureedge.net,proxy
-host-suffix,tripcdn.com,proxy
 host-suffix,trustless-gateway.link,proxy
 host-suffix,truth.bahamut.com.tw,proxy
 host-suffix,ttcache.com,proxy

@@ -1481,6 +1481,7 @@ host-suffix,repo.powerdns.com,proxy
 host-suffix,repo.sleeping.town,proxy
 host-suffix,repo.ugm.ac.id,proxy
 host-suffix,repo.usk.ac.id,proxy
+host-suffix,repo.xtom.com,proxy
 host-suffix,repo1.maven.org,proxy
 host-suffix,repo2.shinjiru.com,proxy
 host-suffix,repos.del.extreme-ix.org,proxy

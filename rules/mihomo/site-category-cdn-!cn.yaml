@@ -868,6 +868,7 @@ payload:
     - DOMAIN-SUFFIX,cdn.european-alternatives.eu
     - DOMAIN-SUFFIX,cdn.evbstatic.com
     - DOMAIN-SUFFIX,cdn.evgnet.com
+    - DOMAIN-SUFFIX,cdn.eye-able.com
     - DOMAIN-SUFFIX,cdn.f5.com
     - DOMAIN-SUFFIX,cdn.faire.com
     - DOMAIN-SUFFIX,cdn.fastcomments.com
@@ -2355,6 +2356,7 @@ payload:
     - DOMAIN-SUFFIX,images.profile.autodesk.com
     - DOMAIN-SUFFIX,images.ptt.cc
     - DOMAIN-SUFFIX,images.purevpn-tools.com
+    - DOMAIN-SUFFIX,images.radio-canada.ca
     - DOMAIN-SUFFIX,images.rss.app
     - DOMAIN-SUFFIX,images.samsung.com
     - DOMAIN-SUFFIX,images.scalero.io
@@ -3689,6 +3691,7 @@ payload:
     - DOMAIN-SUFFIX,secure.fanboy.co.nz
     - DOMAIN-SUFFIX,secure.telegraph.co.uk
     - DOMAIN-SUFFIX,seecdn.com
+    - DOMAIN-SUFFIX,seecdn.net
     - DOMAIN-SUFFIX,seed-sequoia.siri.apple.com
     - DOMAIN-SUFFIX,seed-swallow.siri.apple.com
     - DOMAIN-SUFFIX,seed.siri.apple.com
@@ -4085,6 +4088,7 @@ payload:
     - DOMAIN-SUFFIX,static.nyse.com
     - DOMAIN-SUFFIX,static.observablehq.com
     - DOMAIN-SUFFIX,static.oklink.com
+    - DOMAIN-SUFFIX,static.okou.io
     - DOMAIN-SUFFIX,static.okx.cab
     - DOMAIN-SUFFIX,static.okx.com
     - DOMAIN-SUFFIX,static.olelive.com
@@ -4487,7 +4491,6 @@ payload:
     - DOMAIN-SUFFIX,trafficdeposit.com
     - DOMAIN-SUFFIX,transcend-cdn.com
     - DOMAIN-SUFFIX,trekcdnprod.azureedge.net
-    - DOMAIN-SUFFIX,tripcdn.com
     - DOMAIN-SUFFIX,trustless-gateway.link
     - DOMAIN-SUFFIX,truth.bahamut.com.tw
     - DOMAIN-SUFFIX,ttcache.com

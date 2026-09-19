@@ -1482,6 +1482,7 @@ payload:
     - DOMAIN-SUFFIX,repo.sleeping.town
     - DOMAIN-SUFFIX,repo.ugm.ac.id
     - DOMAIN-SUFFIX,repo.usk.ac.id
+    - DOMAIN-SUFFIX,repo.xtom.com
     - DOMAIN-SUFFIX,repo1.maven.org
     - DOMAIN-SUFFIX,repo2.shinjiru.com
     - DOMAIN-SUFFIX,repos.del.extreme-ix.org
