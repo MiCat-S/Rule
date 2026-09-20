@@ -2710,6 +2710,7 @@ host-suffix,js-1-cdn.airdroid.com,proxy
 host-suffix,js-eu1.hsforms.net,proxy
 host-suffix,js-eu1.hubspot.com,proxy
 host-suffix,js-s3.quickcep.com,proxy
+host-suffix,js.arcgis.com,proxy
 host-suffix,js.assemblyexchange.com,proxy
 host-suffix,js.braintreegateway.com,proxy
 host-suffix,js.chargebee.com,proxy

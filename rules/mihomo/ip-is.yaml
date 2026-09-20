@@ -747,7 +747,6 @@ payload:
     - IP-CIDR6,2a0e:ec05:5000::/40
     - IP-CIDR6,2a0e:ec05:5100::/41
     - IP-CIDR6,2a0f:2744:5000::/47
-    - IP-CIDR6,2a0f:31c1:5900::/48
     - IP-CIDR6,2a10:7340:2::/56
     - IP-CIDR6,2a10:8c40::/29
     - IP-CIDR6,2a10:9840::/35

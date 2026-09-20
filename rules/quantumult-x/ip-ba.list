@@ -364,6 +364,7 @@ ip6-cidr,2606:54c0:458::/45,proxy
 ip6-cidr,2606:54c3:0:aab::/64,proxy
 ip6-cidr,2607:6b80:45::/48,proxy
 ip6-cidr,2620:171:2d::/48,proxy
+ip6-cidr,2804:14d:722d:1000::/64,proxy
 ip6-cidr,2a00:fe8::/32,proxy
 ip6-cidr,2a00:1310:40e::/48,proxy
 ip6-cidr,2a00:1a98::/32,proxy

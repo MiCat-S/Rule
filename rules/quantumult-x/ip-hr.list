@@ -1083,7 +1083,6 @@ ip6-cidr,2a0e:ec05:a7c0::/42,proxy
 ip6-cidr,2a0e:ec05:a800::/40,proxy
 ip6-cidr,2a0e:ec05:a900::/41,proxy
 ip6-cidr,2a0e:ec05:a980::/42,proxy
-ip6-cidr,2a0f:31c1:3500::/48,proxy
 ip6-cidr,2a10:940::/29,proxy
 ip6-cidr,2a10:5700::/29,proxy
 ip6-cidr,2a10:c140::/29,proxy

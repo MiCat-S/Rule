@@ -770,6 +770,8 @@ ip-cidr,202.181.128.80/30,proxy
 ip-cidr,204.77.2.0/24,proxy
 ip-cidr,206.15.48.0/20,proxy
 ip-cidr,206.123.144.0/24,proxy
+ip-cidr,208.122.53.21/32,proxy
+ip-cidr,208.122.53.22/31,proxy
 ip-cidr,208.127.1.0/25,proxy
 ip-cidr,208.127.37.129/32,proxy
 ip-cidr,208.127.37.130/31,proxy

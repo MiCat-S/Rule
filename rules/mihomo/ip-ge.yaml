@@ -453,6 +453,7 @@ payload:
     - IP-CIDR,194.126.131.0/24
     - IP-CIDR,194.135.119.0/24
     - IP-CIDR,194.153.135.0/24
+    - IP-CIDR,194.165.62.0/24
     - IP-CIDR,195.5.179.0/24
     - IP-CIDR,195.54.178.0/23
     - IP-CIDR,195.69.140.0/22
@@ -677,7 +678,28 @@ payload:
     - IP-CIDR6,2a09:bac5:38a0::/45
     - IP-CIDR6,2a09:bac6:38a0::/45
     - IP-CIDR6,2a09:cd00::/29
-    - IP-CIDR6,2a0a:11c0::/29
+    - IP-CIDR6,2a0a:11c0::/30
+    - IP-CIDR6,2a0a:11c4::/32
+    - IP-CIDR6,2a0a:11c5::/48
+    - IP-CIDR6,2a0a:11c5:2::/47
+    - IP-CIDR6,2a0a:11c5:4::/46
+    - IP-CIDR6,2a0a:11c5:8::/45
+    - IP-CIDR6,2a0a:11c5:11::/48
+    - IP-CIDR6,2a0a:11c5:12::/47
+    - IP-CIDR6,2a0a:11c5:14::/46
+    - IP-CIDR6,2a0a:11c5:18::/45
+    - IP-CIDR6,2a0a:11c5:20::/43
+    - IP-CIDR6,2a0a:11c5:40::/42
+    - IP-CIDR6,2a0a:11c5:80::/41
+    - IP-CIDR6,2a0a:11c5:100::/40
+    - IP-CIDR6,2a0a:11c5:200::/39
+    - IP-CIDR6,2a0a:11c5:400::/38
+    - IP-CIDR6,2a0a:11c5:800::/37
+    - IP-CIDR6,2a0a:11c5:1000::/36
+    - IP-CIDR6,2a0a:11c5:2000::/35
+    - IP-CIDR6,2a0a:11c5:4000::/34
+    - IP-CIDR6,2a0a:11c5:8000::/33
+    - IP-CIDR6,2a0a:11c6::/31
     - IP-CIDR6,2a0a:2900::/29
     - IP-CIDR6,2a0a:4400::/29
     - IP-CIDR6,2a0a:5000::/29

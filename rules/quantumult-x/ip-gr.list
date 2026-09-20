@@ -151,7 +151,6 @@ ip-cidr,45.159.232.0/22,proxy
 ip-cidr,46.12.0.0/16,proxy
 ip-cidr,46.20.98.0/24,proxy
 ip-cidr,46.20.102.0/24,proxy
-ip-cidr,46.20.105.0/24,proxy
 ip-cidr,46.20.108.0/24,proxy
 ip-cidr,46.20.111.0/24,proxy
 ip-cidr,46.103.0.0/16,proxy
@@ -210,7 +209,6 @@ ip-cidr,66.151.135.92/32,proxy
 ip-cidr,69.48.235.56/32,proxy
 ip-cidr,69.48.235.80/32,proxy
 ip-cidr,69.48.235.116/32,proxy
-ip-cidr,69.48.238.59/32,proxy
 ip-cidr,69.84.204.64/26,proxy
 ip-cidr,72.1.89.104/32,proxy
 ip-cidr,72.14.201.56/31,proxy
@@ -303,6 +301,7 @@ ip-cidr,86.106.173.0/24,proxy
 ip-cidr,87.119.78.72/30,proxy
 ip-cidr,87.119.79.28/30,proxy
 ip-cidr,87.119.82.160/28,proxy
+ip-cidr,87.192.32.0/25,proxy
 ip-cidr,87.202.0.0/15,proxy
 ip-cidr,87.239.232.0/21,proxy
 ip-cidr,87.245.241.32/27,proxy
@@ -816,7 +815,6 @@ ip-cidr,159.26.121.0/24,proxy
 ip-cidr,159.48.162.60/32,proxy
 ip-cidr,159.48.171.9/32,proxy
 ip-cidr,159.48.171.210/32,proxy
-ip-cidr,159.48.190.38/32,proxy
 ip-cidr,159.234.65.116/30,proxy
 ip-cidr,160.25.104.97/32,proxy
 ip-cidr,160.25.105.97/32,proxy
@@ -1157,7 +1155,6 @@ ip-cidr,193.107.246.0/24,proxy
 ip-cidr,193.108.160.0/23,proxy
 ip-cidr,193.110.86.0/24,proxy
 ip-cidr,193.118.247.32/30,proxy
-ip-cidr,193.124.8.0/24,proxy
 ip-cidr,193.150.172.0/23,proxy
 ip-cidr,193.162.7.0/24,proxy
 ip-cidr,193.163.12.0/24,proxy
@@ -1380,12 +1377,10 @@ ip-cidr,209.8.196.32/28,proxy
 ip-cidr,209.40.110.9/32,proxy
 ip-cidr,209.40.110.51/32,proxy
 ip-cidr,209.40.110.132/32,proxy
-ip-cidr,209.40.110.147/32,proxy
 ip-cidr,209.40.110.199/32,proxy
 ip-cidr,209.40.110.241/32,proxy
 ip-cidr,209.40.120.9/32,proxy
 ip-cidr,209.40.120.31/32,proxy
-ip-cidr,209.40.120.63/32,proxy
 ip-cidr,209.40.120.135/32,proxy
 ip-cidr,209.40.120.187/32,proxy
 ip-cidr,209.206.10.0/24,proxy
@@ -2498,7 +2493,6 @@ ip6-cidr,2a0e:ec05:a1c0::/42,proxy
 ip6-cidr,2a0e:ec05:a200::/40,proxy
 ip6-cidr,2a0e:ec05:a300::/41,proxy
 ip6-cidr,2a0e:ec05:a380::/42,proxy
-ip6-cidr,2a0f:31c1:5000::/48,proxy
 ip6-cidr,2a0f:ffc0::/30,proxy
 ip6-cidr,2a0f:ffc4::/31,proxy
 ip6-cidr,2a0f:ffc6::/32,proxy
