@@ -3801,9 +3801,11 @@ host-suffix,findmybeats.com,proxy
 host-suffix,findmyipad.com,proxy
 host-suffix,fiotolia.com,proxy
 host-suffix,firebase.com,proxy
+host-suffix,firebase.dev,proxy
 host-suffix,firebase.io,proxy
 host-suffix,firebaseapp.com,proxy
 host-suffix,firebaseio.com,proxy
+host-suffix,firefox-portal-detection.com,proxy
 host-suffix,firefox.com,proxy
 host-suffix,firefox.hu,proxy
 host-suffix,firefoxtweetmachine.com,proxy
@@ -6072,6 +6074,7 @@ host-suffix,nomadproject.io,proxy
 host-suffix,nomulus.foo,proxy
 host-suffix,nomyne.com,proxy
 host-suffix,nonlinearnastran.com,proxy
+host-suffix,notebook.google,proxy
 host-suffix,notebooklm.google,proxy
 host-suffix,now-ashare.com,proxy
 host-suffix,now-tv.com,proxy
@@ -7100,6 +7103,7 @@ host-suffix,terraform.io,proxy
 host-suffix,terragraph.com,proxy
 host-suffix,tetrika-school.ru,proxy
 host-suffix,texture.com,proxy
+host-suffix,tfbnw.net,proxy
 host-suffix,tfhub.dev,proxy
 host-suffix,tfsallin.net,proxy
 host-suffix,th.bing.com,proxy

@@ -5811,6 +5811,7 @@ host-suffix,code-class.ru,proxy
 host-suffix,code.org,proxy
 host-suffix,codeberg.org,proxy
 host-suffix,codeberg.page,proxy
+host-suffix,codebuff.com,proxy
 host-suffix,codecademy.com,proxy
 host-suffix,codeforaliving.io,proxy
 host-suffix,codeforces.com,proxy
@@ -8922,10 +8923,12 @@ host-suffix,fiotolia.com,proxy
 host-suffix,fire-emblem-heroes.com,proxy
 host-suffix,firearmsworld.net,proxy
 host-suffix,firebase.com,proxy
+host-suffix,firebase.dev,proxy
 host-suffix,firebase.io,proxy
 host-suffix,firebaseapp.com,proxy
 host-suffix,firebaseio.com,proxy
 host-suffix,fireemblemawakening.com,proxy
+host-suffix,firefox-portal-detection.com,proxy
 host-suffix,firefox.com,proxy
 host-suffix,firefox.hu,proxy
 host-suffix,firefoxtweetmachine.com,proxy
@@ -9340,6 +9343,7 @@ host-suffix,freebigmovies.com,proxy
 host-suffix,freebrowser.org,proxy
 host-suffix,freebs.com,proxy
 host-suffix,freebsd.org,proxy
+host-suffix,freebuff.com,proxy
 host-suffix,freecamsfan.com,proxy
 host-suffix,freecartoons.biz,proxy
 host-suffix,freechatnow.com,proxy
@@ -22079,6 +22083,7 @@ host-suffix,textnow.com,proxy
 host-suffix,textnow.me,proxy
 host-suffix,texttobuy.org,proxy
 host-suffix,texture.com,proxy
+host-suffix,tfbnw.net,proxy
 host-suffix,tfc-taiwan.org.tw,proxy
 host-suffix,tferwq.com,proxy
 host-suffix,tfhub.dev,proxy

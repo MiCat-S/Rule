@@ -60,6 +60,7 @@ host-suffix,fenbike.com,proxy
 host-suffix,fenbilantian.cn,proxy
 host-suffix,fenbilantian.com,proxy
 host-suffix,gaojidata.com,proxy
+host-suffix,gaokao.cn,proxy
 host-suffix,gaokao.com,proxy
 host-suffix,gatzs.com.cn,proxy
 host-suffix,gfbzb.cn,proxy
@@ -76,6 +77,7 @@ host-suffix,hjapi.com,proxy
 host-suffix,hjfile.cn,proxy
 host-suffix,huatu.com,proxy
 host-suffix,hugecore.net,proxy
+host-suffix,huijiaoyun.com,proxy
 host-suffix,hujiang.com,proxy
 host-suffix,icourse163.org,proxy
 host-suffix,icourses.cn,proxy
@@ -102,6 +104,7 @@ host-suffix,magedu.com,proxy
 host-suffix,maimemo.com,proxy
 host-suffix,maimemostatus.com,proxy
 host-suffix,markji.com,proxy
+host-suffix,mddclass.com,proxy
 host-suffix,modex.com.cn,proxy
 host-suffix,mojidict.com,proxy
 host-suffix,mooc.cn,proxy
@@ -133,9 +136,11 @@ host-suffix,saduck.top,proxy
 host-suffix,schoopia.com,proxy
 host-suffix,shanbay.com,proxy
 host-suffix,shareintelli.com,proxy
+host-suffix,sksight.com,proxy
 host-suffix,smartedu.cn,proxy
 host-suffix,speiyou.com,proxy
 host-suffix,sydw8.com,proxy
+host-suffix,syh.zybang.com,proxy
 host-suffix,tal.com,proxy
 host-suffix,tesoon.com,proxy
 host-suffix,tongxuepie.com,proxy
@@ -182,5 +187,8 @@ host-suffix,zuowen8.com,proxy
 host-suffix,zuowenjun.com,proxy
 host-suffix,zuowenku.net,proxy
 host-suffix,zuowenwang.net,proxy
+host-suffix,zuoyebang.cc,proxy
+host-suffix,zuoyebang.com,proxy
 host-suffix,zxxk.com,proxy
+host-suffix,zybang.com,proxy
 host-suffix,zysn.net,proxy

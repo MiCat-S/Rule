@@ -7,6 +7,8 @@ host-suffix,360buy.com.cn,proxy
 host-suffix,360buyimg.com,proxy
 host-suffix,360buyinternational.com,proxy
 host-suffix,360top.com,proxy
+host-suffix,51epei.com,proxy
+host-suffix,51yipei.com,proxy
 host-suffix,7fresh.com,proxy
 host-suffix,ads-union.jd.com,proxy
 host-suffix,ads.union.jd.com,proxy
@@ -94,6 +96,7 @@ host-suffix,cloudzhongshan.com,proxy
 host-suffix,cloudzhuhai.com,proxy
 host-suffix,cps.360buy.com,proxy
 host-suffix,dao123.com,proxy
+host-suffix,dd-advisor.com,proxy
 host-suffix,duiou.com.cn,proxy
 host-suffix,duolabao.com,proxy
 host-suffix,gia.jd.com,proxy
@@ -148,6 +151,7 @@ host-suffix,jd.hk,proxy
 host-suffix,jd.id,proxy
 host-suffix,jd.ru,proxy
 host-suffix,jd.shop,proxy
+host-suffix,jdallianz.com,proxy
 host-suffix,jdbusiness.com,proxy
 host-suffix,jdcache.com,proxy
 host-suffix,jdcdn.com,proxy
@@ -193,6 +197,7 @@ host-suffix,jdfw1.com,proxy
 host-suffix,jdgslb.com,proxy
 host-suffix,jdgslb.net,proxy
 host-suffix,jdh.com,proxy
+host-suffix,jdindustry.com,proxy
 host-suffix,jdjinrong.com,proxy
 host-suffix,jdl.cn,proxy
 host-suffix,jdl.com,proxy
@@ -203,12 +208,15 @@ host-suffix,jdpaydns.com,proxy
 host-suffix,jdwl.com,proxy
 host-suffix,jdx.com,proxy
 host-suffix,jhscm.com,proxy
+host-suffix,jingbantong.com,proxy
 host-suffix,jingdong.com,proxy
 host-suffix,jingdonghealth.cn,proxy
 host-suffix,jingdongjinrong.com,proxy
 host-suffix,jingpinhui.com,proxy
 host-suffix,jingxi.com,proxy
+host-suffix,jingxiaoling.com,proxy
 host-suffix,jkcsjd.com,proxy
+host-suffix,joyai.com,proxy
 host-suffix,joybuy.com,proxy
 host-suffix,joybuy.es,proxy
 host-suffix,jzt.jd.com,proxy
@@ -236,8 +244,12 @@ host-suffix,wuliujie.cn,proxy
 host-suffix,wuliujie.com,proxy
 host-suffix,xianjiqun.com,proxy
 host-suffix,xjoycity.com,proxy
+host-suffix,ybscjp.com,proxy
 host-suffix,yhd.com,proxy
 host-suffix,yihaodian.com,proxy
 host-suffix,yihaodianimg.com,proxy
 host-suffix,yiyaojd.com,proxy
 host-suffix,yizhitou.com,proxy
+host-suffix,yunpei.com,proxy
+host-suffix,yunxiu.com,proxy
+host-suffix,zhongyouex.com,proxy

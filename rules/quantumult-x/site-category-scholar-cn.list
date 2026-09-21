@@ -7,11 +7,14 @@ host-suffix,ancientbooks.cn,proxy
 host-suffix,apabi.com,proxy
 host-suffix,bjinfobank.com,proxy
 host-suffix,blyun.com,proxy
+host-suffix,cae.cn,proxy
+host-suffix,cas.cn,proxy
 host-suffix,ccf.org.cn,proxy
 host-suffix,chaoxing.cc,proxy
 host-suffix,chaoxing.com,proxy
 host-suffix,chaoxingv.com,proxy
 host-suffix,chinabooktrading.com,proxy
+host-suffix,chinaxiv.org,proxy
 host-suffix,chndoi.org,proxy
 host-suffix,cidp.com.cn,proxy
 host-suffix,cnbksy.com,proxy
@@ -88,3 +91,4 @@ host-suffix,ylike.net,proxy
 host-suffix,zaifan.com,proxy
 host-suffix,zaifan.com.cn,proxy
 host-suffix,zhihang100.com,proxy
+host-suffix,zsyyb.cn,proxy

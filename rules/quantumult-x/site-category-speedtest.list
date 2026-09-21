@@ -7,6 +7,7 @@ host-suffix,ekahau.cloud,proxy
 host-suffix,ekahau.com,proxy
 host-suffix,fast.com,proxy
 host-suffix,fastspeedtest.com,proxy
+host-suffix,librespeed.org,proxy
 host-suffix,linkmeter.net,proxy
 host-suffix,measurementlab.net,proxy
 host-suffix,meter.net,proxy

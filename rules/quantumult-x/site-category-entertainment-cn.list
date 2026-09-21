@@ -322,6 +322,7 @@ host-suffix,g3.letv.com,proxy
 host-suffix,gameabc.com,proxy
 host-suffix,gamebonfire.com,proxy
 host-suffix,gamediary.cn,proxy
+host-suffix,gamedog.cn,proxy
 host-suffix,gameitop.com,proxy
 host-suffix,gamelook.com.cn,proxy
 host-suffix,gameloop.com,proxy
@@ -425,6 +426,7 @@ host-suffix,inke.cn,proxy
 host-suffix,inkuai.com,proxy
 host-suffix,inkwai.com,proxy
 host-suffix,ishuqi.com,proxy
+host-suffix,ituchong.com,proxy
 host-suffix,ja.gamersky.com,proxy
 host-suffix,ja1.gamersky.com,proxy
 host-suffix,ja2.gamersky.com,proxy
@@ -688,6 +690,7 @@ host-suffix,timibase.com,proxy
 host-suffix,tingmall.com,proxy
 host-suffix,tmead.y.qq.com,proxy
 host-suffix,tmeadcomm.y.qq.com,proxy
+host-suffix,tuchong.com,proxy
 host-suffix,tuer123.com,proxy
 host-suffix,tuyoo.com,proxy
 host-suffix,twyx.cn,proxy
@@ -748,6 +751,7 @@ host-suffix,xyys.com,proxy
 host-suffix,xyzcdn.net,proxy
 host-suffix,xyzfm.link,proxy
 host-suffix,xyzfm.space,proxy
+host-suffix,xzw.com,proxy
 host-suffix,y.qq.com,proxy
 host-suffix,yamibo.com,proxy
 host-suffix,ycgame.com,proxy
@@ -761,7 +765,9 @@ host-suffix,yiyouliao.com,proxy
 host-suffix,yjwujian.cn,proxy
 host-suffix,yokaverse.com,proxy
 host-suffix,youba.com,proxy
+host-suffix,youxibao.com,proxy
 host-suffix,youxichaguan.com,proxy
+host-suffix,youxiniao.com,proxy
 host-suffix,youxiputao.com,proxy
 host-suffix,youxituoluo.com,proxy
 host-suffix,yuanshen.com,proxy

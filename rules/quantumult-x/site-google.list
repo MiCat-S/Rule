@@ -414,6 +414,7 @@ host-suffix,feedburner.com,proxy
 host-suffix,fflick.com,proxy
 host-suffix,financeleadsonline.com,proxy
 host-suffix,firebase.com,proxy
+host-suffix,firebase.dev,proxy
 host-suffix,firebase.io,proxy
 host-suffix,firebaseapp.com,proxy
 host-suffix,firebaseio.com,proxy
@@ -597,6 +598,7 @@ host-suffix,nest.com,proxy
 host-suffix,new.day,proxy
 host-suffix,nexus,proxy
 host-suffix,nomulus.foo,proxy
+host-suffix,notebook.google,proxy
 host-suffix,notebooklm.google,proxy
 host-suffix,oauthz.com,proxy
 host-suffix,on.here,proxy

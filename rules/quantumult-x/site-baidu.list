@@ -116,7 +116,6 @@ host-suffix,sclick.baidu.com,proxy
 host-suffix,shifen.com,proxy
 host-suffix,smartapps.cn,proxy
 host-suffix,spcode.baidu.com,proxy
-host-suffix,syh.zybang.com,proxy
 host-suffix,tcbox.baidu.com,proxy
 host-suffix,tieba.com,proxy
 host-suffix,tiebaimg.com,proxy
@@ -130,7 +129,4 @@ host-suffix,xdrtc.com,proxy
 host-suffix,xianfae.com,proxy
 host-suffix,xiaodutv.com,proxy
 host-suffix,yoojia.com,proxy
-host-suffix,zuoyebang.cc,proxy
-host-suffix,zuoyebang.com,proxy
-host-suffix,zybang.com,proxy
 host-suffix,zz.bdstatic.com,proxy

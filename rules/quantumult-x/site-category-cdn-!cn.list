@@ -934,6 +934,7 @@ host-suffix,cdn.imgchest.com,proxy
 host-suffix,cdn.imgeng.in,proxy
 host-suffix,cdn.imghaste.com,proxy
 host-suffix,cdn.infoq.com,proxy
+host-suffix,cdn.infrawire.net,proxy
 host-suffix,cdn.insightmediagroup.io,proxy
 host-suffix,cdn.inviter.co,proxy
 host-suffix,cdn.ionos.de,proxy
@@ -1239,6 +1240,7 @@ host-suffix,cdn1.hotmoza.tv,proxy
 host-suffix,cdn1.iconfinder.com,proxy
 host-suffix,cdn1.identitymind.com,proxy
 host-suffix,cdn1.plesk.com,proxy
+host-suffix,cdn1.singteldigital.com,proxy
 host-suffix,cdn1.stamped.io,proxy
 host-suffix,cdn1.suno.ai,proxy
 host-suffix,cdn1.sysgears.com,proxy
@@ -2229,6 +2231,7 @@ host-suffix,imag.malavida.com,proxy
 host-suffix,image-cdn.porndig.com,proxy
 host-suffix,image-forwarder.notaku.so,proxy
 host-suffix,image-stgus.samsung.com,proxy
+host-suffix,image-tc.galaxy.tf,proxy
 host-suffix,image-us.samsung.com,proxy
 host-suffix,image.acg.lol,proxy
 host-suffix,image.ap-mail.org,proxy
@@ -3261,6 +3264,7 @@ host-suffix,phishing.army,proxy
 host-suffix,phncdn.com,proxy
 host-suffix,photobucket.com,proxy
 host-suffix,photocdn.stream,proxy
+host-suffix,photos.flightaware.com,proxy
 host-suffix,photos5.appleinsider.com,proxy
 host-suffix,phprcdn.com,proxy
 host-suffix,pic-bstarstatic.akamaized.net,proxy
@@ -4421,6 +4425,7 @@ host-suffix,tiles-a.koordinates.com,proxy
 host-suffix,tiles-api.maps.komoot.net,proxy
 host-suffix,tiles-eu.stadiamaps.com,proxy
 host-suffix,tiles.arcgis.com,proxy
+host-suffix,tiles.flightaware.com,proxy
 host-suffix,tiles.freemap.sk,proxy
 host-suffix,tiles.gsj.jp,proxy
 host-suffix,tiles.immich.cloud,proxy
@@ -4450,6 +4455,7 @@ host-suffix,tiles1.planet.com,proxy
 host-suffix,tiles2.mapiful.com,proxy
 host-suffix,tiles2.planet.com,proxy
 host-suffix,tiles3.planet.com,proxy
+host-suffix,tileserver.b10s.net,proxy
 host-suffix,tileserver.gnome.org,proxy
 host-suffix,tileserver.memomaps.de,proxy
 host-suffix,time-a.nist.gov,proxy

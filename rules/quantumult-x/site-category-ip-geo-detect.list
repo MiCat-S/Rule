@@ -7,6 +7,7 @@ host,ip.comss.net,proxy
 host,ipv4-check-perf.radar.cloudflare.com,proxy
 host,ipv6-check-perf.radar.cloudflare.com,proxy
 host,myip.dnsomatic.com,proxy
+host,myip.happ.su,proxy
 host,whatismyip.akamai.com,proxy
 host-suffix,2ip.io,proxy
 host-suffix,2ip.ru,proxy
@@ -31,6 +32,7 @@ host-suffix,criminalip.io,proxy
 host-suffix,curlmyip.net,proxy
 host-suffix,dadata.ru,proxy
 host-suffix,db-ip.com,proxy
+host-suffix,dnscheck.tools,proxy
 host-suffix,dnsleaktest.com,proxy
 host-suffix,extreme-ip-lookup.com,proxy
 host-suffix,find-my-ip.com,proxy
@@ -114,6 +116,8 @@ host-suffix,iplocate.io,proxy
 host-suffix,iplocation.com,proxy
 host-suffix,iplocation.io,proxy
 host-suffix,iplocation.net,proxy
+host-suffix,iplogger.com,proxy
+host-suffix,iplogger.org,proxy
 host-suffix,iplookup.it,proxy
 host-suffix,ipme.co,proxy
 host-suffix,ipme.in,proxy

@@ -28,9 +28,10 @@ host,docker-pinata-support.s3.amazonaws.com,proxy
 host,download.visualstudio.microsoft.com,proxy
 host,dtlgalleryint.cloudapp.net,proxy
 host,firebase-settings.crashlytics.com,proxy
-host,firebase.google.com,proxy
 host,firebase.googleapis.com,proxy
 host,firebaseappcheck.googleapis.com,proxy
+host,firebaseappdistribution.googleapis.com,proxy
+host,firebaseapptesters.googleapis.com,proxy
 host,firebasedynamiclinks-ipv4.googleapis.com,proxy
 host,firebasedynamiclinks-ipv6.googleapis.com,proxy
 host,firebasedynamiclinks.googleapis.com,proxy
@@ -145,6 +146,7 @@ host-suffix,clojure.org,proxy
 host-suffix,cnpmjs.org,proxy
 host-suffix,codeberg.org,proxy
 host-suffix,codeberg.page,proxy
+host-suffix,codebuff.com,proxy
 host-suffix,codeforaliving.io,proxy
 host-suffix,codethemicrobit.com,proxy
 host-suffix,collector.github.com,proxy
@@ -219,6 +221,8 @@ host-suffix,ffmpeg.org,proxy
 host-suffix,fightforux.com,proxy
 host-suffix,filezilla-project.org,proxy
 host-suffix,firebase.com,proxy
+host-suffix,firebase.dev,proxy
+host-suffix,firebase.google.com,proxy
 host-suffix,firebase.io,proxy
 host-suffix,firebaseapp.com,proxy
 host-suffix,firebaseio.com,proxy
@@ -239,6 +243,7 @@ host-suffix,framercanvas.com,proxy
 host-suffix,framerstatic.com,proxy
 host-suffix,framerusercontent.com,proxy
 host-suffix,freebsd.org,proxy
+host-suffix,freebuff.com,proxy
 host-suffix,frescolib.org,proxy
 host-suffix,fury.blog,proxy
 host-suffix,fury.co,proxy

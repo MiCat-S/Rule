@@ -18,6 +18,7 @@ host,www.qualcomm.com,proxy
 host-suffix,captive.apple.com,proxy
 host-suffix,cp.cloudflare.com,proxy
 host-suffix,detectportal.firefox.com,proxy
+host-suffix,firefox-portal-detection.com,proxy
 host-suffix,ipv6check-http.steamserver.net,proxy
 host-suffix,ipv6check-udp.steamserver.net,proxy
 host-suffix,kuketz.de,proxy

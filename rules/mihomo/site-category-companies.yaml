@@ -3802,9 +3802,11 @@ payload:
     - DOMAIN-SUFFIX,findmyipad.com
     - DOMAIN-SUFFIX,fiotolia.com
     - DOMAIN-SUFFIX,firebase.com
+    - DOMAIN-SUFFIX,firebase.dev
     - DOMAIN-SUFFIX,firebase.io
     - DOMAIN-SUFFIX,firebaseapp.com
     - DOMAIN-SUFFIX,firebaseio.com
+    - DOMAIN-SUFFIX,firefox-portal-detection.com
     - DOMAIN-SUFFIX,firefox.com
     - DOMAIN-SUFFIX,firefox.hu
     - DOMAIN-SUFFIX,firefoxtweetmachine.com
@@ -6073,6 +6075,7 @@ payload:
     - DOMAIN-SUFFIX,nomulus.foo
     - DOMAIN-SUFFIX,nomyne.com
     - DOMAIN-SUFFIX,nonlinearnastran.com
+    - DOMAIN-SUFFIX,notebook.google
     - DOMAIN-SUFFIX,notebooklm.google
     - DOMAIN-SUFFIX,now-ashare.com
     - DOMAIN-SUFFIX,now-tv.com
@@ -7101,6 +7104,7 @@ payload:
     - DOMAIN-SUFFIX,terragraph.com
     - DOMAIN-SUFFIX,tetrika-school.ru
     - DOMAIN-SUFFIX,texture.com
+    - DOMAIN-SUFFIX,tfbnw.net
     - DOMAIN-SUFFIX,tfhub.dev
     - DOMAIN-SUFFIX,tfsallin.net
     - DOMAIN-SUFFIX,th.bing.com
