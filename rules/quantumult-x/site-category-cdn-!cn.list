@@ -2330,6 +2330,7 @@ host-suffix,images.g2crowd.com,proxy
 host-suffix,images.github.media,proxy
 host-suffix,images.gog.com,proxy
 host-suffix,images.hentaicity.com,proxy
+host-suffix,images.hibob.com,proxy
 host-suffix,images.hothardware.com,proxy
 host-suffix,images.icon-icons.com,proxy
 host-suffix,images.indianexpress.com,proxy
@@ -2903,6 +2904,7 @@ host-suffix,media-cms.ayoba.me,proxy
 host-suffix,media-cms.onesignal.com,proxy
 host-suffix,media-hls.growcdnssedge.com,proxy
 host-suffix,media-imdb.com,proxy
+host-suffix,media-process.hibob.com,proxy
 host-suffix,media-s3-us-east-1.ceros.com,proxy
 host-suffix,media.amplience.net,proxy
 host-suffix,media.beehiiv.com,proxy
