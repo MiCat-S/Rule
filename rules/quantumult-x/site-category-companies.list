@@ -233,6 +233,7 @@ host,download.visualstudio.microsoft.com,proxy
 host,downloaddispatch.itunes.apple.com,proxy
 host,dreamspark.download.prss.microsoft.com,proxy
 host,dreamsparkuat.download.prss.microsoft.com,proxy
+host,drivers.amd.com,proxy
 host,edge.geo.kaspersky.com,proxy
 host,emmapplecodevice.googleapis.com,proxy
 host,entitlements-edge.itunes.apple.com,proxy

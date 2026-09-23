@@ -234,6 +234,7 @@ payload:
     - DOMAIN,downloaddispatch.itunes.apple.com
     - DOMAIN,dreamspark.download.prss.microsoft.com
     - DOMAIN,dreamsparkuat.download.prss.microsoft.com
+    - DOMAIN,drivers.amd.com
     - DOMAIN,edge.geo.kaspersky.com
     - DOMAIN,emmapplecodevice.googleapis.com
     - DOMAIN,entitlements-edge.itunes.apple.com
