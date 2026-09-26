@@ -1,7 +1,7 @@
 {
-  "source_rule_sets": 2151,
-  "converted_rule_sets": 2149,
-  "rules": 1752118,
+  "source_rule_sets": 2153,
+  "converted_rule_sets": 2151,
+  "rules": 1750627,
   "binary_only": [
     "site-awavenue-ads",
     "site-category-ads-all-adguard"

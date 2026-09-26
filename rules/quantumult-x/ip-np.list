@@ -417,7 +417,6 @@ ip-cidr,185.246.238.64/26,proxy
 ip-cidr,187.40.237.0/24,proxy
 ip-cidr,188.253.96.0/21,proxy
 ip-cidr,193.186.4.164/32,proxy
-ip-cidr,194.50.99.169/32,proxy
 ip-cidr,194.169.170.0/24,proxy
 ip-cidr,196.48.145.0/24,proxy
 ip-cidr,196.56.145.0/24,proxy

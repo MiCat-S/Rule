@@ -821,7 +821,6 @@ ip-cidr,194.42.43.0/24,proxy
 ip-cidr,194.49.6.0/24,proxy
 ip-cidr,194.49.18.0/24,proxy
 ip-cidr,194.49.20.0/24,proxy
-ip-cidr,194.50.99.201/32,proxy
 ip-cidr,194.50.136.0/23,proxy
 ip-cidr,194.50.138.0/24,proxy
 ip-cidr,194.50.166.0/24,proxy
