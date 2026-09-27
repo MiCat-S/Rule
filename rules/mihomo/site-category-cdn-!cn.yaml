@@ -1666,6 +1666,7 @@ payload:
     - DOMAIN-SUFFIX,dlstats.izzyondroid.org
     - DOMAIN-SUFFIX,dlunar.net
     - DOMAIN-SUFFIX,dm-static.com
+    - DOMAIN-SUFFIX,dma.canyon.com
     - DOMAIN-SUFFIX,dmcdn.net
     - DOMAIN-SUFFIX,dmm-extension.com
     - DOMAIN-SUFFIX,dnvodcdn.me
@@ -2631,7 +2632,6 @@ payload:
     - DOMAIN-SUFFIX,ipfs.cyou
     - DOMAIN-SUFFIX,ipfs.decoo.io
     - DOMAIN-SUFFIX,ipfs.denarius.io
-    - DOMAIN-SUFFIX,ipfs.ecolatam.com
     - DOMAIN-SUFFIX,ipfs.eternum.io
     - DOMAIN-SUFFIX,ipfs.eth.aragon.network
     - DOMAIN-SUFFIX,ipfs.filebase.io
@@ -2951,6 +2951,7 @@ payload:
     - DOMAIN-SUFFIX,media.inhumanity.com
     - DOMAIN-SUFFIX,media.invisioncic.com
     - DOMAIN-SUFFIX,media.istockphoto.com
+    - DOMAIN-SUFFIX,media.karousell.com
     - DOMAIN-SUFFIX,media.kit.com
     - DOMAIN-SUFFIX,media.lantern.io
     - DOMAIN-SUFFIX,media.letsdeel.com

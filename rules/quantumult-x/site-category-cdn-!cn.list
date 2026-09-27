@@ -1665,6 +1665,7 @@ host-suffix,dlassets-ssl.xboxlive.com,proxy
 host-suffix,dlstats.izzyondroid.org,proxy
 host-suffix,dlunar.net,proxy
 host-suffix,dm-static.com,proxy
+host-suffix,dma.canyon.com,proxy
 host-suffix,dmcdn.net,proxy
 host-suffix,dmm-extension.com,proxy
 host-suffix,dnvodcdn.me,proxy
@@ -2630,7 +2631,6 @@ host-suffix,ipfs.busy.org,proxy
 host-suffix,ipfs.cyou,proxy
 host-suffix,ipfs.decoo.io,proxy
 host-suffix,ipfs.denarius.io,proxy
-host-suffix,ipfs.ecolatam.com,proxy
 host-suffix,ipfs.eternum.io,proxy
 host-suffix,ipfs.eth.aragon.network,proxy
 host-suffix,ipfs.filebase.io,proxy
@@ -2950,6 +2950,7 @@ host-suffix,media.infosec.exchange,proxy
 host-suffix,media.inhumanity.com,proxy
 host-suffix,media.invisioncic.com,proxy
 host-suffix,media.istockphoto.com,proxy
+host-suffix,media.karousell.com,proxy
 host-suffix,media.kit.com,proxy
 host-suffix,media.lantern.io,proxy
 host-suffix,media.letsdeel.com,proxy
