@@ -5553,6 +5553,7 @@ host-suffix,messenger.com,proxy
 host-suffix,messengerdevelopers.com,proxy
 host-suffix,meta.ai,proxy
 host-suffix,meta.com,proxy
+host-suffix,metaaivm.com,proxy
 host-suffix,metabora.io,proxy
 host-suffix,metacloud.com,proxy
 host-suffix,metamind.io,proxy
@@ -5930,6 +5931,7 @@ host-suffix,mtsdengi.ru,proxy
 host-suffix,mtsmedia.ru,proxy
 host-suffix,mudbox3d.com,proxy
 host-suffix,multiplydiversity.com,proxy
+host-suffix,muse.ai,proxy
 host-suffix,musickit.net,proxy
 host-suffix,musixmatch.com,proxy
 host-suffix,muumuu-domain.com,proxy

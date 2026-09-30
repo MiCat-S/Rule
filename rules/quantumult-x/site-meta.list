@@ -472,9 +472,11 @@ host-suffix,messenger.com,proxy
 host-suffix,messengerdevelopers.com,proxy
 host-suffix,meta.ai,proxy
 host-suffix,meta.com,proxy
+host-suffix,metaaivm.com,proxy
 host-suffix,midentsolutions.com,proxy
 host-suffix,mobilefacebook.com,proxy
 host-suffix,moneywithfacebook.com,proxy
+host-suffix,muse.ai,proxy
 host-suffix,myfbfans.com,proxy
 host-suffix,nbabot.net,proxy
 host-suffix,newsfeed.com,proxy

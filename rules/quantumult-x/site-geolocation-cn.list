@@ -1139,6 +1139,7 @@ host-suffix,cmcmcdn.com,proxy
 host-suffix,cn.pool.ntp.org,proxy
 host-suffix,cnanzhi.com,proxy
 host-suffix,cnb.cool,proxy
+host-suffix,cnb.space,proxy
 host-suffix,cnbksy.com,proxy
 host-suffix,cnblogs.com,proxy
 host-suffix,cnblogs.vip,proxy
