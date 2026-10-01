@@ -1391,6 +1391,7 @@ host-suffix,futuremessage.org,proxy
 host-suffix,futustatic.com,proxy
 host-suffix,fututrade.com,proxy
 host-suffix,fututrustee.com,proxy
+host-suffix,fuyin116.com,proxy
 host-suffix,fw.cm,proxy
 host-suffix,fxcm-chinese.com,proxy
 host-suffix,fxnetworks.com,proxy
@@ -2536,6 +2537,7 @@ host-suffix,mthruf.com,proxy
 host-suffix,mubi.com,proxy
 host-suffix,mullvad.net,proxy
 host-suffix,multiply.com,proxy
+host-suffix,muse.ai,proxy
 host-suffix,music.amazon.com,proxy
 host-suffix,musixmatch.com,proxy
 host-suffix,muzi.com,proxy

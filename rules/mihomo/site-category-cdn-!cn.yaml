@@ -2452,6 +2452,7 @@ payload:
     - DOMAIN-SUFFIX,img.gs
     - DOMAIN-SUFFIX,img.haiwaikan.com
     - DOMAIN-SUFFIX,img.hellofresh.com
+    - DOMAIN-SUFFIX,img.helpnetsecurity.com
     - DOMAIN-SUFFIX,img.hentaihaven.xxx
     - DOMAIN-SUFFIX,img.highporn.net
     - DOMAIN-SUFFIX,img.huffingtonpost.com
@@ -2524,6 +2525,7 @@ payload:
     - DOMAIN-SUFFIX,img1.yna.co.kr
     - DOMAIN-SUFFIX,img2.acsta.net
     - DOMAIN-SUFFIX,img2.gelbooru.com
+    - DOMAIN-SUFFIX,img2.helpnetsecurity.com
     - DOMAIN-SUFFIX,img2.javmost.com
     - DOMAIN-SUFFIX,img2.socialshopwave.com
     - DOMAIN-SUFFIX,img2.tnaflix.com
