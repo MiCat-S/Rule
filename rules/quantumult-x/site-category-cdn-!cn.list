@@ -373,6 +373,7 @@ host-suffix,assets.sendinblue.com,proxy
 host-suffix,assets.shazam.com,proxy
 host-suffix,assets.shortbread.aws.dev,proxy
 host-suffix,assets.shots.so,proxy
+host-suffix,assets.singaporeair.com,proxy
 host-suffix,assets.slater.app,proxy
 host-suffix,assets.sololearn.com,proxy
 host-suffix,assets.speedvitals.com,proxy
@@ -1836,6 +1837,7 @@ host-suffix,fa.gsma.com,proxy
 host-suffix,faceit-cdn.net,proxy
 host-suffix,fakeimg.pl,proxy
 host-suffix,fakestoreapi.com,proxy
+host-suffix,fal.media,proxy
 host-suffix,fast-sfc.com,proxy
 host-suffix,fast.appcues.com,proxy
 host-suffix,fast.chameleon.io,proxy
