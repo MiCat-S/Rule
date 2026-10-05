@@ -46,6 +46,7 @@ host-suffix,getlantern.org,proxy
 host-suffix,getoutline.org,proxy
 host-suffix,gfw.report,proxy
 host-suffix,googlecensorship.org,proxy
+host-suffix,googleplaycensorship.com,proxy
 host-suffix,greatfire.org,proxy
 host-suffix,greatfirevpn.com,proxy
 host-suffix,guardianproject.info,proxy
