@@ -24,11 +24,15 @@ host-suffix,clau.de,proxy
 host-suffix,claude-code.mintlify.app,proxy
 host-suffix,claude.ai,proxy
 host-suffix,claude.com,proxy
+host-suffix,claude.dev,proxy
 host-suffix,claudemcpclient.com,proxy
+host-suffix,claudemcpcontent.com,proxy
 host-suffix,claudeusercontent.com,proxy
 host-suffix,clipdrop.co,proxy
 host-suffix,coderabbit.ai,proxy
 host-suffix,coderabbit.gallery.vsassets.io,proxy
+host-suffix,cohere.ai,proxy
+host-suffix,cohere.com,proxy
 host-suffix,copilot-proxy.githubusercontent.com,proxy
 host-suffix,copilot.microsoft.com,proxy
 host-suffix,deepmind.com,proxy
@@ -39,8 +43,11 @@ host-suffix,generativelanguage.googleapis.com,proxy
 host-suffix,grazie.ai,proxy
 host-suffix,grazie.aws.intellij.net,proxy
 host-suffix,grok.com,proxy
+host-suffix,grok.x.com,proxy
+host-suffix,grokipedia.com,proxy
 host-suffix,imagine.meta.com,proxy
 host-suffix,jasper.ai,proxy
+host-suffix,jetbrains.ai,proxy
 host-suffix,kimi.ai,proxy
 host-suffix,kimi.com,proxy
 host-suffix,makersuite.google.com,proxy
