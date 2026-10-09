@@ -2488,6 +2488,7 @@ payload:
     - DOMAIN-SUFFIX,cadmep.com
     - DOMAIN-SUFFIX,cadoverlay.com
     - DOMAIN-SUFFIX,cadren.com
+    - DOMAIN-SUFFIX,cafe.github.com
     - DOMAIN-SUFFIX,caice.com
     - DOMAIN-SUFFIX,calendarserver.org
     - DOMAIN-SUFFIX,calicolabs.com
@@ -4208,8 +4209,6 @@ payload:
     - DOMAIN-SUFFIX,granulate.io
     - DOMAIN-SUFFIX,graph-fallback.instagram.com
     - DOMAIN-SUFFIX,graph.instagram.com
-    - DOMAIN-SUFFIX,graph.whatsapp.com
-    - DOMAIN-SUFFIX,graph.whatsapp.net
     - DOMAIN-SUFFIX,graphengine.io
     - DOMAIN-SUFFIX,gravitytank.com
     - DOMAIN-SUFFIX,greenbuildingstudio.com

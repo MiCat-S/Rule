@@ -384,8 +384,6 @@ host-suffix,gameroom.com,proxy
 host-suffix,gfacecbook.com,proxy
 host-suffix,graph-fallback.instagram.com,proxy
 host-suffix,graph.instagram.com,proxy
-host-suffix,graph.whatsapp.com,proxy
-host-suffix,graph.whatsapp.net,proxy
 host-suffix,groups.com,proxy
 host-suffix,hackerfacebook.com,proxy
 host-suffix,hackfacebook.com,proxy

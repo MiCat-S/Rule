@@ -2487,6 +2487,7 @@ host-suffix,cadduct.com,proxy
 host-suffix,cadmep.com,proxy
 host-suffix,cadoverlay.com,proxy
 host-suffix,cadren.com,proxy
+host-suffix,cafe.github.com,proxy
 host-suffix,caice.com,proxy
 host-suffix,calendarserver.org,proxy
 host-suffix,calicolabs.com,proxy
@@ -4207,8 +4208,6 @@ host-suffix,grafolio.com,proxy
 host-suffix,granulate.io,proxy
 host-suffix,graph-fallback.instagram.com,proxy
 host-suffix,graph.instagram.com,proxy
-host-suffix,graph.whatsapp.com,proxy
-host-suffix,graph.whatsapp.net,proxy
 host-suffix,graphengine.io,proxy
 host-suffix,gravitytank.com,proxy
 host-suffix,greenbuildingstudio.com,proxy

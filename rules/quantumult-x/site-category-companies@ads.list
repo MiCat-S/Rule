@@ -49,10 +49,6 @@ host,clck.yandex.com,proxy
 host,clck.yandex.net,proxy
 host,clck.yango.com,proxy
 host,click.rustore.ru,proxy
-host,copilot-telemetry-service.githubusercontent.com,proxy
-host,copilot-telemetry.githubusercontent.com,proxy
-host,incoming-telemetry.thunderbird.net,proxy
-host,incoming.telemetry.mozilla.org,proxy
 host,informer.yandex.ru,proxy
 host,log.strm.yandex.ru,proxy
 host,mc.yandex.com,proxy
@@ -141,7 +137,6 @@ host-suffix,browser.events.data.msn.com,proxy
 host-suffix,bs.yandex.ru,proxy
 host-suffix,clarity.ms,proxy
 host-suffix,clck.yandex.ru,proxy
-host-suffix,collector.github.com,proxy
 host-suffix,counter.yandex.ru,proxy
 host-suffix,cxhub.ru,proxy
 host-suffix,demdex.net,proxy
@@ -177,8 +172,6 @@ host-suffix,googletraveladservices.com,proxy
 host-suffix,googlevads-cn.com,proxy
 host-suffix,graph-fallback.instagram.com,proxy
 host-suffix,graph.instagram.com,proxy
-host-suffix,graph.whatsapp.com,proxy
-host-suffix,graph.whatsapp.net,proxy
 host-suffix,iad.apple.com,proxy
 host-suffix,iadsdk.apple.com,proxy
 host-suffix,log.dzen.ru,proxy

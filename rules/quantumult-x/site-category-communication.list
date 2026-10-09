@@ -41,8 +41,6 @@ host-suffix,fragment.com,proxy
 host-suffix,freenode.net,proxy
 host-suffix,gcld-line.com,proxy
 host-suffix,graph.org,proxy
-host-suffix,graph.whatsapp.com,proxy
-host-suffix,graph.whatsapp.net,proxy
 host-suffix,intercom.com,proxy
 host-suffix,intercom.io,proxy
 host-suffix,intercomassets.com,proxy

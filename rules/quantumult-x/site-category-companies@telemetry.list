@@ -1,0 +1,6 @@
+host,copilot-telemetry-service.githubusercontent.com,proxy
+host,copilot-telemetry.githubusercontent.com,proxy
+host,incoming-telemetry.thunderbird.net,proxy
+host,incoming.telemetry.mozilla.org,proxy
+host-suffix,cafe.github.com,proxy
+host-suffix,collector.github.com,proxy

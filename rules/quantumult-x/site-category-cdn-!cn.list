@@ -404,6 +404,7 @@ host-suffix,assets.unifi-ai.com,proxy
 host-suffix,assets.unredacted.org,proxy
 host-suffix,assets.upload.io,proxy
 host-suffix,assets.userstyles.org,proxy
+host-suffix,assets.vanta.com,proxy
 host-suffix,assets.vantage.sh,proxy
 host-suffix,assets.vercel.com,proxy
 host-suffix,assets.video.yahoo.net,proxy
@@ -3088,6 +3089,7 @@ host-suffix,myshopapps.com,proxy
 host-suffix,myspacecdn.com,proxy
 host-suffix,myvideos.info,proxy
 host-suffix,myvs.download.prss.microsoft.com,proxy
+host-suffix,n.approveit.today,proxy
 host-suffix,na-library.klarnaservices.com,proxy
 host-suffix,namedotcom-cdn.name.tools,proxy
 host-suffix,nas2.d.tube,proxy
@@ -3561,6 +3563,7 @@ host-suffix,rules1.clearurls.xyz,proxy
 host-suffix,rules2.clearurls.xyz,proxy
 host-suffix,rum-agent.na-01.cloud.solarwinds.com,proxy
 host-suffix,rum-cdn.perfops.net,proxy
+host-suffix,rum-ingest.us1.signalfx.com,proxy
 host-suffix,rum.cronitor.io,proxy
 host-suffix,runkit-packages-static-executables.com,proxy
 host-suffix,runkit-packages-static.com,proxy
@@ -3916,6 +3919,7 @@ host-suffix,static-www.onlyoffice.com,proxy
 host-suffix,static-www.sendsafely.com,proxy
 host-suffix,static.3dporndude.com,proxy
 host-suffix,static.4shared.com,proxy
+host-suffix,static.acm.account.sony.com,proxy
 host-suffix,static.ada.support,proxy
 host-suffix,static.addtoany.com,proxy
 host-suffix,static.adguardvpn.com,proxy

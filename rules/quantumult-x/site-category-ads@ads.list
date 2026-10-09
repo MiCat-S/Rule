@@ -78,13 +78,9 @@ host,clck.yandex.com,proxy
 host,clck.yandex.net,proxy
 host,clck.yango.com,proxy
 host,click.rustore.ru,proxy
-host,copilot-telemetry-service.githubusercontent.com,proxy
-host,copilot-telemetry.githubusercontent.com,proxy
 host,disney.my.sentry.io,proxy
 host,error-tracking.megamarket.tech,proxy
 host,google-analytics-suite.ozon.ru,proxy
-host,incoming-telemetry.thunderbird.net,proxy
-host,incoming.telemetry.mozilla.org,proxy
 host,informer.yandex.ru,proxy
 host,log-sdk.gifshow.com,proxy
 host,log.strm.yandex.ru,proxy
@@ -370,7 +366,6 @@ host-suffix,cloudpush.iqiyi.com,proxy
 host-suffix,cm.baidu.com,proxy
 host-suffix,cnlogs.umeng.com,proxy
 host-suffix,cnlogs.umengcloud.com,proxy
-host-suffix,collector.github.com,proxy
 host-suffix,collector.xhamster.com,proxy
 host-suffix,config.uca.cloud.unity3d.com,proxy
 host-suffix,counter.yandex.ru,proxy
@@ -460,8 +455,6 @@ host-suffix,googletraveladservices.com,proxy
 host-suffix,googlevads-cn.com,proxy
 host-suffix,graph-fallback.instagram.com,proxy
 host-suffix,graph.instagram.com,proxy
-host-suffix,graph.whatsapp.com,proxy
-host-suffix,graph.whatsapp.net,proxy
 host-suffix,gs.amplitude.com,proxy
 host-suffix,gs.eu.amplitude.com,proxy
 host-suffix,guanggaoad.youku.com,proxy

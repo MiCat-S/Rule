@@ -1457,6 +1457,7 @@ host-suffix,release-assets.githubusercontent.com,proxy
 host-suffix,release.arcboxcdn.com,proxy
 host-suffix,release.runcloud.io,proxy
 host-suffix,releases.arc.net,proxy
+host-suffix,releases.claude.com,proxy
 host-suffix,releases.grapheneos.org,proxy
 host-suffix,releases.hashicorp.com,proxy
 host-suffix,releases.landrop.app,proxy

@@ -1458,6 +1458,7 @@ payload:
     - DOMAIN-SUFFIX,release.arcboxcdn.com
     - DOMAIN-SUFFIX,release.runcloud.io
     - DOMAIN-SUFFIX,releases.arc.net
+    - DOMAIN-SUFFIX,releases.claude.com
     - DOMAIN-SUFFIX,releases.grapheneos.org
     - DOMAIN-SUFFIX,releases.hashicorp.com
     - DOMAIN-SUFFIX,releases.landrop.app

@@ -29,6 +29,7 @@ host,productionresultssa7.blob.core.windows.net,proxy
 host,productionresultssa8.blob.core.windows.net,proxy
 host,productionresultssa9.blob.core.windows.net,proxy
 host-suffix,atom.io,proxy
+host-suffix,cafe.github.com,proxy
 host-suffix,collector.github.com,proxy
 host-suffix,dependabot.com,proxy
 host-suffix,gh.io,proxy
