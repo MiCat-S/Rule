@@ -72,6 +72,21 @@ git clone --recurse-submodules https://github.com/MiCat-S/Rule.git
 
 源文件中夹带的策略名（例如 `DIRECT`）会被去除，以免覆盖引用方选择的策略。`extended-matching` 只在 Surge 中保留；其他客户端没有完全等价的逐条选项。
 
+## 不参与转换的原生规则
+
+[`source/no-convert/`](source/no-convert/) 专门存放需要原样保留的客户端规则。转换脚本跳过整个目录及其子目录，不会转换、复制或修改其中的文件；正常源规则仍放在 `source/` 的其他位置。
+
+Claude 的 `DEST-PORT` 和 `PROCESS-NAME` 已单独放在 [`source/no-convert/claude.list`](source/no-convert/claude.list)。域名、IP 和 ASN 条目仍在 [`source/claude.conf`](source/claude.conf)，照常生成六种客户端格式。原生规则使用 Surge 语法，进程规则适用于 Surge Mac；其他客户端需要自行确认语法支持。
+
+使用 Surge 时，除常规 Claude 规则集外，再单独引用这份原生规则，并指定同一策略，例如：
+
+```ini
+RULE-SET,https://raw.githubusercontent.com/MiCat-S/Rule/main/rules/surge/claude.list,Claude
+RULE-SET,https://raw.githubusercontent.com/MiCat-S/Rule/main/source/no-convert/claude.list,Claude
+```
+
+其中 `Claude` 替换为你的策略名。以后新增需要保持原样的规则文件，直接放入 `source/no-convert/` 即可。
+
 ## 本地验证
 
 ```bash

@@ -72,5 +72,30 @@ class ConvertRulesTests(unittest.TestCase):
         self.assertEqual(stats["rule_sets"], 2)
         self.assertEqual(stats["files"], 4)
 
+    def test_build_excludes_no_convert_directory(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            source = root / "claude.conf"
+            source.write_text("DOMAIN-SUFFIX,anthropic.com\n", encoding="utf-8")
+            native = root / "no-convert" / "nested" / "claude.list"
+            native.parent.mkdir(parents=True)
+            native_rules = "DEST-PORT,123\nPROCESS-NAME,/Applications/Claude.app/\n"
+            native.write_text(native_rules, encoding="utf-8")
+            output = root / "generated"
+
+            manifest = convert_rules.build(output, root)
+
+            self.assertEqual(manifest["sources"], [{"source": "claude.conf", "rules": 1}])
+            self.assertEqual(manifest["unsupported_rules"], 0)
+            for target in convert_rules.TARGETS:
+                files = list((output / target).iterdir())
+                self.assertEqual(len(files), 1)
+                self.assertEqual(files[0].stem, "claude")
+                content = files[0].read_text()
+                self.assertIn("anthropic.com", content)
+                self.assertNotIn("DEST-PORT", content)
+                self.assertNotIn("PROCESS-NAME", content)
+            self.assertEqual(native.read_text(), native_rules)
+
 if __name__ == "__main__":
     unittest.main()

@@ -17,6 +17,10 @@
       "rules": 12
     },
     {
+      "source": "claude.conf",
+      "rules": 32
+    },
+    {
       "source": "HKBank.Conf",
       "rules": 49
     },
@@ -53,5 +57,5 @@
       "rules": 61
     }
   ],
-  "unsupported_rules": 2
+  "unsupported_rules": 4
 }

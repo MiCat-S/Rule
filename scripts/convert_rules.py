@@ -47,6 +47,8 @@ class Rule:
 def find_sources(root: Path = SOURCE_ROOT) -> list[Path]:
     sources: list[Path] = []
     for path in root.rglob("*"):
+        if path.relative_to(root).parts[0] == "no-convert":
+            continue
         if not path.is_file() or path.suffix.lower() not in {".conf", ".list"}:
             continue
         sources.append(path)
