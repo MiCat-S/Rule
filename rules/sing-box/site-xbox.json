@@ -2,12 +2,8 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "flightsimulator.azureedge.net",
-        "prodforza.blob.core.windows.net"
-      ],
+      "domain": "prodforza.blob.core.windows.net",
       "domain_suffix": [
-        "asobostudio.com",
         "beth.games",
         "bethesda.net",
         "bethesdagamestudios.com",
@@ -15,7 +11,6 @@
         "callersbane.com",
         "doom.com",
         "elderscrolls.com",
-        "flightsimulator.com",
         "forza.net",
         "forzamotorsport.net",
         "forzaracingchampionship.com",

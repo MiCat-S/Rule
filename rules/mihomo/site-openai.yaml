@@ -1,6 +1,7 @@
 payload:
     - DOMAIN,browser-intake-datadoghq.com
     - DOMAIN,o33249.ingest.sentry.io
+    - DOMAIN,o33249.ingest.us.sentry.io
     - DOMAIN,openai.qualtrics.com
     - DOMAIN,openaiapi-site.azureedge.net
     - DOMAIN,openaiassets.blob.core.windows.net
@@ -19,5 +20,6 @@ payload:
     - DOMAIN-SUFFIX,oaiusercontent.com
     - DOMAIN-SUFFIX,openai.com
     - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+    - DOMAIN-SUFFIX,openai.org
     - DOMAIN-SUFFIX,sora.com
     - DOMAIN-SUFFIX,turn.livekit.cloud

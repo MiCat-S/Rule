@@ -21,11 +21,15 @@
       "domain_suffix": [
         "aida.googleapis.com",
         "aistudio.google.com",
+        "anthropic-com.ghost.io",
+        "anthropic.auth0.com",
         "anthropic.com",
         "antigravity-unleash.goog",
         "antigravity.google",
         "api.githubcopilot.com",
         "bard.google.com",
+        "browser-intake-us5-datadoghq.com",
+        "cdn.usefathom.com",
         "chatgpt.com",
         "clau.de",
         "claude-code.mintlify.app",
@@ -53,6 +57,8 @@
         "grok.x.com",
         "grokipedia.com",
         "imagine.meta.com",
+        "intercom.io",
+        "intercomcdn.com",
         "jasper.ai",
         "jetbrains.ai",
         "kimi.ai",
@@ -63,7 +69,6 @@
         "moonshot.ai",
         "notebooklm.google",
         "notebooklm.google.com",
-        "o33249.ingest.sentry.io",
         "oaistatic.com",
         "oaiusercontent.com",
         "openai.com",
@@ -73,9 +78,17 @@
         "perplexity.ai",
         "pplx.ai",
         "proactivebackend-pa.googleapis.com",
+        "sentry.io",
         "sora.com",
+        "statsigapi.net",
         "trae.ai",
         "x.ai"
+      ],
+      "domain_keyword": [
+        "anthropic",
+        "claude",
+        "datadoghq",
+        "sift"
       ]
     }
   ]

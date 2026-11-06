@@ -21,6 +21,7 @@ payload:
     - DOMAIN,copilotprodattachments.blob.core.windows.net
     - DOMAIN,crashlyticsreports-pa.googleapis.com
     - DOMAIN,d29vzk4ow07wi7.cloudfront.net
+    - DOMAIN,dc.services.visualstudio.com
     - DOMAIN,default.exp-tas.com
     - DOMAIN,developer.microsoft.com
     - DOMAIN,developers.facebook.com
@@ -78,6 +79,7 @@ payload:
     - DOMAIN,psg-int-centralus.cloudapp.net
     - DOMAIN,psg-int-eastus.cloudapp.net
     - DOMAIN,rink.hockeyapp.net
+    - DOMAIN,rt.services.visualstudio.com
     - DOMAIN,update.crashlytics.com
     - DOMAIN,vscode-sync-insiders.trafficmanager.net
     - DOMAIN,vscode-sync.trafficmanager.net
@@ -124,6 +126,8 @@ payload:
     - DOMAIN-SUFFIX,bitvise.com
     - DOMAIN-SUFFIX,blazor.net
     - DOMAIN-SUFFIX,blogoverflow.com
+    - DOMAIN-SUFFIX,bmonkeys.net
+    - DOMAIN-SUFFIX,boldgrid.com
     - DOMAIN-SUFFIX,bootstrapcdn.com
     - DOMAIN-SUFFIX,botframework.com
     - DOMAIN-SUFFIX,botorch.org
@@ -145,6 +149,7 @@ payload:
     - DOMAIN-SUFFIX,chocolatey.org
     - DOMAIN-SUFFIX,clearlinux.org
     - DOMAIN-SUFFIX,clojure.org
+    - DOMAIN-SUFFIX,cloudwp.dev
     - DOMAIN-SUFFIX,cnpmjs.org
     - DOMAIN-SUFFIX,codeberg.org
     - DOMAIN-SUFFIX,codeberg.page
@@ -191,6 +196,7 @@ payload:
     - DOMAIN-SUFFIX,dotdeb.org
     - DOMAIN-SUFFIX,draftjs.org
     - DOMAIN-SUFFIX,ecr.aws
+    - DOMAIN-SUFFIX,editorx.com
     - DOMAIN-SUFFIX,electronjs.org
     - DOMAIN-SUFFIX,elegantthemes.com
     - DOMAIN-SUFFIX,elementary.io
@@ -260,6 +266,7 @@ payload:
     - DOMAIN-SUFFIX,getcomposer.org
     - DOMAIN-SUFFIX,getfedora.org
     - DOMAIN-SUFFIX,getpaint.net
+    - DOMAIN-SUFFIX,getsafety.com
     - DOMAIN-SUFFIX,getsentry.com
     - DOMAIN-SUFFIX,getzola.org
     - DOMAIN-SUFFIX,gh.io
@@ -466,6 +473,7 @@ payload:
     - DOMAIN-SUFFIX,packagist.org
     - DOMAIN-SUFFIX,packer.io
     - DOMAIN-SUFFIX,paint.net
+    - DOMAIN-SUFFIX,parastorage.com
     - DOMAIN-SUFFIX,parse.com
     - DOMAIN-SUFFIX,pcre.org
     - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
@@ -482,6 +490,7 @@ payload:
     - DOMAIN-SUFFIX,polymerproject.org
     - DOMAIN-SUFFIX,poshtestgallery.com
     - DOMAIN-SUFFIX,postgresql.org
+    - DOMAIN-SUFFIX,postman.com
     - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
     - DOMAIN-SUFFIX,pub.dev
     - DOMAIN-SUFFIX,putty.org
@@ -493,6 +502,7 @@ payload:
     - DOMAIN-SUFFIX,pyrobot.org
     - DOMAIN-SUFFIX,python.org
     - DOMAIN-SUFFIX,pythonhosted.org
+    - DOMAIN-SUFFIX,pyup.io
     - DOMAIN-SUFFIX,qt-project.org
     - DOMAIN-SUFFIX,qt.io
     - DOMAIN-SUFFIX,quay.io
@@ -532,6 +542,7 @@ payload:
     - DOMAIN-SUFFIX,rubygems.org
     - DOMAIN-SUFFIX,rust-lang.org
     - DOMAIN-SUFFIX,rustup.rs
+    - DOMAIN-SUFFIX,safetycli.com
     - DOMAIN-SUFFIX,sankie.net
     - DOMAIN-SUFFIX,scala-lang.org
     - DOMAIN-SUFFIX,scala-sbt.org
@@ -581,6 +592,7 @@ payload:
     - DOMAIN-SUFFIX,system76.com
     - DOMAIN-SUFFIX,talkingkotlin.com
     - DOMAIN-SUFFIX,tampermonkey.net
+    - DOMAIN-SUFFIX,templatemonster.com
     - DOMAIN-SUFFIX,termius.com
     - DOMAIN-SUFFIX,termux.com
     - DOMAIN-SUFFIX,termux.dev
@@ -597,6 +609,7 @@ payload:
     - DOMAIN-SUFFIX,tildacdn.net
     - DOMAIN-SUFFIX,timelinestoryteller.com
     - DOMAIN-SUFFIX,timestamp.apple.com
+    - DOMAIN-SUFFIX,tmimgcdn.com
     - DOMAIN-SUFFIX,topcoder.com
     - DOMAIN-SUFFIX,ubuntu-touch.io
     - DOMAIN-SUFFIX,ubuntu.com
@@ -635,12 +648,22 @@ payload:
     - DOMAIN-SUFFIX,w.org
     - DOMAIN-SUFFIX,wapm.io
     - DOMAIN-SUFFIX,wasmer.io
+    - DOMAIN-SUFFIX,webflow-ext.com
     - DOMAIN-SUFFIX,webflow.com
+    - DOMAIN-SUFFIX,webflow.io
     - DOMAIN-SUFFIX,webkit.org
     - DOMAIN-SUFFIX,webkitgtk.org
     - DOMAIN-SUFFIX,weblate.org
     - DOMAIN-SUFFIX,webobjects.com
+    - DOMAIN-SUFFIX,website-files.com
     - DOMAIN-SUFFIX,wireshark.org
+    - DOMAIN-SUFFIX,wix-code.com
+    - DOMAIN-SUFFIX,wix.com
+    - DOMAIN-SUFFIX,wixanswers.com
+    - DOMAIN-SUFFIX,wixapps.net
+    - DOMAIN-SUFFIX,wixmp.com
+    - DOMAIN-SUFFIX,wixsite.com
+    - DOMAIN-SUFFIX,wixstatic.com
     - DOMAIN-SUFFIX,wordcamp.org
     - DOMAIN-SUFFIX,wordpress.com
     - DOMAIN-SUFFIX,wordpress.net

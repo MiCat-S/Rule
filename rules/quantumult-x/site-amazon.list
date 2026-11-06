@@ -211,6 +211,7 @@ host-suffix,primevideo.com,proxy
 host-suffix,primevideo.info,proxy
 host-suffix,primevideo.org,proxy
 host-suffix,primevideo.tv,proxy
+host-suffix,pv-cdn.net,proxy
 host-suffix,route53.cn,proxy
 host-suffix,sagemaker.com.cn,proxy
 host-suffix,seattlespheres.com,proxy

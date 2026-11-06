@@ -1,0 +1,3 @@
+host,disney.my.sentry.io,proxy
+host-suffix,ifacelog.iqiyi.com,proxy
+host-suffix,mbdlog.iqiyi.com,proxy

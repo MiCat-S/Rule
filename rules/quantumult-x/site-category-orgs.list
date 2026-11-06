@@ -1,4 +1,5 @@
 host,csis-prod.s3.amazonaws.com,proxy
+host,sentry.ppy.sh,proxy
 host-suffix,acousticbrainz.org,proxy
 host-suffix,aomedia.org,proxy
 host-suffix,attestation.app,proxy

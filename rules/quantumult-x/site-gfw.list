@@ -6,6 +6,7 @@ host-suffix,10beasts.net,proxy
 host-suffix,10musume.com,proxy
 host-suffix,123av.com,proxy
 host-suffix,123av.me,proxy
+host-suffix,123av.org,proxy
 host-suffix,12bet.com,proxy
 host-suffix,12vpn.com,proxy
 host-suffix,12vpn.net,proxy
@@ -58,6 +59,7 @@ host-suffix,6parkbbs.com,proxy
 host-suffix,6parker.com,proxy
 host-suffix,6parknews.com,proxy
 host-suffix,7capture.com,proxy
+host-suffix,7x24hrs.com,proxy
 host-suffix,8-d.com,proxy
 host-suffix,85cc.us,proxy
 host-suffix,881903.com,proxy
@@ -202,6 +204,7 @@ host-suffix,anobii.com,proxy
 host-suffix,anonfiles.com,proxy
 host-suffix,anonymouse.org,proxy
 host-suffix,anthonycalzadilla.com,proxy
+host-suffix,anthropic.auth0.com,proxy
 host-suffix,anthropic.com,proxy
 host-suffix,antiwave.net,proxy
 host-suffix,antpool.com,proxy
@@ -225,6 +228,7 @@ host-suffix,api.pureapk.com,proxy
 host-suffix,api.recaptcha.net,proxy
 host-suffix,api.shuaiapi.com,proxy
 host-suffix,api.steampowered.com,proxy
+host-suffix,api.themoviedb.org,proxy
 host-suffix,apiary.io,proxy
 host-suffix,apigee.com,proxy
 host-suffix,apk.support,proxy
@@ -402,6 +406,7 @@ host-suffix,bigjapanesesex.com,proxy
 host-suffix,bignews.org,proxy
 host-suffix,bigone.com,proxy
 host-suffix,bild.de,proxy
+host-suffix,bilibili.tv,proxy
 host-suffix,bilinovel.com,proxy
 host-suffix,biliworld.com,proxy
 host-suffix,binance.com,proxy
@@ -571,6 +576,7 @@ host-suffix,broadpressinc.com,proxy
 host-suffix,brookings.edu,proxy
 host-suffix,brutaltgp.com,proxy
 host-suffix,bsky.app,proxy
+host-suffix,bsky.chat,proxy
 host-suffix,bsky.network,proxy
 host-suffix,bsky.social,proxy
 host-suffix,bt4g.org,proxy
@@ -794,7 +800,10 @@ host-suffix,ck101.com,proxy
 host-suffix,clashyun.com,proxy
 host-suffix,classicalguitarblog.net,proxy
 host-suffix,claude.ai,proxy
+host-suffix,claude.app,proxy
 host-suffix,claude.com,proxy
+host-suffix,claudemcpcontent.com,proxy
+host-suffix,claudeusercontent.com,proxy
 host-suffix,cldr.unicode.org,proxy
 host-suffix,clearsurance.com,proxy
 host-suffix,clementine-player.org,proxy
@@ -855,6 +864,7 @@ host-suffix,comparitech.com,proxy
 host-suffix,compileheart.com,proxy
 host-suffix,connect.facebook.net,proxy
 host-suffix,conoha.jp,proxy
+host-suffix,console.typesafe.ai,proxy
 host-suffix,contests.twilio.com,proxy
 host-suffix,cool18.com,proxy
 host-suffix,coolaler.com,proxy
@@ -1409,6 +1419,7 @@ host-suffix,g.ai,proxy
 host-suffix,g.co,proxy
 host-suffix,g0v.social,proxy
 host-suffix,g6hentai.com,proxy
+host-suffix,ga.jspm.io,proxy
 host-suffix,gab.com,proxy
 host-suffix,gabocorp.com,proxy
 host-suffix,gagaoolala.com,proxy
@@ -2209,6 +2220,7 @@ host-suffix,khc.edu.tw,proxy
 host-suffix,kichiku-doujinko.com,proxy
 host-suffix,kik.com,proxy
 host-suffix,killwall.com,proxy
+host-suffix,kimootoko.net,proxy
 host-suffix,kindle4rss.com,proxy
 host-suffix,kindleren.com,proxy
 host-suffix,kingdomsalvation.org,proxy
@@ -2412,7 +2424,6 @@ host-suffix,matrix.org,proxy
 host-suffix,matters.news,proxy
 host-suffix,matters.town,proxy
 host-suffix,mattwilcox.net,proxy
-host-suffix,maven.neoforged.net,proxy
 host-suffix,mcadforums.com,proxy
 host-suffix,mcaf.ee,proxy
 host-suffix,mceindex.com,proxy
@@ -2448,7 +2459,9 @@ host-suffix,meridian-trust.org,proxy
 host-suffix,meripet.com,proxy
 host-suffix,merit-times.com.tw,proxy
 host-suffix,messenger.com,proxy
+host-suffix,meta.ai,proxy
 host-suffix,meta.com,proxy
+host-suffix,metaaivm.com,proxy
 host-suffix,metafilter.com,proxy
 host-suffix,metamask.io,proxy
 host-suffix,metart.com,proxy
@@ -2487,6 +2500,7 @@ host-suffix,mingshengbao.com,proxy
 host-suffix,minhhue.net,proxy
 host-suffix,miningpoolhub.com,proxy
 host-suffix,ministrybooks.org,proxy
+host-suffix,minkch.com,proxy
 host-suffix,minzhuzhongguo.org,proxy
 host-suffix,miraheze.org,proxy
 host-suffix,mirdc.org.tw,proxy
@@ -2548,6 +2562,7 @@ host-suffix,mos.ru,proxy
 host-suffix,mosavi.io,proxy
 host-suffix,motherless.com,proxy
 host-suffix,movements.org,proxy
+host-suffix,movie.eroterest.net,proxy
 host-suffix,moviefap.com,proxy
 host-suffix,mpettis.com,proxy
 host-suffix,mpfinance.com,proxy
@@ -2616,6 +2631,7 @@ host-suffix,ned.org,proxy
 host-suffix,nekoslovakia.net,proxy
 host-suffix,neo-miracle.com,proxy
 host-suffix,neodb.social,proxy
+host-suffix,neoforged.net,proxy
 host-suffix,neowin.net,proxy
 host-suffix,nephobox.com,proxy
 host-suffix,netalert.me,proxy
@@ -2681,6 +2697,9 @@ host-suffix,nitter.net,proxy
 host-suffix,niu.moe,proxy
 host-suffix,niusnews.com,proxy
 host-suffix,njactb.org,proxy
+host-suffix,njav.com,proxy
+host-suffix,njav.tv,proxy
+host-suffix,njavtv.com,proxy
 host-suffix,nlfreevpn.com,proxy
 host-suffix,nmsl.website,proxy
 host-suffix,nnews.eu,proxy
@@ -2934,6 +2953,7 @@ host-suffix,plexvpn.pro,proxy
 host-suffix,plurk.com,proxy
 host-suffix,plus.codes,proxy
 host-suffix,pmatehunter.com,proxy
+host-suffix,po-kaki-to.com,proxy
 host-suffix,po2b.com,proxy
 host-suffix,podbean.com,proxy
 host-suffix,podcast.co,proxy
@@ -3706,6 +3726,7 @@ host-suffix,torlock.com,proxy
 host-suffix,torproject.org,proxy
 host-suffix,torrentgalaxy.to,proxy
 host-suffix,torrentkitty.tv,proxy
+host-suffix,torrentleech.org,proxy
 host-suffix,torrentprivacy.com,proxy
 host-suffix,torrentproject.se,proxy
 host-suffix,torrenty.org,proxy
@@ -4331,6 +4352,7 @@ host-suffix,youtubeeducation.com,proxy
 host-suffix,youtubegaming.com,proxy
 host-suffix,youtubekids.com,proxy
 host-suffix,youversion.com,proxy
+host-suffix,youversionapi.com,proxy
 host-suffix,youwin.com,proxy
 host-suffix,youxu.info,proxy
 host-suffix,yt.be,proxy
@@ -4399,6 +4421,7 @@ host-suffix,zootool.com,proxy
 host-suffix,zophar.net,proxy
 host-suffix,zorrovpn.com,proxy
 host-suffix,zozotown.com,proxy
+host-suffix,zozovideo.com,proxy
 host-suffix,zpn.im,proxy
 host-suffix,zspeeder.me,proxy
 host-suffix,zuo.la,proxy

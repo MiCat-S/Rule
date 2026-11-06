@@ -10,6 +10,7 @@ host-suffix,artel.watch,proxy
 host-suffix,arteldoc.com,proxy
 host-suffix,arteldoc.tv,proxy
 host-suffix,asiangooglenetwork.com,proxy
+host-suffix,azbyka.ru,proxy
 host-suffix,b37mrtl.ru,proxy
 host-suffix,baltnews.com,proxy
 host-suffix,baltnews.lt,proxy
@@ -56,6 +57,10 @@ host-suffix,noticias-rt.com,proxy
 host-suffix,notimundo.press,proxy
 host-suffix,oknovrossiu.ru,proxy
 host-suffix,pobeda.page,proxy
+host-suffix,posledovania.ru,proxy
+host-suffix,pravmir.com,proxy
+host-suffix,pravmir.ru,proxy
+host-suffix,pravoslavie.ru,proxy
 host-suffix,premiumlive.site,proxy
 host-suffix,pressria.ru,proxy
 host-suffix,radiosputnik.ru,proxy
@@ -137,5 +142,7 @@ host-suffix,swentr.site,proxy
 host-suffix,tok.media,proxy
 host-suffix,ukraina.ru,proxy
 host-suffix,watchingthehawks.com,proxy
+host-suffix,webtypikon.ru,proxy
 host-suffix,worldcuprussia.com,proxy
+host-suffix,xn--80adfddrquddgz.xn--p1ai,proxy
 host-suffix,xn--c1acbl2abdlkab1og.xn--p1ai,proxy

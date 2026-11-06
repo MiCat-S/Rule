@@ -95,3 +95,4 @@ host,s17.upd.kaspersky.com,proxy
 host,s18.upd.kaspersky.com,proxy
 host,s19.upd.kaspersky.com,proxy
 host-suffix,kaspersky.com.cn,proxy
+host-suffix,yandex-ad.cn,proxy

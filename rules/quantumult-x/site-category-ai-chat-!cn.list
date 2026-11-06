@@ -14,11 +14,15 @@ host,production-openaicom-storage.azureedge.net,proxy
 host,servd-anthropic-website.b-cdn.net,proxy
 host-suffix,aida.googleapis.com,proxy
 host-suffix,aistudio.google.com,proxy
+host-suffix,anthropic-com.ghost.io,proxy
+host-suffix,anthropic.auth0.com,proxy
 host-suffix,anthropic.com,proxy
 host-suffix,antigravity-unleash.goog,proxy
 host-suffix,antigravity.google,proxy
 host-suffix,api.githubcopilot.com,proxy
 host-suffix,bard.google.com,proxy
+host-suffix,browser-intake-us5-datadoghq.com,proxy
+host-suffix,cdn.usefathom.com,proxy
 host-suffix,chatgpt.com,proxy
 host-suffix,clau.de,proxy
 host-suffix,claude-code.mintlify.app,proxy
@@ -46,6 +50,8 @@ host-suffix,grok.com,proxy
 host-suffix,grok.x.com,proxy
 host-suffix,grokipedia.com,proxy
 host-suffix,imagine.meta.com,proxy
+host-suffix,intercom.io,proxy
+host-suffix,intercomcdn.com,proxy
 host-suffix,jasper.ai,proxy
 host-suffix,jetbrains.ai,proxy
 host-suffix,kimi.ai,proxy
@@ -56,7 +62,6 @@ host-suffix,mistral.ai,proxy
 host-suffix,moonshot.ai,proxy
 host-suffix,notebooklm.google,proxy
 host-suffix,notebooklm.google.com,proxy
-host-suffix,o33249.ingest.sentry.io,proxy
 host-suffix,oaistatic.com,proxy
 host-suffix,oaiusercontent.com,proxy
 host-suffix,openai.com,proxy
@@ -66,6 +71,12 @@ host-suffix,openrouter.ai,proxy
 host-suffix,perplexity.ai,proxy
 host-suffix,pplx.ai,proxy
 host-suffix,proactivebackend-pa.googleapis.com,proxy
+host-suffix,sentry.io,proxy
 host-suffix,sora.com,proxy
+host-suffix,statsigapi.net,proxy
 host-suffix,trae.ai,proxy
 host-suffix,x.ai,proxy
+host-keyword,anthropic,proxy
+host-keyword,claude,proxy
+host-keyword,datadoghq,proxy
+host-keyword,sift,proxy

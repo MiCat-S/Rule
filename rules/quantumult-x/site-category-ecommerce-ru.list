@@ -35,8 +35,10 @@ host,xapi.ozonru.me,proxy
 host-suffix,apiauto.ru,proxy
 host-suffix,auto.ru,proxy
 host-suffix,autoru.me,proxy
+host-suffix,avito.com,proxy
 host-suffix,avito.ru,proxy
 host-suffix,avito.st,proxy
+host-suffix,avito.tech,proxy
 host-suffix,avto.ru,proxy
 host-suffix,cian.ru,proxy
 host-suffix,cian.site,proxy

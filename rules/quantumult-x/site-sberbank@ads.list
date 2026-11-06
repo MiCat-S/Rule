@@ -1,0 +1,3 @@
+host,visor.sberbank.ru,proxy
+host-suffix,ads.sber.ru,proxy
+host-suffix,clickstream.sberbank.ru,proxy

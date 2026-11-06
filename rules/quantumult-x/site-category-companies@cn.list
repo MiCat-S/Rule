@@ -441,7 +441,9 @@ host,seed.siri.apple.com,proxy
 host,sequoia.apple.com,proxy
 host,service.urchin.com,proxy
 host,sf-api-token-service.itunes.apple.com,proxy
+host,sh-pod1-smp-device.apple.com,proxy
 host,sh-pod2-smp-device.apple.com,proxy
+host,sh-pod3-smp-device.apple.com,proxy
 host,shazam-insights.cdn-apple.com,proxy
 host,shell.cdn.office.net,proxy
 host,smp-device-content.apple.com,proxy
@@ -731,7 +733,6 @@ host-suffix,homepod.cn,proxy
 host-suffix,hpstore.cn,proxy
 host-suffix,icloud-apple.cn,proxy
 host-suffix,icloud-content.com.cn,proxy
-host-suffix,icloud.cn,proxy
 host-suffix,icloud.com.cn,proxy
 host-suffix,icloud.net.cn,proxy
 host-suffix,icloudapple.cn,proxy
@@ -862,4 +863,5 @@ host-suffix,xtracloud.cn,proxy
 host-suffix,yahoo.cn,proxy
 host-suffix,yahoo.com.cn,proxy
 host-suffix,yamaxun.cn,proxy
+host-suffix,yandex-ad.cn,proxy
 host-suffix,z.cn,proxy

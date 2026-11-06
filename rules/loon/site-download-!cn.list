@@ -628,7 +628,6 @@ DOMAIN-SUFFIX,ftp.task.gda.pl
 DOMAIN-SUFFIX,ftp.tc.edu.tw
 DOMAIN-SUFFIX,ftp.ticklers.org
 DOMAIN-SUFFIX,ftp.tku.edu.tw
-DOMAIN-SUFFIX,ftp.tsukuba.wide.ad.jp
 DOMAIN-SUFFIX,ftp.tu-chemnitz.de
 DOMAIN-SUFFIX,ftp.tu-graz.ac.at
 DOMAIN-SUFFIX,ftp.tu-ilmenau.de
@@ -766,7 +765,6 @@ DOMAIN-SUFFIX,mirror-gw.elastis.id
 DOMAIN-SUFFIX,mirror-hk.koddos.net
 DOMAIN-SUFFIX,mirror-mk.interspace.com
 DOMAIN-SUFFIX,mirror.01link.hk
-DOMAIN-SUFFIX,mirror.0x.sg
 DOMAIN-SUFFIX,mirror.0x626b.com
 DOMAIN-SUFFIX,mirror.23m.com
 DOMAIN-SUFFIX,mirror.23media.de
@@ -1009,7 +1007,6 @@ DOMAIN-SUFFIX,mirror.lyrahosting.com
 DOMAIN-SUFFIX,mirror.macomnet.net
 DOMAIN-SUFFIX,mirror.maeen.sa
 DOMAIN-SUFFIX,mirror.mangohost.net
-DOMAIN-SUFFIX,mirror.marcusn.net
 DOMAIN-SUFFIX,mirror.marwan.ma
 DOMAIN-SUFFIX,mirror.math.princeton.edu
 DOMAIN-SUFFIX,mirror.math.ucdavis.edu
@@ -1450,6 +1447,7 @@ DOMAIN-SUFFIX,registry-1.docker.io
 DOMAIN-SUFFIX,registry-cdn.wapm.io
 DOMAIN-SUFFIX,registry.bower.io
 DOMAIN-SUFFIX,registry.fedoraproject.org
+DOMAIN-SUFFIX,registry.gitlab.com
 DOMAIN-SUFFIX,registry.npmjs.com
 DOMAIN-SUFFIX,registry.npmjs.org
 DOMAIN-SUFFIX,registry.terraform.io
@@ -1963,7 +1961,6 @@ DOMAIN-SUFFIX,www.gnu.org
 DOMAIN-SUFFIX,www.gnupg.org
 DOMAIN-SUFFIX,www.gtlib.gatech.edu
 DOMAIN-SUFFIX,www.gutscheinrausch.de
-DOMAIN-SUFFIX,www2.aomeisoftware.com
 DOMAIN-SUFFIX,xenia.sote.hu
 DOMAIN-SUFFIX,xsrv.moratelindo.io
 DOMAIN-SUFFIX,xvcf1.xboxlive.com

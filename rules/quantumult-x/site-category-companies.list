@@ -176,6 +176,7 @@ host,content.googleadapis.com,proxy
 host,copilot-telemetry-service.githubusercontent.com,proxy
 host,copilot-telemetry.githubusercontent.com,proxy
 host,crashlyticsreports-pa.googleapis.com,proxy
+host,crashlyticsreports-pa.googleapis.com,proxy
 host,crl-lb.apple.com.akadns.net,proxy
 host,crl.apple.com,proxy
 host,crl.globalsign.net,proxy
@@ -188,6 +189,8 @@ host,cstat.apple.com,proxy
 host,cstat.cdn-apple.com,proxy
 host,ctldl.windowsupdate.com,proxy
 host,dartsearch-cn.net,proxy
+host,dc.applicationinsights.azure.com,proxy
+host,dc.services.visualstudio.com,proxy
 host,dc1-cert.ksn.kaspersky-labs.com,proxy
 host,dc1-file.ksn.kaspersky-labs.com,proxy
 host,dc1-pp.ksn.kaspersky-labs.com,proxy
@@ -243,6 +246,8 @@ host,faronics.kayako.com,proxy
 host,fbcdn-a.akamaihd.net,proxy
 host,fides-pol.apple.com,proxy
 host,firebase-settings.crashlytics.com,proxy
+host,firebaselogging-pa.googleapis.com,proxy
+host,firebaselogging.googleapis.com,proxy
 host,fontfiles.googleapis.com,proxy
 host,fonts.googleapis.com,proxy
 host,fonts.gstatic.com,proxy
@@ -350,6 +355,7 @@ host,itunes.apple.com,proxy
 host,itunesconnect.apple.com,proxy
 host,js-cdn.music.apple.com,proxy
 host,km.support.apple.com,proxy
+host,kp-config-smart-tv.akamaized.net,proxy
 host,ksn-cinfo-geo.kaspersky-labs.com,proxy
 host,ksn-cinfo.geoksn.kaspersky.com,proxy
 host,ksn-crypto-info-geo.kaspersky-labs.com,proxy
@@ -377,6 +383,7 @@ host,ksn-verdict.geoksn.kaspersky.com,proxy
 host,l2-uberproxy.corp.google.com,proxy
 host,lex.download.prss.microsoft.com,proxy
 host,lexuat.download.prss.microsoft.com,proxy
+host,live.applicationinsights.azure.com,proxy
 host,log.strm.yandex.ru,proxy
 host,logger-dev.corp.google.com,proxy
 host,logger.corp.google.com,proxy
@@ -499,6 +506,7 @@ host,report.ap.yandex-net.ru,proxy
 host,rink.hockeyapp.net,proxy
 host,rs.mail.ru,proxy
 host,rsm.download.prss.microsoft.com,proxy
+host,rt.services.visualstudio.com,proxy
 host,s.mzstatic.com,proxy
 host,s00.upd.kaspersky.com,proxy
 host,s01.upd.kaspersky.com,proxy
@@ -621,7 +629,9 @@ host,sentry.viqeo.tv,proxy
 host,sequoia.apple.com,proxy
 host,service.urchin.com,proxy
 host,sf-api-token-service.itunes.apple.com,proxy
+host,sh-pod1-smp-device.apple.com,proxy
 host,sh-pod2-smp-device.apple.com,proxy
+host,sh-pod3-smp-device.apple.com,proxy
 host,shazam-insights.cdn-apple.com,proxy
 host,shell.cdn.office.net,proxy
 host,smp-device-content.apple.com,proxy
@@ -698,6 +708,7 @@ host,uberproxy-debug4.corp.google.com,proxy
 host,uberproxy.corp.google.com,proxy
 host,uberproxy6.corp.google.com,proxy
 host,universal-activity-service.itunes.apple.com,proxy
+host,update.crashlytics.com,proxy
 host,update.crashlytics.com,proxy
 host,update.googleapis.com,proxy
 host,updates-http.cdn-apple.com,proxy
@@ -1615,7 +1626,6 @@ host-suffix,as-hp.ca,proxy
 host-suffix,asfiovnxocqpcry.com.cn,proxy
 host-suffix,askfacebook.net,proxy
 host-suffix,askfacebook.org,proxy
-host-suffix,asobostudio.com,proxy
 host-suffix,asp-cc.com,proxy
 host-suffix,asp.net,proxy
 host-suffix,aspnetcdn.com,proxy
@@ -2253,14 +2263,24 @@ host-suffix,beatthatquote.com,proxy
 host-suffix,beddit.tv,proxy
 host-suffix,beesbfl.ru,proxy
 host-suffix,beescrm.ru,proxy
+host-suffix,beget.app,proxy
+host-suffix,beget.cloud,proxy
 host-suffix,beget.com,proxy
+host-suffix,beget.de,proxy
+host-suffix,beget.email,proxy
+host-suffix,beget.hosting,proxy
+host-suffix,beget.pro,proxy
 host-suffix,beget.ru,proxy
+host-suffix,beget.tech,proxy
+host-suffix,begetcdn.cloud,proxy
 host-suffix,begin-trade.com,proxy
 host-suffix,behance.net,proxy
 host-suffix,behindthescreenz.com,proxy
 host-suffix,bellsouth.net,proxy
 host-suffix,berizaryad.ru,proxy
 host-suffix,berkanawireless.com,proxy
+host-suffix,beru.ru,proxy
+host-suffix,beserver.ru,proxy
 host-suffix,best4bim.com,proxy
 host-suffix,bestbeats4u.com,proxy
 host-suffix,bestbim.com,proxy
@@ -2274,6 +2294,7 @@ host-suffix,bethsoft.com,proxy
 host-suffix,betterbim.com,proxy
 host-suffix,betterwithautodesk.com,proxy
 host-suffix,beyondcore.com,proxy
+host-suffix,bget.ru,proxy
 host-suffix,bhent.co.kr,proxy
 host-suffix,biitii.com,proxy
 host-suffix,bim-360.com,proxy
@@ -2302,6 +2323,7 @@ host-suffix,bingapis.com,proxy
 host-suffix,bingapistatistics.com,proxy
 host-suffix,bingparachute.com,proxy
 host-suffix,bingsandbox.com,proxy
+host-suffix,bingstatic.com,proxy
 host-suffix,bingvisualsearch.com,proxy
 host-suffix,bingworld.com,proxy
 host-suffix,binoculus.com,proxy
@@ -2401,6 +2423,7 @@ host-suffix,bluemix.com,proxy
 host-suffix,bluemix.net,proxy
 host-suffix,blurams.app,proxy
 host-suffix,blurams.com,proxy
+host-suffix,bookmate.ru,proxy
 host-suffix,bookonsky.net,proxy
 host-suffix,bookstagram.com,proxy
 host-suffix,boom.ru,proxy
@@ -2926,6 +2949,7 @@ host-suffix,dashly.me,proxy
 host-suffix,dashlytrack.app,proxy
 host-suffix,dashwood360.com,proxy
 host-suffix,data.com,proxy
+host-suffix,data.microsoft.com,proxy
 host-suffix,datacloudmy.com,proxy
 host-suffix,dataframeworks.com,proxy
 host-suffix,dataliberation.org,proxy
@@ -2964,6 +2988,7 @@ host-suffix,delcamna.com,proxy
 host-suffix,delcamtv.com,proxy
 host-suffix,delcamuniversity.com,proxy
 host-suffix,delcamusa.com,proxy
+host-suffix,delivery-club.ru,proxy
 host-suffix,dell,proxy
 host-suffix,dell-alw.com,proxy
 host-suffix,dell-brand.com,proxy
@@ -3378,6 +3403,7 @@ host-suffix,ecotect.com,proxy
 host-suffix,ecotect.net,proxy
 host-suffix,ecscad.com,proxy
 host-suffix,ecspublisher.com,proxy
+host-suffix,edadeal.ru,proxy
 host-suffix,edgefonts.net,proxy
 host-suffix,edu-research.org,proxy
 host-suffix,education-cadcam.com,proxy
@@ -3824,7 +3850,6 @@ host-suffix,flic.kr,proxy
 host-suffix,flickr,proxy
 host-suffix,flickr.com,proxy
 host-suffix,flickr.net,proxy
-host-suffix,flightsimulator.com,proxy
 host-suffix,flipshare.com,proxy
 host-suffix,flipwithsurface.com,proxy
 host-suffix,flow.dev,proxy
@@ -3843,6 +3868,7 @@ host-suffix,fnacebook.com,proxy
 host-suffix,foftolia.com,proxy
 host-suffix,followpype.com,proxy
 host-suffix,fonolia.com,proxy
+host-suffix,foodfox.ru,proxy
 host-suffix,foofle.com,proxy
 host-suffix,footprintdns.com,proxy
 host-suffix,footwear-cadcam.com,proxy
@@ -4544,7 +4570,6 @@ host-suffix,icloud-content.com.cn,proxy
 host-suffix,icloud-isupport.com,proxy
 host-suffix,icloud-sandbox.com,proxy
 host-suffix,icloud.ch,proxy
-host-suffix,icloud.cn,proxy
 host-suffix,icloud.com,proxy
 host-suffix,icloud.com.cn,proxy
 host-suffix,icloud.de,proxy
@@ -4679,6 +4704,7 @@ host-suffix,impactdesignhub.com,proxy
 host-suffix,impermium.com,proxy
 host-suffix,imstagram.com,proxy
 host-suffix,imtagram.com,proxy
+host-suffix,in.applicationinsights.azure.com,proxy
 host-suffix,inbox.ru,proxy
 host-suffix,incentivetravelgifts.com,proxy
 host-suffix,indiaipad.com,proxy
@@ -5471,6 +5497,7 @@ host-suffix,map-software.com,proxy
 host-suffix,mapguide.com,proxy
 host-suffix,mappingonline.com,proxy
 host-suffix,marinecadcam.com,proxy
+host-suffix,market.ru,proxy
 host-suffix,marketing-cloud.com,proxy
 host-suffix,marketing-nirvana.com,proxy
 host-suffix,marketingcloud.com,proxy
@@ -5552,6 +5579,7 @@ host-suffix,messenger.com,proxy
 host-suffix,messengerdevelopers.com,proxy
 host-suffix,meta.ai,proxy
 host-suffix,meta.com,proxy
+host-suffix,metaaiusercontent.com,proxy
 host-suffix,metaaivm.com,proxy
 host-suffix,metabora.io,proxy
 host-suffix,metacloud.com,proxy
@@ -5896,6 +5924,7 @@ host-suffix,msftconnecttest.com,proxy
 host-suffix,msfteducation.ca,proxy
 host-suffix,msftncsi.com,proxy
 host-suffix,msftnet.org,proxy
+host-suffix,msftstatic.com,proxy
 host-suffix,msgamesresearch.com,proxy
 host-suffix,msgamestudios.com,proxy
 host-suffix,mshome.net,proxy
@@ -5923,6 +5952,7 @@ host-suffix,msturing.org,proxy
 host-suffix,msudalosti.com,proxy
 host-suffix,msunlimitedcloudsummit.com,proxy
 host-suffix,mt.lv,proxy
+host-suffix,mts-link.ru,proxy
 host-suffix,mts-ws.net,proxy
 host-suffix,mts.ru,proxy
 host-suffix,mtsbank.ru,proxy
@@ -6369,6 +6399,7 @@ host-suffix,playshowtv.com,proxy
 host-suffix,playstation,proxy
 host-suffix,playstation.com,proxy
 host-suffix,playstation.net,proxy
+host-suffix,playstationnetwork.com,proxy
 host-suffix,plex.com,proxy
 host-suffix,plex.services,proxy
 host-suffix,plex.tv,proxy
@@ -6458,6 +6489,7 @@ host-suffix,publicsuffix.org,proxy
 host-suffix,publishproxy.com,proxy
 host-suffix,pullstring.net,proxy
 host-suffix,pushgrow.io,proxy
+host-suffix,pv-cdn.net,proxy
 host-suffix,pwabuilder.com,proxy
 host-suffix,pxt.io,proxy
 host-suffix,pyrobot.org,proxy
@@ -6614,6 +6646,7 @@ host-suffix,rustdesk.com,proxy
 host-suffix,rustore.ru,proxy
 host-suffix,rustore.team,proxy
 host-suffix,rustore.tv,proxy
+host-suffix,rutaxi.ru,proxy
 host-suffix,rzr.to,proxy
 host-suffix,s-bluemix.net,proxy
 host-suffix,s-cashonmobile.com,proxy
@@ -6691,6 +6724,7 @@ host-suffix,sc-gw.com,proxy
 host-suffix,sc-static.net,proxy
 host-suffix,scaleform.com,proxy
 host-suffix,scartel.ru,proxy
+host-suffix,scea.com,proxy
 host-suffix,scene7.com,proxy
 host-suffix,schemer.com,proxy
 host-suffix,scnshop.cc,proxy
@@ -6748,6 +6782,8 @@ host-suffix,sharepoint.com,proxy
 host-suffix,sharepointonline.com,proxy
 host-suffix,shazam.com,proxy
 host-suffix,shedevrum.ai,proxy
+host-suffix,shedevrum.com,proxy
+host-suffix,shedevrum.ru,proxy
 host-suffix,sheets.new,proxy
 host-suffix,shisho.dev,proxy
 host-suffix,shoers.com,proxy
@@ -6898,6 +6934,7 @@ host-suffix,sony.com.ni,proxy
 host-suffix,sony.com.pa,proxy
 host-suffix,sony.com.pe,proxy
 host-suffix,sony.com.ph,proxy
+host-suffix,sony.com.py,proxy
 host-suffix,sony.com.sg,proxy
 host-suffix,sony.com.sv,proxy
 host-suffix,sony.com.tr,proxy
@@ -6940,8 +6977,10 @@ host-suffix,sonydesign.com,proxy
 host-suffix,sonydna.com,proxy
 host-suffix,sonyentertainmentnetwork.com,proxy
 host-suffix,sonyglobalsolutions.jp,proxy
+host-suffix,sonyinteractive.com,proxy
 host-suffix,sonykigyo.jp,proxy
 host-suffix,sonylatvija.com,proxy
+host-suffix,sonymusic.com.hk,proxy
 host-suffix,sonynetwork.co.jp,proxy
 host-suffix,sonypcl.jp,proxy
 host-suffix,sonypictures.com,proxy
@@ -6974,6 +7013,7 @@ host-suffix,sportmail.ru,proxy
 host-suffix,sportsfacebook.com,proxy
 host-suffix,sportstream.com,proxy
 host-suffix,sprinklesapp.com,proxy
+host-suffix,sprut.io,proxy
 host-suffix,sptvbroadcast.com,proxy
 host-suffix,sqlserveronlinux.com,proxy
 host-suffix,squ1.com,proxy
@@ -7095,6 +7135,7 @@ host-suffix,tehnodom.com,proxy
 host-suffix,tele2.ru,proxy
 host-suffix,telega.info,proxy
 host-suffix,telega.me,proxy
+host-suffix,telemetry.microsoft.com,proxy
 host-suffix,telerik.com,proxy
 host-suffix,tellmewhygame.com,proxy
 host-suffix,tenbin.ai,proxy
@@ -7130,6 +7171,7 @@ host-suffix,theinstagramhack.com,proxy
 host-suffix,theintelstore.com,proxy
 host-suffix,theinventionworks.com,proxy
 host-suffix,theinventionworks.net,proxy
+host-suffix,thequestion.ru,proxy
 host-suffix,theuab.net,proxy
 host-suffix,thinkboxsoftware.com,proxy
 host-suffix,thinkdifferent.us,proxy
@@ -7150,6 +7192,8 @@ host-suffix,timefxapp.com,proxy
 host-suffix,timelinestoryteller.com,proxy
 host-suffix,timeweb.cloud,proxy
 host-suffix,timeweb.com,proxy
+host-suffix,timeweb.tech,proxy
+host-suffix,timewebcloud.kz,proxy
 host-suffix,tinkerboxapp.com,proxy
 host-suffix,tinkercad.com,proxy
 host-suffix,tinkerentertainment.com,proxy
@@ -7367,6 +7411,7 @@ host-suffix,verizonfios.com,proxy
 host-suffix,verizonmedia.com,proxy
 host-suffix,verizonwireless.com,proxy
 host-suffix,versly.com,proxy
+host-suffix,vezet.ru,proxy
 host-suffix,vfabric.net,proxy
 host-suffix,vfsforgit.com,proxy
 host-suffix,vfsforgit.org,proxy
@@ -7713,6 +7758,7 @@ host-suffix,xn--80aqcf7a6do.com,proxy
 host-suffix,xn--80arpq.xn--p1ai,proxy
 host-suffix,xn--80asgb.xn--p1ai,proxy
 host-suffix,xn--90absjljw3g.xn--p1ai,proxy
+host-suffix,xn--90aefb9d.xn--p1ai,proxy
 host-suffix,xn--9kr7l.com,proxy
 host-suffix,xn--9trs65b.com,proxy
 host-suffix,xn--cckwcxetd,proxy
@@ -7758,7 +7804,7 @@ host-suffix,xtracloud.net,proxy
 host-suffix,xuite.net,proxy
 host-suffix,ya.cc,proxy
 host-suffix,ya.ru,proxy
-host-suffix,yabs.yandex.ru,proxy
+host-suffix,yadi.sk,proxy
 host-suffix,yads.tech,proxy
 host-suffix,yahoo,proxy
 host-suffix,yahoo-news.com.hk,proxy
@@ -7925,8 +7971,10 @@ host-suffix,yamaxun.cn,proxy
 host-suffix,yamaxun.com,proxy
 host-suffix,yammer.com,proxy
 host-suffix,yandex,proxy
+host-suffix,yandex-ad.cn,proxy
 host-suffix,yandex-bank.net,proxy
 host-suffix,yandex-metrica.ru,proxy
+host-suffix,yandex-team.com,proxy
 host-suffix,yandex-team.ru,proxy
 host-suffix,yandex.aero,proxy
 host-suffix,yandex.asia,proxy
@@ -7951,22 +7999,29 @@ host-suffix,yandex.kg,proxy
 host-suffix,yandex.kz,proxy
 host-suffix,yandex.lt,proxy
 host-suffix,yandex.lv,proxy
+host-suffix,yandex.market,proxy
 host-suffix,yandex.md,proxy
 host-suffix,yandex.mobi,proxy
 host-suffix,yandex.net,proxy
+host-suffix,yandex.net.ru,proxy
 host-suffix,yandex.org,proxy
 host-suffix,yandex.pl,proxy
+host-suffix,yandex.pro,proxy
 host-suffix,yandex.ru,proxy
 host-suffix,yandex.st,proxy
 host-suffix,yandex.sx,proxy
+host-suffix,yandex.taxi,proxy
 host-suffix,yandex.tj,proxy
 host-suffix,yandex.tm,proxy
 host-suffix,yandex.tr,proxy
+host-suffix,yandex.travel,proxy
 host-suffix,yandex.ua,proxy
 host-suffix,yandex.uz,proxy
 host-suffix,yandexadexchange.net,proxy
 host-suffix,yandexcloud.net,proxy
 host-suffix,yandexcom.net,proxy
+host-suffix,yandexdataschool.com,proxy
+host-suffix,yandexdataschool.ru,proxy
 host-suffix,yandexgo.com,proxy
 host-suffix,yandexlyceum.ru,proxy
 host-suffix,yandexmetrica.com,proxy
@@ -7991,6 +8046,7 @@ host-suffix,yastatic-net.ru,proxy
 host-suffix,yastatic.net,proxy
 host-suffix,yccdn.ru,proxy
 host-suffix,yclients.com,proxy
+host-suffix,ydb.tech,proxy
 host-suffix,yho.com,proxy
 host-suffix,yimg.com,proxy
 host-suffix,yimg.jp,proxy

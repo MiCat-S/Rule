@@ -22,7 +22,6 @@ payload:
     - DOMAIN,hls.itunes.apple.com
     - DOMAIN,itvpnpmobile-a.akamaihd.net
     - DOMAIN,linear-abematv.akamaized.net
-    - DOMAIN,netflix.com.edgesuite.net
     - DOMAIN,np-edge.itunes.apple.com
     - DOMAIN,ocvideo.apple.com
     - DOMAIN,play-edge.itunes.apple.com
@@ -443,6 +442,7 @@ payload:
     - DOMAIN-SUFFIX,neigbuy.com
     - DOMAIN-SUFFIX,netflix.ca
     - DOMAIN-SUFFIX,netflix.com
+    - DOMAIN-SUFFIX,netflix.com.edgesuite.net
     - DOMAIN-SUFFIX,netflix.net
     - DOMAIN-SUFFIX,netflixdnstest0.com
     - DOMAIN-SUFFIX,netflixdnstest1.com

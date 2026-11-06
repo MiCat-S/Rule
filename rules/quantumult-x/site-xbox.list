@@ -1,6 +1,4 @@
-host,flightsimulator.azureedge.net,proxy
 host,prodforza.blob.core.windows.net,proxy
-host-suffix,asobostudio.com,proxy
 host-suffix,beth.games,proxy
 host-suffix,bethesda.net,proxy
 host-suffix,bethesdagamestudios.com,proxy
@@ -8,7 +6,6 @@ host-suffix,bethsoft.com,proxy
 host-suffix,callersbane.com,proxy
 host-suffix,doom.com,proxy
 host-suffix,elderscrolls.com,proxy
-host-suffix,flightsimulator.com,proxy
 host-suffix,forza.net,proxy
 host-suffix,forzamotorsport.net,proxy
 host-suffix,forzaracingchampionship.com,proxy

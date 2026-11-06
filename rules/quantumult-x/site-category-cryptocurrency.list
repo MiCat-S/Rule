@@ -61,6 +61,8 @@ host-suffix,bitstamp.net,proxy
 host-suffix,bittrex.com,proxy
 host-suffix,blast.io,proxy
 host-suffix,blockchain.com,proxy
+host-suffix,blockchair.com,proxy
+host-suffix,blockchair.net,proxy
 host-suffix,blockfrost.io,proxy
 host-suffix,bmwweb.solutions,proxy
 host-suffix,bnappweb.black,proxy
@@ -102,10 +104,12 @@ host-suffix,coinonecorp.com,proxy
 host-suffix,coredao.org,proxy
 host-suffix,crypto.com,proxy
 host-suffix,cryptocompare.com,proxy
+host-suffix,cryptoid.info,proxy
 host-suffix,cryptomus.com,proxy
 host-suffix,curve.fi,proxy
 host-suffix,cyberx.com,proxy
 host-suffix,debank.com,proxy
+host-suffix,delets.cash,proxy
 host-suffix,delets.online,proxy
 host-suffix,deribit.com,proxy
 host-suffix,devcon.org,proxy
@@ -150,6 +154,7 @@ host-suffix,kraken.com,proxy
 host-suffix,kraken.onl,proxy
 host-suffix,kucoin.com,proxy
 host-suffix,kucoin.plus,proxy
+host-suffix,kurs.expert,proxy
 host-suffix,lighter.exchange,proxy
 host-suffix,lighter.xyz,proxy
 host-suffix,litecoin.org,proxy

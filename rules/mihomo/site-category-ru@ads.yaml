@@ -175,6 +175,8 @@ payload:
     - DOMAIN-SUFFIX,target.my.com
     - DOMAIN-SUFFIX,target.vk.ru
     - DOMAIN-SUFFIX,targetads.io
+    - DOMAIN-SUFFIX,terratraf.com
+    - DOMAIN-SUFFIX,terratraf.io
     - DOMAIN-SUFFIX,top-fwz1.mail.ru
     - DOMAIN-SUFFIX,trace-flow.ru
     - DOMAIN-SUFFIX,tracker-api.my.com
@@ -182,7 +184,6 @@ payload:
     - DOMAIN-SUFFIX,vk-analytics.ru
     - DOMAIN-SUFFIX,webvisor.com
     - DOMAIN-SUFFIX,webvisor.org
-    - DOMAIN-SUFFIX,yabs.yandex.ru
     - DOMAIN-SUFFIX,yads.tech
     - DOMAIN-SUFFIX,yandex-metrica.ru
     - DOMAIN-SUFFIX,yandexmetrica.com

@@ -17,6 +17,7 @@ host-suffix,chinabooktrading.com,proxy
 host-suffix,chinaxiv.org,proxy
 host-suffix,chndoi.org,proxy
 host-suffix,cidp.com.cn,proxy
+host-suffix,cldisk.com,proxy
 host-suffix,cnbksy.com,proxy
 host-suffix,cnki.com.cn,proxy
 host-suffix,cnki.net,proxy
@@ -85,6 +86,7 @@ host-suffix,wind.com.cn,proxy
 host-suffix,xuexi365.com,proxy
 host-suffix,xuexi365.com.cn,proxy
 host-suffix,xuexi365.net,proxy
+host-suffix,xuexitong.com,proxy
 host-suffix,xxtmail.com,proxy
 host-suffix,yiigle.com,proxy
 host-suffix,ylike.net,proxy

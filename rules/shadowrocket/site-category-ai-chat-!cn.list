@@ -14,11 +14,15 @@ DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,anthropic-com.ghost.io
+DOMAIN-SUFFIX,anthropic.auth0.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,antigravity-unleash.goog
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,api.githubcopilot.com
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+DOMAIN-SUFFIX,cdn.usefathom.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude-code.mintlify.app
@@ -46,6 +50,8 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,imagine.meta.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,kimi.ai
@@ -56,7 +62,6 @@ DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
@@ -66,6 +71,12 @@ DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,x.ai
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,datadoghq
+DOMAIN-KEYWORD,sift

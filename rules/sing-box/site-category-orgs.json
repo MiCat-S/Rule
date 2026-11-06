@@ -2,7 +2,10 @@
   "version": 2,
   "rules": [
     {
-      "domain": "csis-prod.s3.amazonaws.com",
+      "domain": [
+        "csis-prod.s3.amazonaws.com",
+        "sentry.ppy.sh"
+      ],
       "domain_suffix": [
         "acousticbrainz.org",
         "aomedia.org",

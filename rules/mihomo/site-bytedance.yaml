@@ -294,6 +294,7 @@ payload:
     - DOMAIN-SUFFIX,dongchediapp.com
     - DOMAIN-SUFFIX,doubao-dev.com
     - DOMAIN-SUFFIX,doubao.com
+    - DOMAIN-SUFFIX,doubaoapps.com
     - DOMAIN-SUFFIX,doubaocdn.com
     - DOMAIN-SUFFIX,doubo03.com
     - DOMAIN-SUFFIX,doudou.com
@@ -320,6 +321,7 @@ payload:
     - DOMAIN-SUFFIX,ecombdimg.com
     - DOMAIN-SUFFIX,ecombdstatic.com
     - DOMAIN-SUFFIX,ecombdvod.com
+    - DOMAIN-SUFFIX,edge-byted.com
     - DOMAIN-SUFFIX,edgeceler.com
     - DOMAIN-SUFFIX,emr-volces.com
     - DOMAIN-SUFFIX,extlog.snssdk.com
@@ -389,6 +391,7 @@ payload:
     - DOMAIN-SUFFIX,gogokid.com.cn
     - DOMAIN-SUFFIX,gslbdns.com
     - DOMAIN-SUFFIX,gslbdns.net
+    - DOMAIN-SUFFIX,haimian.com
     - DOMAIN-SUFFIX,hapierxia.com
     - DOMAIN-SUFFIX,hapipixia.com
     - DOMAIN-SUFFIX,hapiyixia.com
@@ -643,11 +646,14 @@ payload:
     - DOMAIN-SUFFIX,tiktokglobalshopv.com
     - DOMAIN-SUFFIX,tiktokminis.us
     - DOMAIN-SUFFIX,tiktokrow-cdn.com
+    - DOMAIN-SUFFIX,tiktokshop.com
+    - DOMAIN-SUFFIX,tiktokstaticb.com
     - DOMAIN-SUFFIX,tiktokv.com
     - DOMAIN-SUFFIX,tiktokv.com.edgekey.net
     - DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
     - DOMAIN-SUFFIX,tiktokv.eu
     - DOMAIN-SUFFIX,tiktokv.us
+    - DOMAIN-SUFFIX,tiktokvapp.com
     - DOMAIN-SUFFIX,tiktokw.eu
     - DOMAIN-SUFFIX,tiktokw.us
     - DOMAIN-SUFFIX,tlbapm.com

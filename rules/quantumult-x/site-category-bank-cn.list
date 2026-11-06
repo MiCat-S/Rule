@@ -4,8 +4,11 @@ host-suffix,abchina.com,proxy
 host-suffix,bankcomm.cn,proxy
 host-suffix,bankcomm.com,proxy
 host-suffix,bankofbeijing.com.cn,proxy
+host-suffix,bocd.com.cn,proxy
 host-suffix,bosc.cn,proxy
 host-suffix,bsb.com.cn,proxy
+host-suffix,cdrcb.com,proxy
+host-suffix,cdrcbank.com,proxy
 host-suffix,cebbank.com,proxy
 host-suffix,cgbchina.com.cn,proxy
 host-suffix,chinapay.com,proxy
@@ -24,6 +27,7 @@ host-suffix,hsbc.com.cn,proxy
 host-suffix,hsbcinsurance.com.cn,proxy
 host-suffix,hsbcqh.com.cn,proxy
 host-suffix,hxb.com.cn,proxy
+host-suffix,ibangbank.com,proxy
 host-suffix,kcbebank.com,proxy
 host-suffix,kshbank.cn,proxy
 host-suffix,ms-bank.cn,proxy

@@ -34,6 +34,7 @@ host,cnappinstall.googleadapis.com,proxy
 host,connectivitycheck.gstatic.com,proxy
 host,content.googleadapis.com,proxy
 host,crashlyticsreports-pa.googleapis.com,proxy
+host,crashlyticsreports-pa.googleapis.com,proxy
 host,crl.pki.goog,proxy
 host,crls.pki.goog,proxy
 host,csi.gstatic.com,proxy
@@ -48,6 +49,8 @@ host,download.qatp1.net,proxy
 host,download.tensorflow.google.com,proxy
 host,emmapplecodevice.googleapis.com,proxy
 host,firebase-settings.crashlytics.com,proxy
+host,firebaselogging-pa.googleapis.com,proxy
+host,firebaselogging.googleapis.com,proxy
 host,fontfiles.googleapis.com,proxy
 host,fonts.googleapis.com,proxy
 host,fonts.gstatic.com,proxy
@@ -215,6 +218,7 @@ host,tools.l.google.com,proxy
 host,uberproxy-debug4.corp.google.com,proxy
 host,uberproxy.corp.google.com,proxy
 host,uberproxy6.corp.google.com,proxy
+host,update.crashlytics.com,proxy
 host,update.crashlytics.com,proxy
 host,update.googleapis.com,proxy
 host,wear.googleapis.com,proxy

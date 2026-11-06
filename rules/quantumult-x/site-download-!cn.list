@@ -628,7 +628,6 @@ host-suffix,ftp.task.gda.pl,proxy
 host-suffix,ftp.tc.edu.tw,proxy
 host-suffix,ftp.ticklers.org,proxy
 host-suffix,ftp.tku.edu.tw,proxy
-host-suffix,ftp.tsukuba.wide.ad.jp,proxy
 host-suffix,ftp.tu-chemnitz.de,proxy
 host-suffix,ftp.tu-graz.ac.at,proxy
 host-suffix,ftp.tu-ilmenau.de,proxy
@@ -766,7 +765,6 @@ host-suffix,mirror-gw.elastis.id,proxy
 host-suffix,mirror-hk.koddos.net,proxy
 host-suffix,mirror-mk.interspace.com,proxy
 host-suffix,mirror.01link.hk,proxy
-host-suffix,mirror.0x.sg,proxy
 host-suffix,mirror.0x626b.com,proxy
 host-suffix,mirror.23m.com,proxy
 host-suffix,mirror.23media.de,proxy
@@ -1009,7 +1007,6 @@ host-suffix,mirror.lyrahosting.com,proxy
 host-suffix,mirror.macomnet.net,proxy
 host-suffix,mirror.maeen.sa,proxy
 host-suffix,mirror.mangohost.net,proxy
-host-suffix,mirror.marcusn.net,proxy
 host-suffix,mirror.marwan.ma,proxy
 host-suffix,mirror.math.princeton.edu,proxy
 host-suffix,mirror.math.ucdavis.edu,proxy
@@ -1450,6 +1447,7 @@ host-suffix,registry-1.docker.io,proxy
 host-suffix,registry-cdn.wapm.io,proxy
 host-suffix,registry.bower.io,proxy
 host-suffix,registry.fedoraproject.org,proxy
+host-suffix,registry.gitlab.com,proxy
 host-suffix,registry.npmjs.com,proxy
 host-suffix,registry.npmjs.org,proxy
 host-suffix,registry.terraform.io,proxy
@@ -1963,7 +1961,6 @@ host-suffix,www.gnu.org,proxy
 host-suffix,www.gnupg.org,proxy
 host-suffix,www.gtlib.gatech.edu,proxy
 host-suffix,www.gutscheinrausch.de,proxy
-host-suffix,www2.aomeisoftware.com,proxy
 host-suffix,xenia.sote.hu,proxy
 host-suffix,xsrv.moratelindo.io,proxy
 host-suffix,xvcf1.xboxlive.com,proxy

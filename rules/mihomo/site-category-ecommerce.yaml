@@ -18,6 +18,7 @@ payload:
     - DOMAIN,beginners-adv.ozon.ru
     - DOMAIN,ebay-25-assets.s3-us-west-1.amazonaws.com
     - DOMAIN,ecapi-pchome.cdn.hinet.net
+    - DOMAIN,funko.my.site.com
     - DOMAIN,google-analytics-suite.ozon.ru
     - DOMAIN,loyalnost-adv.ozon.ru
     - DOMAIN,marketing-info.wildberries.ru
@@ -37,6 +38,7 @@ payload:
     - DOMAIN,xapi.ozon.ru
     - DOMAIN,xapi.ozonru.me
     - DOMAIN-SUFFIX,21centuryaccess.com
+    - DOMAIN-SUFFIX,24.place
     - DOMAIN-SUFFIX,4ebaytraders.com
     - DOMAIN-SUFFIX,abb.travel
     - DOMAIN-SUFFIX,accomable.com
@@ -218,8 +220,10 @@ payload:
     - DOMAIN-SUFFIX,auto.ru
     - DOMAIN-SUFFIX,automobile.fr
     - DOMAIN-SUFFIX,autoru.me
+    - DOMAIN-SUFFIX,avito.com
     - DOMAIN-SUFFIX,avito.ru
     - DOMAIN-SUFFIX,avito.st
+    - DOMAIN-SUFFIX,avito.tech
     - DOMAIN-SUFFIX,avto.ru
     - DOMAIN-SUFFIX,axbdoll.com.tw
     - DOMAIN-SUFFIX,baazee.com
@@ -324,6 +328,7 @@ payload:
     - DOMAIN-SUFFIX,coupang.com
     - DOMAIN-SUFFIX,coupangcdn.com
     - DOMAIN-SUFFIX,cowboom.com
+    - DOMAIN-SUFFIX,craftifyx.com
     - DOMAIN-SUFFIX,craigslist.org
     - DOMAIN-SUFFIX,crececonebay.com
     - DOMAIN-SUFFIX,creditcardsbay.com
@@ -581,6 +586,7 @@ payload:
     - DOMAIN-SUFFIX,fout.jp
     - DOMAIN-SUFFIX,fragrancebay.com
     - DOMAIN-SUFFIX,francemail.com
+    - DOMAIN-SUFFIX,funko.com
     - DOMAIN-SUFFIX,funpay.com
     - DOMAIN-SUFFIX,funpay.ru
     - DOMAIN-SUFFIX,futureshop.ca
@@ -607,6 +613,8 @@ payload:
     - DOMAIN-SUFFIX,ggsel.net
     - DOMAIN-SUFFIX,gittigidiyor.net
     - DOMAIN-SUFFIX,gittigidiyorsikayet.com
+    - DOMAIN-SUFFIX,glitchprod.com
+    - DOMAIN-SUFFIX,glitchproductions.store
     - DOMAIN-SUFFIX,gmossp-sp.jp
     - DOMAIN-SUFFIX,goldnikeclub.com
     - DOMAIN-SUFFIX,gonike.com
@@ -763,6 +771,7 @@ payload:
     - DOMAIN-SUFFIX,liveauction.com
     - DOMAIN-SUFFIX,loveminiso.com.br
     - DOMAIN-SUFFIX,magnoliaav.com.cn
+    - DOMAIN-SUFFIX,makeship.com
     - DOMAIN-SUFFIX,marketexecutive.net
     - DOMAIN-SUFFIX,miadidas.com
     - DOMAIN-SUFFIX,micoach.com
@@ -1002,6 +1011,7 @@ payload:
     - DOMAIN-SUFFIX,onlinegeeksquad.com
     - DOMAIN-SUFFIX,onlyjobs.ru
     - DOMAIN-SUFFIX,outletnike.com
+    - DOMAIN-SUFFIX,ownaj.com
     - DOMAIN-SUFFIX,ozon-credit.ru
     - DOMAIN-SUFFIX,ozon-dostavka.ru
     - DOMAIN-SUFFIX,ozon-tech.ru
@@ -1154,7 +1164,6 @@ payload:
     - DOMAIN-SUFFIX,technogym.su
     - DOMAIN-SUFFIX,telebay.com
     - DOMAIN-SUFFIX,telesell.com
-    - DOMAIN-SUFFIX,templatemonster.com
     - DOMAIN-SUFFIX,terapeack.com
     - DOMAIN-SUFFIX,terapeak.ca
     - DOMAIN-SUFFIX,terapeak.cn
@@ -1165,6 +1174,7 @@ payload:
     - DOMAIN-SUFFIX,teraperk.com
     - DOMAIN-SUFFIX,terrapeak.com
     - DOMAIN-SUFFIX,texttobuy.org
+    - DOMAIN-SUFFIX,tgtime.store
     - DOMAIN-SUFFIX,thebayuk.com
     - DOMAIN-SUFFIX,thedailysnkr.com
     - DOMAIN-SUFFIX,theebayshop.com
@@ -1316,3 +1326,4 @@ payload:
     - DOMAIN-SUFFIX,xn--yf1at58a.com
     - DOMAIN-SUFFIX,xxbay.com
     - DOMAIN-SUFFIX,yibei.org
+    - DOMAIN-SUFFIX,youtooz.com

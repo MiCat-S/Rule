@@ -11,6 +11,8 @@ host,collaborateppe.download.prss.microsoft.com,proxy
 host,copilot-telemetry-service.githubusercontent.com,proxy
 host,copilot-telemetry.githubusercontent.com,proxy
 host,ctldl.windowsupdate.com,proxy
+host,dc.applicationinsights.azure.com,proxy
+host,dc.services.visualstudio.com,proxy
 host,developer.microsoft.com,proxy
 host,download.microsoft.com,proxy
 host,download.visualstudio.microsoft.com,proxy
@@ -30,6 +32,7 @@ host,itacademy.download.prss.microsoft.com,proxy
 host,itacademyuat.download.prss.microsoft.com,proxy
 host,lex.download.prss.microsoft.com,proxy
 host,lexuat.download.prss.microsoft.com,proxy
+host,live.applicationinsights.azure.com,proxy
 host,mbs.download.prss.microsoft.com,proxy
 host,mpnbenefits.download.prss.microsoft.com,proxy
 host,mpnbenefitsrtl.download.prss.microsoft.com,proxy
@@ -48,6 +51,7 @@ host,officemktuat.download.prss.microsoft.com,proxy
 host,osrelease.download.prss.microsoft.com,proxy
 host,rink.hockeyapp.net,proxy
 host,rsm.download.prss.microsoft.com,proxy
+host,rt.services.visualstudio.com,proxy
 host,sdx.microsoft.com,proxy
 host,shell.cdn.office.net,proxy
 host,software.download.prss.microsoft.com,proxy
@@ -86,7 +90,6 @@ host-suffix,applicationinsights.io,proxy
 host-suffix,applicationinsights.net,proxy
 host-suffix,appserviceenvironment.cn,proxy
 host-suffix,aria.ms,proxy
-host-suffix,asobostudio.com,proxy
 host-suffix,asp.net,proxy
 host-suffix,aspnetcdn.com,proxy
 host-suffix,atom.io,proxy
@@ -201,6 +204,7 @@ host-suffix,bingapis.com,proxy
 host-suffix,bingapistatistics.com,proxy
 host-suffix,bingparachute.com,proxy
 host-suffix,bingsandbox.com,proxy
+host-suffix,bingstatic.com,proxy
 host-suffix,bingvisualsearch.com,proxy
 host-suffix,bingworld.com,proxy
 host-suffix,blazor.net,proxy
@@ -243,6 +247,7 @@ host-suffix,cosmosdb.net,proxy
 host-suffix,crmdynint-gcc.com,proxy
 host-suffix,crmdynint.com,proxy
 host-suffix,crossborderexpansion.com,proxy
+host-suffix,data.microsoft.com,proxy
 host-suffix,dcg.microsoft.com,proxy
 host-suffix,dependabot.com,proxy
 host-suffix,devopsassessment.net,proxy
@@ -262,7 +267,6 @@ host-suffix,engkoo.com,proxy
 host-suffix,exp-tas.com,proxy
 host-suffix,fasttrackreadysupport.com,proxy
 host-suffix,femalefounderscomp.com,proxy
-host-suffix,flightsimulator.com,proxy
 host-suffix,flipwithsurface.com,proxy
 host-suffix,fluidpreview.com,proxy
 host-suffix,footprintdns.com,proxy
@@ -315,6 +319,7 @@ host-suffix,ie11.com,proxy
 host-suffix,ie8.co,proxy
 host-suffix,ie9.com,proxy
 host-suffix,imaginecup.pl,proxy
+host-suffix,in.applicationinsights.azure.com,proxy
 host-suffix,ingads.com,proxy
 host-suffix,insiderdevtour.com,proxy
 host-suffix,internetexplorer.co,proxy
@@ -502,6 +507,7 @@ host-suffix,msftconnecttest.com,proxy
 host-suffix,msfteducation.ca,proxy
 host-suffix,msftncsi.com,proxy
 host-suffix,msftnet.org,proxy
+host-suffix,msftstatic.com,proxy
 host-suffix,msgamesresearch.com,proxy
 host-suffix,msgamestudios.com,proxy
 host-suffix,mshome.net,proxy
@@ -630,6 +636,7 @@ host-suffix,sysinternals.com,proxy
 host-suffix,t-msedge.net,proxy
 host-suffix,tailwindtraders.com,proxy
 host-suffix,techhub.ms,proxy
+host-suffix,telemetry.microsoft.com,proxy
 host-suffix,tellmewhygame.com,proxy
 host-suffix,tfsallin.net,proxy
 host-suffix,th.bing.com,proxy

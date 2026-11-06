@@ -17,6 +17,7 @@ host,api-p.videomarket.jp,proxy
 host,beginners-adv.ozon.ru,proxy
 host,ebay-25-assets.s3-us-west-1.amazonaws.com,proxy
 host,ecapi-pchome.cdn.hinet.net,proxy
+host,funko.my.site.com,proxy
 host,google-analytics-suite.ozon.ru,proxy
 host,loyalnost-adv.ozon.ru,proxy
 host,marketing-info.wildberries.ru,proxy
@@ -36,6 +37,7 @@ host,xapi.ozon.kz,proxy
 host,xapi.ozon.ru,proxy
 host,xapi.ozonru.me,proxy
 host-suffix,21centuryaccess.com,proxy
+host-suffix,24.place,proxy
 host-suffix,4ebaytraders.com,proxy
 host-suffix,abb.travel,proxy
 host-suffix,accomable.com,proxy
@@ -217,8 +219,10 @@ host-suffix,asebay.com,proxy
 host-suffix,auto.ru,proxy
 host-suffix,automobile.fr,proxy
 host-suffix,autoru.me,proxy
+host-suffix,avito.com,proxy
 host-suffix,avito.ru,proxy
 host-suffix,avito.st,proxy
+host-suffix,avito.tech,proxy
 host-suffix,avto.ru,proxy
 host-suffix,axbdoll.com.tw,proxy
 host-suffix,baazee.com,proxy
@@ -323,6 +327,7 @@ host-suffix,costcobusinessdelivery.com,proxy
 host-suffix,coupang.com,proxy
 host-suffix,coupangcdn.com,proxy
 host-suffix,cowboom.com,proxy
+host-suffix,craftifyx.com,proxy
 host-suffix,craigslist.org,proxy
 host-suffix,crececonebay.com,proxy
 host-suffix,creditcardsbay.com,proxy
@@ -580,6 +585,7 @@ host-suffix,foampositeshoes.com,proxy
 host-suffix,fout.jp,proxy
 host-suffix,fragrancebay.com,proxy
 host-suffix,francemail.com,proxy
+host-suffix,funko.com,proxy
 host-suffix,funpay.com,proxy
 host-suffix,funpay.ru,proxy
 host-suffix,futureshop.ca,proxy
@@ -606,6 +612,8 @@ host-suffix,ggsel.com,proxy
 host-suffix,ggsel.net,proxy
 host-suffix,gittigidiyor.net,proxy
 host-suffix,gittigidiyorsikayet.com,proxy
+host-suffix,glitchprod.com,proxy
+host-suffix,glitchproductions.store,proxy
 host-suffix,gmossp-sp.jp,proxy
 host-suffix,goldnikeclub.com,proxy
 host-suffix,gonike.com,proxy
@@ -762,6 +770,7 @@ host-suffix,listinganalytics.net,proxy
 host-suffix,liveauction.com,proxy
 host-suffix,loveminiso.com.br,proxy
 host-suffix,magnoliaav.com.cn,proxy
+host-suffix,makeship.com,proxy
 host-suffix,marketexecutive.net,proxy
 host-suffix,miadidas.com,proxy
 host-suffix,micoach.com,proxy
@@ -1001,6 +1010,7 @@ host-suffix,ocourier.ru,proxy
 host-suffix,onlinegeeksquad.com,proxy
 host-suffix,onlyjobs.ru,proxy
 host-suffix,outletnike.com,proxy
+host-suffix,ownaj.com,proxy
 host-suffix,ozon-credit.ru,proxy
 host-suffix,ozon-dostavka.ru,proxy
 host-suffix,ozon-tech.ru,proxy
@@ -1153,7 +1163,6 @@ host-suffix,technogym.ru,proxy
 host-suffix,technogym.su,proxy
 host-suffix,telebay.com,proxy
 host-suffix,telesell.com,proxy
-host-suffix,templatemonster.com,proxy
 host-suffix,terapeack.com,proxy
 host-suffix,terapeak.ca,proxy
 host-suffix,terapeak.cn,proxy
@@ -1164,6 +1173,7 @@ host-suffix,terapeak.info,proxy
 host-suffix,teraperk.com,proxy
 host-suffix,terrapeak.com,proxy
 host-suffix,texttobuy.org,proxy
+host-suffix,tgtime.store,proxy
 host-suffix,thebayuk.com,proxy
 host-suffix,thedailysnkr.com,proxy
 host-suffix,theebayshop.com,proxy
@@ -1315,3 +1325,4 @@ host-suffix,xn--xsq959n.com,proxy
 host-suffix,xn--yf1at58a.com,proxy
 host-suffix,xxbay.com,proxy
 host-suffix,yibei.org,proxy
+host-suffix,youtooz.com,proxy

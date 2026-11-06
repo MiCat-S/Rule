@@ -2,6 +2,7 @@
   "version": 2,
   "rules": [
     {
+      "domain": "sentry.ppy.sh",
       "domain_suffix": "ppy.sh"
     }
   ]

@@ -1,5 +1,6 @@
 payload:
     - DOMAIN,csis-prod.s3.amazonaws.com
+    - DOMAIN,sentry.ppy.sh
     - DOMAIN-SUFFIX,acousticbrainz.org
     - DOMAIN-SUFFIX,aomedia.org
     - DOMAIN-SUFFIX,attestation.app

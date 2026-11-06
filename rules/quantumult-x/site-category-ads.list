@@ -99,6 +99,7 @@ host,metrics.21-school.ru,proxy
 host,metrika.kontur.ru,proxy
 host,new-adv.ozon.ru,proxy
 host,o33249.ingest.sentry.io,proxy
+host,o33249.ingest.us.sentry.io,proxy
 host,o4504926511693824.ingest.sentry.io,proxy
 host,openai.qualtrics.com,proxy
 host,p3-ad-sign.byteimg.com,proxy
@@ -477,6 +478,7 @@ host-suffix,g.mindbox.ru,proxy
 host-suffix,g1.tagtic.cn,proxy
 host-suffix,g3.letv.com,proxy
 host-suffix,gdt.qq.com,proxy
+host-suffix,gdtimg.com,proxy
 host-suffix,gemini.yahoo.com,proxy
 host-suffix,gia.jd.com,proxy
 host-suffix,gmossp-sp.jp,proxy
@@ -818,7 +820,6 @@ host-suffix,wmbd.gamersky.com,proxy
 host-suffix,wuliao.epro.sogou.com,proxy
 host-suffix,wwads.cn,proxy
 host-suffix,xy-log.tagtic.cn,proxy
-host-suffix,yabs.yandex.ru,proxy
 host-suffix,yads.tech,proxy
 host-suffix,yandex-metrica.ru,proxy
 host-suffix,yandexmetrica.com,proxy

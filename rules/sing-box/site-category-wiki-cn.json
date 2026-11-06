@@ -2,17 +2,18 @@
   "version": 2,
   "rules": [
     {
+      "domain": [
+        "app.moegirl.org.cn",
+        "storage.moegirl.org.cn"
+      ],
       "domain_suffix": [
         "allhistory.com",
         "chaz.fun",
         "fgo.wiki",
         "huijistatic.com",
         "huijiwiki.com",
-        "jikipedia.com",
         "mbalib.com",
         "mcmod.cn",
-        "moegirl.org",
-        "moegirl.org.cn",
         "pwsannong.com",
         "qiuwen.wiki",
         "qiuwenbaike.cn",

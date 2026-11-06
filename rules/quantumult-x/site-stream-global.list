@@ -21,7 +21,6 @@ host,hls-amt.itunes.apple.com,proxy
 host,hls.itunes.apple.com,proxy
 host,itvpnpmobile-a.akamaihd.net,proxy
 host,linear-abematv.akamaized.net,proxy
-host,netflix.com.edgesuite.net,proxy
 host,np-edge.itunes.apple.com,proxy
 host,ocvideo.apple.com,proxy
 host,play-edge.itunes.apple.com,proxy
@@ -442,6 +441,7 @@ host-suffix,navercorp.com,proxy
 host-suffix,neigbuy.com,proxy
 host-suffix,netflix.ca,proxy
 host-suffix,netflix.com,proxy
+host-suffix,netflix.com.edgesuite.net,proxy
 host-suffix,netflix.net,proxy
 host-suffix,netflixdnstest0.com,proxy
 host-suffix,netflixdnstest1.com,proxy

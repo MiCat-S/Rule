@@ -1,7 +1,7 @@
-host,netflix.com.edgesuite.net,proxy
 host-suffix,fast.com,proxy
 host-suffix,netflix.ca,proxy
 host-suffix,netflix.com,proxy
+host-suffix,netflix.com.edgesuite.net,proxy
 host-suffix,netflix.net,proxy
 host-suffix,netflixdnstest0.com,proxy
 host-suffix,netflixdnstest1.com,proxy

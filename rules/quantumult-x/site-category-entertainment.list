@@ -73,11 +73,13 @@ host,d2v9yioq9zuuq2.cloudfront.net,proxy
 host,d2vjef5jvl6bfs.cloudfront.net,proxy
 host,d2xmjdvx03ij56.cloudfront.net,proxy
 host,d31dormfno8pk4.cloudfront.net,proxy
+host,d348twzf7a8p5.cloudfront.net,proxy
 host,d36nr0u3xmc4mm.cloudfront.net,proxy
 host,d3aqoihi2n8ty8.cloudfront.net,proxy
 host,d3c27h4odz752x.cloudfront.net,proxy
 host,d3lh5kkip965lj.cloudfront.net,proxy
 host,d3nwj80emtnjeo.cloudfront.net,proxy
+host,d3stzm2eumvgb4.cloudfront.net,proxy
 host,d3ucl0eqgl80l5.cloudfront.net,proxy
 host,d3vd9lfkzbru3h.cloudfront.net,proxy
 host,d6d4ismr40iw.cloudfront.net,proxy
@@ -87,6 +89,7 @@ host,datarouter.apps.netherrealm.com,proxy
 host,dcb0z5ovq92mz.cloudfront.net,proxy
 host,ddacn6pr5v0tl.cloudfront.net,proxy
 host,ddpjwstwtpszg.cloudfront.net,proxy
+host,devforum-uploads.s3.dualstack.us-east-2.amazonaws.com,proxy
 host,dfp6rglgjqszk.cloudfront.net,proxy
 host,dgeft87wbj63p.cloudfront.net,proxy
 host,disney.my.sentry.io,proxy
@@ -95,6 +98,7 @@ host,dlgarenanow-a.akamaihd.net,proxy
 host,dlmobilegarena-a.akamaihd.net,proxy
 host,dmqdd6hw24ucf.cloudfront.net,proxy
 host,downloaddispatch.itunes.apple.com,proxy
+host,doy2mn9upadnk.cloudfront.net,proxy
 host,dqd0jw5gvbchn.cloudfront.net,proxy
 host,dqrpb9wgowsf5.cloudfront.net,proxy
 host,ds-linear-abematv.akamaized.net,proxy
@@ -110,7 +114,6 @@ host,espn.hb.omtrdc.net,proxy
 host,espndotcom.tt.omtrdc.net,proxy
 host,f3b7q2p3.ssl.hwcdn.net,proxy
 host,favoritescc-hamivideo2.cdn.hinet.net,proxy
-host,flightsimulator.azureedge.net,proxy
 host,fpinit.itunes.apple.com,proxy
 host,gamedownloads-rockstargames-com.akamaized.net,proxy
 host,gamer-cds.cdn.hinet.net,proxy
@@ -139,6 +142,8 @@ host,itunes-apple.com.akadns.net,proxy
 host,itunes.apple.com,proxy
 host,itunesconnect.apple.com,proxy
 host,js-cdn.music.apple.com,proxy
+host,kp-config-smart-tv.akamaized.net,proxy
+host,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com,proxy
 host,lastfm-img.freetls.fastly.net,proxy
 host,lastfm.freetls.fastly.net,proxy
 host,lazer.ppy.sh,proxy
@@ -156,7 +161,6 @@ host,musicstatus.music.apple.com,proxy
 host,mvod.itunes.apple.com,proxy
 host,myapp.itunes.apple.com,proxy
 host,nbbb1bb7.pmhcjk.com,proxy
-host,netflix.com.edgesuite.net,proxy
 host,notify.ppy.sh,proxy
 host,np-edge.itunes.apple.com,proxy
 host,ntdfreemobile-tgc.cdn.hinet.net,proxy
@@ -203,7 +207,6 @@ host,sf-api-token-service.itunes.apple.com,proxy
 host,sp.itunes.apple.com,proxy
 host,spectator.ppy.sh,proxy
 host,speedysub.music.apple.com,proxy
-host,spotify.com.edgesuite.net,proxy
 host,spotify.map.fastly.net,proxy
 host,spotify.map.fastlylb.net,proxy
 host,static-hamivideo.cdn.hinet.net,proxy
@@ -347,6 +350,7 @@ host-suffix,amc.com,proxy
 host-suffix,amcn.com,proxy
 host-suffix,amcnetworks.com,proxy
 host-suffix,amcplus.com,proxy
+host-suffix,amdgaming.com,proxy
 host-suffix,ameba.jp,proxy
 host-suffix,amebame.com,proxy
 host-suffix,amebaownd.com,proxy
@@ -384,7 +388,6 @@ host-suffix,armaplatform.com,proxy
 host-suffix,artstation.com,proxy
 host-suffix,artstationmedia.com,proxy
 host-suffix,artstorm.com,proxy
-host-suffix,asobostudio.com,proxy
 host-suffix,att.tv,proxy
 host-suffix,atttvnow.com,proxy
 host-suffix,attwatchtv.com,proxy
@@ -482,6 +485,10 @@ host-suffix,castro.fm,proxy
 host-suffix,catchplay.com,proxy
 host-suffix,cdnvideo.ru,proxy
 host-suffix,cdnvideohub.com,proxy
+host-suffix,cdpred.services,proxy
+host-suffix,cdprojekt.com,proxy
+host-suffix,cdprojekt.red,proxy
+host-suffix,cdprojektred.com,proxy
 host-suffix,cf-vanguard.com,proxy
 host-suffix,championshipseriesleague.com,proxy
 host-suffix,charlotte-anime.jp,proxy
@@ -524,6 +531,7 @@ host-suffix,cubicmotion.com,proxy
 host-suffix,cubicodyssey.game,proxy
 host-suffix,curseforge.com,proxy
 host-suffix,cxacg.com,proxy
+host-suffix,cyberpunk.net,proxy
 host-suffix,cygames.co.jp,proxy
 host-suffix,cygames.jp,proxy
 host-suffix,d4dj-pj.com,proxy
@@ -755,6 +763,7 @@ host-suffix,famitsu.com,proxy
 host-suffix,fanatical.com,proxy
 host-suffix,fanbox.cc,proxy
 host-suffix,fandango.com,proxy
+host-suffix,fanfiction.net,proxy
 host-suffix,fanfictionero.com,proxy
 host-suffix,fast.com,proxy
 host-suffix,fc-buddyfight.com,proxy
@@ -771,7 +780,6 @@ host-suffix,fireemblemawakening.com,proxy
 host-suffix,fireside.fm,proxy
 host-suffix,firesidegatherings.com,proxy
 host-suffix,fitgirl-repacks.site,proxy
-host-suffix,flightsimulator.com,proxy
 host-suffix,flipnotestudio.com,proxy
 host-suffix,forgecdn.net,proxy
 host-suffix,formula1.com,proxy
@@ -794,6 +802,7 @@ host-suffix,gaijin.net,proxy
 host-suffix,gaijinent.com,proxy
 host-suffix,game-repack.site,proxy
 host-suffix,gameapps.hk,proxy
+host-suffix,gamebanana.com,proxy
 host-suffix,gamebase.com.tw,proxy
 host-suffix,gamebiz.jp,proxy
 host-suffix,gamebusiness.jp,proxy
@@ -1030,6 +1039,7 @@ host-suffix,itunesu.com,proxy
 host-suffix,itunesu.net,proxy
 host-suffix,iutunes.com,proxy
 host-suffix,ivi.ru,proxy
+host-suffix,ivi.tv,proxy
 host-suffix,ivicdn.tv,proxy
 host-suffix,iyf.tv,proxy
 host-suffix,joinmaidez.com,proxy
@@ -1072,6 +1082,7 @@ host-suffix,konamiopen.jp,proxy
 host-suffix,konamisportsclub.jp,proxy
 host-suffix,konamistyle.jp,proxy
 host-suffix,koubaibu.jp,proxy
+host-suffix,kp.yandex.net,proxy
 host-suffix,kpacg.com,proxy
 host-suffix,kraftonde.com,proxy
 host-suffix,kyurem.com,proxy
@@ -1101,6 +1112,9 @@ host-suffix,likee.video,proxy
 host-suffix,likeeapp.ru,proxy
 host-suffix,likeevideo.com,proxy
 host-suffix,likeevideo.ru,proxy
+host-suffix,limbuscompany.global,proxy
+host-suffix,limbuscompanyapi.com,proxy
+host-suffix,limbuscompanycdn.org,proxy
 host-suffix,linetv.tw,proxy
 host-suffix,litbus-anime.com,proxy
 host-suffix,litv.tv,proxy
@@ -1241,6 +1255,7 @@ host-suffix,nentindo.net,proxy
 host-suffix,neoforged.net,proxy
 host-suffix,netflix.ca,proxy
 host-suffix,netflix.com,proxy
+host-suffix,netflix.com.edgesuite.net,proxy
 host-suffix,netflix.net,proxy
 host-suffix,netflixdnstest0.com,proxy
 host-suffix,netflixdnstest1.com,proxy
@@ -1393,6 +1408,7 @@ host-suffix,playapex.com,proxy
 host-suffix,playartifact.com,proxy
 host-suffix,playbattlegrounds.com,proxy
 host-suffix,playfamily.ru,proxy
+host-suffix,playgwent.com,proxy
 host-suffix,playhearthstone.com,proxy
 host-suffix,playmation.com,proxy
 host-suffix,playnintendo.com,proxy
@@ -1403,6 +1419,7 @@ host-suffix,playshowtv.com,proxy
 host-suffix,playstation,proxy
 host-suffix,playstation.com,proxy
 host-suffix,playstation.net,proxy
+host-suffix,playstationnetwork.com,proxy
 host-suffix,playvalorant.com,proxy
 host-suffix,playwarcraft3.com,proxy
 host-suffix,pluto.tv,proxy
@@ -1448,11 +1465,13 @@ host-suffix,prismlauncher.org,proxy
 host-suffix,prod.service.minerva.devices.a2z.com,proxy
 host-suffix,product.co.jp,proxy
 host-suffix,projectapex.com,proxy
+host-suffix,projectmoon.studio,proxy
 host-suffix,promodj.com,proxy
 host-suffix,protondb.com,proxy
 host-suffix,pscdn.co,proxy
 host-suffix,ptzwx.com,proxy
 host-suffix,pubg.com,proxy
+host-suffix,pv-cdn.net,proxy
 host-suffix,pvp.net,proxy
 host-suffix,pvp.tv,proxy
 host-suffix,pvzgw2.com,proxy
@@ -1465,6 +1484,7 @@ host-suffix,quanben.io,proxy
 host-suffix,quiltmc.org,proxy
 host-suffix,quixel.com,proxy
 host-suffix,quixel.se,proxy
+host-suffix,r2modman.com,proxy
 host-suffix,radgametools.com,proxy
 host-suffix,radiko-cf.com,proxy
 host-suffix,radiko.jp,proxy
@@ -1581,6 +1601,7 @@ host-suffix,simcity.com,proxy
 host-suffix,simg.jp,proxy
 host-suffix,skate2.com,proxy
 host-suffix,sketchfab.com,proxy
+host-suffix,skinswap.com,proxy
 host-suffix,skylanders.com,proxy
 host-suffix,sledgehammergames.com,proxy
 host-suffix,sling.com,proxy
@@ -1617,6 +1638,7 @@ host-suffix,spore.com,proxy
 host-suffix,spoti.fi,proxy
 host-suffix,spotify-everywhere.com,proxy
 host-suffix,spotify.com,proxy
+host-suffix,spotify.com.edgesuite.net,proxy
 host-suffix,spotify.design,proxy
 host-suffix,spotify.link,proxy
 host-suffix,spotifycdn.com,proxy
@@ -1671,6 +1693,8 @@ host-suffix,steamdb.info,proxy
 host-suffix,steamdeck.com,proxy
 host-suffix,steamgames.com,proxy
 host-suffix,steaminventoryhelper.com,proxy
+host-suffix,steamos.cloud,proxy
+host-suffix,steampeek.hu,proxy
 host-suffix,steampowered.com,proxy
 host-suffix,steampowered.com.8686c.com,proxy
 host-suffix,steamserver.net,proxy
@@ -1723,9 +1747,12 @@ host-suffix,thesimssocial.com,proxy
 host-suffix,thestationbymaker.com,proxy
 host-suffix,thetvdb.com,proxy
 host-suffix,thewaltdisneycompany.com,proxy
+host-suffix,thewitcher.com,proxy
 host-suffix,thewonderful101.com,proxy
 host-suffix,thisisgame.com,proxy
 host-suffix,thisispolaris.com,proxy
+host-suffix,thunderstore.io,proxy
+host-suffix,thunderstore.org,proxy
 host-suffix,tiberiumalliances.com,proxy
 host-suffix,tiburon.com,proxy
 host-suffix,tidal.com,proxy
@@ -1746,11 +1773,14 @@ host-suffix,tiktokeu-cdn.com,proxy
 host-suffix,tiktokglobalshopv.com,proxy
 host-suffix,tiktokminis.us,proxy
 host-suffix,tiktokrow-cdn.com,proxy
+host-suffix,tiktokshop.com,proxy
+host-suffix,tiktokstaticb.com,proxy
 host-suffix,tiktokv.com,proxy
 host-suffix,tiktokv.com.edgekey.net,proxy
 host-suffix,tiktokv.com.edgesuite.net,proxy
 host-suffix,tiktokv.eu,proxy
 host-suffix,tiktokv.us,proxy
+host-suffix,tiktokvapp.com,proxy
 host-suffix,tiktokw.eu,proxy
 host-suffix,tiktokw.us,proxy
 host-suffix,titanfall.com,proxy
@@ -1871,10 +1901,12 @@ host-suffix,worldoftanks.com,proxy
 host-suffix,worldoftanks.eu,proxy
 host-suffix,worldofwarcraft.com,proxy
 host-suffix,worldofwarplanes.com,proxy
+host-suffix,worldofwarships.asia,proxy
 host-suffix,worldofwarships.com,proxy
 host-suffix,worldseriesofwarzone.com,proxy
 host-suffix,wotblitz.com,proxy
 host-suffix,wowsblitz.com,proxy
+host-suffix,wplace.live,proxy
 host-suffix,ws-blau.com,proxy
 host-suffix,ws-tcg.com,proxy
 host-suffix,wtmobile.com,proxy

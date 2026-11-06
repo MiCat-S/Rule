@@ -99,6 +99,7 @@ payload:
     - DOMAIN,metrika.kontur.ru
     - DOMAIN,new-adv.ozon.ru
     - DOMAIN,o33249.ingest.sentry.io
+    - DOMAIN,o33249.ingest.us.sentry.io
     - DOMAIN,o4504926511693824.ingest.sentry.io
     - DOMAIN,openai.qualtrics.com
     - DOMAIN,p3-ad-sign.byteimg.com
@@ -430,6 +431,7 @@ payload:
     - DOMAIN-SUFFIX,g.mindbox.ru
     - DOMAIN-SUFFIX,g3.letv.com
     - DOMAIN-SUFFIX,gdt.qq.com
+    - DOMAIN-SUFFIX,gdtimg.com
     - DOMAIN-SUFFIX,gemini.yahoo.com
     - DOMAIN-SUFFIX,gia.jd.com
     - DOMAIN-SUFFIX,gmossp-sp.jp
@@ -715,7 +717,6 @@ payload:
     - DOMAIN-SUFFIX,wm.baidu.com
     - DOMAIN-SUFFIX,wmbd.gamersky.com
     - DOMAIN-SUFFIX,wuliao.epro.sogou.com
-    - DOMAIN-SUFFIX,yabs.yandex.ru
     - DOMAIN-SUFFIX,yads.tech
     - DOMAIN-SUFFIX,yandex-metrica.ru
     - DOMAIN-SUFFIX,yandexmetrica.com

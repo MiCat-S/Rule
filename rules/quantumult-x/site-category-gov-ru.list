@@ -70,6 +70,7 @@ host-suffix,mgfoms.ru,proxy
 host-suffix,mil.ru,proxy
 host-suffix,mordovia.ru,proxy
 host-suffix,mos.ru,proxy
+host-suffix,mospat.ru,proxy
 host-suffix,mosreg.ru,proxy
 host-suffix,murmansk.ru,proxy
 host-suffix,nalchik.ru,proxy
@@ -83,12 +84,14 @@ host-suffix,omsk.ru,proxy
 host-suffix,ooc-school.ru,proxy
 host-suffix,orb.ru,proxy
 host-suffix,oryol.ru,proxy
+host-suffix,patriarchia.ru,proxy
 host-suffix,penza.ru,proxy
 host-suffix,perm.ru,proxy
 host-suffix,prim-edu.ru,proxy
 host-suffix,psk.ru,proxy
 host-suffix,pskov.ru,proxy
 host-suffix,ptz.ru,proxy
+host-suffix,regionvideo.ru,proxy
 host-suffix,rkomi.ru,proxy
 host-suffix,rnd.ru,proxy
 host-suffix,ro-edu.ru,proxy
