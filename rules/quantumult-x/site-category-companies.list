@@ -486,6 +486,7 @@ host,r.cert.corp.google.com,proxy
 host,r0.mail.ru,proxy
 host,r0.mradx.net,proxy
 host,r1.mail.ru,proxy
+host,radio.itunes.apple.com,proxy
 host,rapture-prod.corp.google.com,proxy
 host,recaptcha-cn.net,proxy
 host,recaptcha.net,proxy

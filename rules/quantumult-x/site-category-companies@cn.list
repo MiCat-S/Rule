@@ -386,6 +386,7 @@ host,qpx.googleflights.net,proxy
 host,qualysapi.qatp1.net,proxy
 host,qualysguard.qpdp1.net,proxy
 host,r.cert.corp.google.com,proxy
+host,radio.itunes.apple.com,proxy
 host,rapture-prod.corp.google.com,proxy
 host,recaptcha-cn.net,proxy
 host,recaptcha.net,proxy

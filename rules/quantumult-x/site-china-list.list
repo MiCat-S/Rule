@@ -16933,6 +16933,7 @@ host-suffix,bsdfyyls.com,proxy
 host-suffix,bsdongxin.com,proxy
 host-suffix,bsdt1688.com,proxy
 host-suffix,bsehk.com,proxy
+host-suffix,bseinfo.net,proxy
 host-suffix,bseqp.com,proxy
 host-suffix,bserc.com,proxy
 host-suffix,bsgcnc.com,proxy
@@ -21843,7 +21844,6 @@ host-suffix,chuxinhudong.com,proxy
 host-suffix,chuxinvip.com,proxy
 host-suffix,chuxueyun.com,proxy
 host-suffix,chuyaer.com,proxy
-host-suffix,chuyu.me,proxy
 host-suffix,chuzhaobiao.com,proxy
 host-suffix,chvacuum.com,proxy
 host-suffix,chvoice.com,proxy
@@ -35543,14 +35543,12 @@ host-suffix,gamegocenter.net,proxy
 host-suffix,gamehaopu.com,proxy
 host-suffix,gamehome.tv,proxy
 host-suffix,gameinns.com,proxy
-host-suffix,gameitop.com,proxy
 host-suffix,gamejym.com,proxy
 host-suffix,gamekee.com,proxy
 host-suffix,gamekezhan.com,proxy
 host-suffix,gamekuaishou.com,proxy
 host-suffix,gamelet.games,proxy
 host-suffix,gameley.com,proxy
-host-suffix,gameloop.com,proxy
 host-suffix,gameloop.fun,proxy
 host-suffix,gamemale.com,proxy
 host-suffix,gamemcu.com,proxy
@@ -49787,7 +49785,6 @@ host-suffix,in-tencentclb.cloud,proxy
 host-suffix,in-tencentclb.com,proxy
 host-suffix,in-tencentclb.net,proxy
 host-suffix,in-tencentclb.work,proxy
-host-suffix,in.th,proxy
 host-suffix,in001.com,proxy
 host-suffix,in66.com,proxy
 host-suffix,in800.com,proxy
@@ -61617,6 +61614,7 @@ host-suffix,luyecanyin.com,proxy
 host-suffix,luyinla.com,proxy
 host-suffix,luyinzhushou.com,proxy
 host-suffix,luyitong.com,proxy
+host-suffix,luyong.com,proxy
 host-suffix,luyor.net,proxy
 host-suffix,luyouqi.com,proxy
 host-suffix,luyouwang.com,proxy
@@ -62416,9 +62414,6 @@ host-suffix,magook.com,proxy
 host-suffix,magpiepharma.com,proxy
 host-suffix,magtechjournal.com,proxy
 host-suffix,magvision.com,proxy
-host-suffix,mahjongai.net,proxy
-host-suffix,mahjongcup.com,proxy
-host-suffix,mahjongcup.net,proxy
 host-suffix,mahoupao.com,proxy
 host-suffix,mahua.com,proxy
 host-suffix,mai.com,proxy
@@ -71878,7 +71873,6 @@ host-suffix,protontechcn.com,proxy
 host-suffix,proup.club,proxy
 host-suffix,providence-chemicals.com,proxy
 host-suffix,prowine-shanghai.com,proxy
-host-suffix,proximabeta.com,proxy
 host-suffix,proya-group.com,proxy
 host-suffix,proya.com,proxy
 host-suffix,proyy.com,proxy
@@ -78288,6 +78282,7 @@ host-suffix,senpian.com,proxy
 host-suffix,senra.me,proxy
 host-suffix,sense-hk.com,proxy
 host-suffix,senseagro.com,proxy
+host-suffix,senseavatar.com,proxy
 host-suffix,senselock.com,proxy
 host-suffix,senseluxury.com,proxy
 host-suffix,senser.group,proxy
@@ -80539,6 +80534,7 @@ host-suffix,shutonginfo.com,proxy
 host-suffix,shutu.cc,proxy
 host-suffix,shutwin.com,proxy
 host-suffix,shuwangxing.com,proxy
+host-suffix,shuwen.com,proxy
 host-suffix,shuwenxianyun.com,proxy
 host-suffix,shuwulou.com,proxy
 host-suffix,shuxiangmuye.com,proxy
@@ -86595,8 +86591,6 @@ host-suffix,tetrisone.com,proxy
 host-suffix,tetuijiudian.com,proxy
 host-suffix,tevachem.com,proxy
 host-suffix,tex68.com,proxy
-host-suffix,texasholdemcup.com,proxy
-host-suffix,texasholdemcup.net,proxy
 host-suffix,texpage.com,proxy
 host-suffix,texpageusercontent.com,proxy
 host-suffix,texpro-group.com,proxy
@@ -87202,6 +87196,7 @@ host-suffix,tidejd.com,proxy
 host-suffix,tidemedia.com,proxy
 host-suffix,tidepharm.com,proxy
 host-suffix,tidesec.com,proxy
+host-suffix,tidesight.com,proxy
 host-suffix,tideswing.fun,proxy
 host-suffix,tidi.mobi,proxy
 host-suffix,tiduyun.com,proxy
@@ -90256,6 +90251,7 @@ host-suffix,ups88.net,proxy
 host-suffix,upsapp.com,proxy
 host-suffix,upseller.com,proxy
 host-suffix,upskyshanghai.com,proxy
+host-suffix,upsort.com,proxy
 host-suffix,upst86.com,proxy
 host-suffix,uptom.com,proxy
 host-suffix,uptougu.com,proxy
@@ -104116,6 +104112,7 @@ host-suffix,yundongfang.com,proxy
 host-suffix,yundonghao.com,proxy
 host-suffix,yundongit.com,proxy
 host-suffix,yundousoft.com,proxy
+host-suffix,yundouxueyuan.com,proxy
 host-suffix,yundui.cc,proxy
 host-suffix,yunduimedia.com,proxy
 host-suffix,yundun.com,proxy
@@ -104765,6 +104762,7 @@ host-suffix,yy845.com,proxy
 host-suffix,yy960.com,proxy
 host-suffix,yyaotec.com,proxy
 host-suffix,yyarea.com,proxy
+host-suffix,yybip.com,proxy
 host-suffix,yyblly.com,proxy
 host-suffix,yybnet.net,proxy
 host-suffix,yybox.cc,proxy
