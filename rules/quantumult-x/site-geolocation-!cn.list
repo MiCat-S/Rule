@@ -30,6 +30,7 @@ host,gog-cdn-lumen.secure2.footprint.net,proxy
 host,hb4bbbbb.pmhcjk.com,proxy
 host,holoxx.f5.si,proxy
 host,hpstore.corpmerchandise.com,proxy
+host,http-intake.logs.us5.datadoghq.com,proxy
 host,hub.slarker.me,proxy
 host,i.jeded.com,proxy
 host,imperial.insendi.com,proxy
@@ -10756,6 +10757,7 @@ host-suffix,greginhollywood.com,proxy
 host-suffix,gridaware.app,proxy
 host-suffix,grindr.com,proxy
 host-suffix,grok.com,proxy
+host-suffix,grokbot.com,proxy
 host-suffix,grokipedia.com,proxy
 host-suffix,grooby.com,proxy
 host-suffix,groq.com,proxy
