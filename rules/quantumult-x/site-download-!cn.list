@@ -105,6 +105,7 @@ host-suffix,cdn-updates.orbstack.dev,proxy
 host-suffix,cdn-us-1.comaps.app,proxy
 host-suffix,cdn-us-2.comaps.tech,proxy
 host-suffix,cdn.affonso.io,proxy
+host-suffix,cdn.altstore.io,proxy
 host-suffix,cdn.azul.com,proxy
 host-suffix,cdn.blizzard.com,proxy
 host-suffix,cdn.cocoapods.org,proxy

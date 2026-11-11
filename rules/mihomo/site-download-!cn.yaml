@@ -106,6 +106,7 @@ payload:
     - DOMAIN-SUFFIX,cdn-us-1.comaps.app
     - DOMAIN-SUFFIX,cdn-us-2.comaps.tech
     - DOMAIN-SUFFIX,cdn.affonso.io
+    - DOMAIN-SUFFIX,cdn.altstore.io
     - DOMAIN-SUFFIX,cdn.azul.com
     - DOMAIN-SUFFIX,cdn.blizzard.com
     - DOMAIN-SUFFIX,cdn.cocoapods.org
