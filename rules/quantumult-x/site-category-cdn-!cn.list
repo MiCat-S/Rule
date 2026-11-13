@@ -2685,6 +2685,7 @@ host-suffix,ipfsgateway.makersplace.com,proxy
 host-suffix,iphone-ld.apple.com,proxy
 host-suffix,iphone-ld.origin-apple.com.akadns.net,proxy
 host-suffix,ipns.co,proxy
+host-suffix,iprsoftwaremedia.com,proxy
 host-suffix,ipxy.io,proxy
 host-suffix,irp-cdn.multiscreensite.com,proxy
 host-suffix,is1-ssl.mzstatic.com,proxy
