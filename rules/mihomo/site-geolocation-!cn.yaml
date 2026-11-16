@@ -6491,6 +6491,7 @@ payload:
     - DOMAIN-SUFFIX,deasians.com
     - DOMAIN-SUFFIX,debank.com
     - DOMAIN-SUFFIX,debian.org
+    - DOMAIN-SUFFIX,debot.ai
     - DOMAIN-SUFFIX,debug.com
     - DOMAIN-SUFFIX,debugproject.com
     - DOMAIN-SUFFIX,decentr.net
@@ -19720,6 +19721,7 @@ payload:
     - DOMAIN-SUFFIX,relateiq.com
     - DOMAIN-SUFFIX,religionnews.com
     - DOMAIN-SUFFIX,remirepo.net
+    - DOMAIN-SUFFIX,remna.dev
     - DOMAIN-SUFFIX,remna.st
     - DOMAIN-SUFFIX,rencapbank.ru
     - DOMAIN-SUFFIX,renchead.com

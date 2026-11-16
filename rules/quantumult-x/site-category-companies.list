@@ -171,6 +171,7 @@ host,communities.apple.com,proxy
 host,configuration-lb.ls-apple.com.akadns.net,proxy
 host,configuration.apple.com,proxy
 host,configuration.apple.com.akadns.net,proxy
+host,configuration.ls.apple.com,proxy
 host,connectivitycheck.gstatic.com,proxy
 host,content.googleadapis.com,proxy
 host,copilot-telemetry-service.githubusercontent.com,proxy
@@ -411,11 +412,13 @@ host,msdprod-ad.download.prss.microsoft.com,proxy
 host,msproduct.download.prss.microsoft.com,proxy
 host,mtalk.google.com,proxy
 host,music.apple.com,proxy
+host,musicstatus.itunes.apple.com,proxy
 host,musicstatus.music.apple.com,proxy
 host,mvod.itunes.apple.com,proxy
 host,mwf-service.akamaized.net,proxy
 host,myapp.itunes.apple.com,proxy
 host,myvs.download.prss.microsoft.com,proxy
+host,mzstorekit.itunes.apple.com,proxy
 host,np-edge.itunes.apple.com,proxy
 host,o.pki.goog,proxy
 host,ocsp.apple.com,proxy
@@ -2597,6 +2600,7 @@ host-suffix,canonproprinters.com,proxy
 host-suffix,canva.com,proxy
 host-suffix,canvastatus.com,proxy
 host-suffix,capitalg.com,proxy
+host-suffix,captive.apple.com,proxy
 host-suffix,carbon.com,proxy
 host-suffix,careersatfb.com,proxy
 host-suffix,carekit.org,proxy
@@ -8045,6 +8049,7 @@ host-suffix,yangofellowship.com,proxy
 host-suffix,yastat.net,proxy
 host-suffix,yastatic-net.ru,proxy
 host-suffix,yastatic.net,proxy
+host-suffix,yb-payment.ru,proxy
 host-suffix,yccdn.ru,proxy
 host-suffix,yclients.com,proxy
 host-suffix,ydb.tech,proxy

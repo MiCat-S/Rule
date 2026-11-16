@@ -2940,6 +2940,7 @@ payload:
     - DOMAIN-SUFFIX,media.crazyshit.com
     - DOMAIN-SUFFIX,media.currys.biz
     - DOMAIN-SUFFIX,media.daily.dev
+    - DOMAIN-SUFFIX,media.datacamp.com
     - DOMAIN-SUFFIX,media.datacenterdynamics.com
     - DOMAIN-SUFFIX,media.dev.to
     - DOMAIN-SUFFIX,media.discordapp.net
@@ -4081,6 +4082,7 @@ payload:
     - DOMAIN-SUFFIX,static.jsbin.com
     - DOMAIN-SUFFIX,static.jup.ag
     - DOMAIN-SUFFIX,static.k2s.cc
+    - DOMAIN-SUFFIX,static.karousell.com
     - DOMAIN-SUFFIX,static.killedbygoogle.com
     - DOMAIN-SUFFIX,static.klaviyo.com
     - DOMAIN-SUFFIX,static.kobo.com

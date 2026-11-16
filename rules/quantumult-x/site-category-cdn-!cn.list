@@ -2939,6 +2939,7 @@ host-suffix,media.convertkit.com,proxy
 host-suffix,media.crazyshit.com,proxy
 host-suffix,media.currys.biz,proxy
 host-suffix,media.daily.dev,proxy
+host-suffix,media.datacamp.com,proxy
 host-suffix,media.datacenterdynamics.com,proxy
 host-suffix,media.dev.to,proxy
 host-suffix,media.discordapp.net,proxy
@@ -4080,6 +4081,7 @@ host-suffix,static.javhd.com,proxy
 host-suffix,static.jsbin.com,proxy
 host-suffix,static.jup.ag,proxy
 host-suffix,static.k2s.cc,proxy
+host-suffix,static.karousell.com,proxy
 host-suffix,static.killedbygoogle.com,proxy
 host-suffix,static.klaviyo.com,proxy
 host-suffix,static.kobo.com,proxy
