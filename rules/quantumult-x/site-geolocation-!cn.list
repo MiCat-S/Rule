@@ -7903,6 +7903,7 @@ host-suffix,elephanttube.com,proxy
 host-suffix,elephanttubenew.com,proxy
 host-suffix,elevenlabs.com,proxy
 host-suffix,elevenlabs.io,proxy
+host-suffix,elevenlabsusercontent.com,proxy
 host-suffix,elgaronline.com,proxy
 host-suffix,elgoog.im,proxy
 host-suffix,elifesciences.org,proxy
@@ -26022,7 +26023,6 @@ host-suffix,yandexdataschool.ru,proxy
 host-suffix,yandexgo.com,proxy
 host-suffix,yandexlyceum.ru,proxy
 host-suffix,yandexwebcache.net,proxy
-host-suffix,yandexwebcache.org,proxy
 host-suffix,yango-b2b.com,proxy
 host-suffix,yango-team.com,proxy
 host-suffix,yango-tech.com,proxy

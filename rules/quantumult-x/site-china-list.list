@@ -59110,6 +59110,7 @@ host-suffix,lenovocloudos.com,proxy
 host-suffix,lenovoconnect.com,proxy
 host-suffix,lenovoeservice.com,proxy
 host-suffix,lenovofile.com,proxy
+host-suffix,lenovofuturecenter.com,proxy
 host-suffix,lenovogame.com,proxy
 host-suffix,lenovohci.com,proxy
 host-suffix,lenovohuishang.com,proxy
@@ -73797,6 +73798,7 @@ host-suffix,qpjylm.com,proxy
 host-suffix,qpkaifa.com,proxy
 host-suffix,qplus.com,proxy
 host-suffix,qplusstatic.com,proxy
+host-suffix,qpmcn.com,proxy
 host-suffix,qpoc.com,proxy
 host-suffix,qpstar.com,proxy
 host-suffix,qpwater.com,proxy
@@ -88580,6 +88582,7 @@ host-suffix,troxchina.com,proxy
 host-suffix,trpc.center,proxy
 host-suffix,trpc.group,proxy
 host-suffix,trpc.tech,proxy
+host-suffix,trpcdn.com,proxy
 host-suffix,trpcdn.net,proxy
 host-suffix,trs-logistics.com,proxy
 host-suffix,trsoft.vip,proxy
@@ -106236,6 +106239,7 @@ host-suffix,zhaoketang.com,proxy
 host-suffix,zhaokuaizhao.com,proxy
 host-suffix,zhaolaobanla.com,proxy
 host-suffix,zhaoliangji.com,proxy
+host-suffix,zhaoliangjipc.com,proxy
 host-suffix,zhaoliming.net,proxy
 host-suffix,zhaoming.biz,proxy
 host-suffix,zhaomishijie.com,proxy
