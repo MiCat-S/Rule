@@ -246,6 +246,7 @@ host-suffix,assets.cgtrader.com,proxy
 host-suffix,assets.change.org,proxy
 host-suffix,assets.chaos.social,proxy
 host-suffix,assets.churnkey.co,proxy
+host-suffix,assets.claudeusercontent.com,proxy
 host-suffix,assets.clever-cloud.com,proxy
 host-suffix,assets.clibo.tw,proxy
 host-suffix,assets.clickfunnels.com,proxy
@@ -1423,7 +1424,6 @@ host-suffix,cl5-cdn.origin-apple.com.akadns.net,proxy
 host-suffix,cl5.apple.com,proxy
 host-suffix,clara.iwara.tv,proxy
 host-suffix,claritystatic.azureedge.net,proxy
-host-suffix,claudeusercontent.com,proxy
 host-suffix,cldup.com,proxy
 host-suffix,clickup.marketlinc.com,proxy
 host-suffix,client-log-forwarder.1password.com,proxy
@@ -1956,6 +1956,7 @@ host-suffix,forest-mt-s3.seekrtech.com,proxy
 host-suffix,forgecdn.net,proxy
 host-suffix,form-assets.mailchimp.com,proxy
 host-suffix,fourhoi.com,proxy
+host-suffix,frame.claudeusercontent.com,proxy
 host-suffix,framercdn.com,proxy
 host-suffix,framerstatic.com,proxy
 host-suffix,framerusercontent.com,proxy
@@ -3981,6 +3982,7 @@ host-suffix,static.change.org,proxy
 host-suffix,static.chaosgroup.com,proxy
 host-suffix,static.chessarena.com,proxy
 host-suffix,static.chrome-stats.com,proxy
+host-suffix,static.claudeusercontent.com,proxy
 host-suffix,static.clips4sale.com,proxy
 host-suffix,static.cloud.coveo.com,proxy
 host-suffix,static.cloudcachetci.com,proxy
@@ -4587,6 +4589,7 @@ host-suffix,updates-http.cdn-apple.com.akadns.net,proxy
 host-suffix,updates.cdn-apple.com,proxy
 host-suffix,updates.signal.org,proxy
 host-suffix,updates2.signal.org,proxy
+host-suffix,upload.claudeusercontent.com,proxy
 host-suffix,upload.movim.eu,proxy
 host-suffix,upload.teftera.com,proxy
 host-suffix,upload.wikimedia.org,proxy

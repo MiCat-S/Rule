@@ -247,6 +247,7 @@ payload:
     - DOMAIN-SUFFIX,assets.change.org
     - DOMAIN-SUFFIX,assets.chaos.social
     - DOMAIN-SUFFIX,assets.churnkey.co
+    - DOMAIN-SUFFIX,assets.claudeusercontent.com
     - DOMAIN-SUFFIX,assets.clever-cloud.com
     - DOMAIN-SUFFIX,assets.clibo.tw
     - DOMAIN-SUFFIX,assets.clickfunnels.com
@@ -1424,7 +1425,6 @@ payload:
     - DOMAIN-SUFFIX,cl5.apple.com
     - DOMAIN-SUFFIX,clara.iwara.tv
     - DOMAIN-SUFFIX,claritystatic.azureedge.net
-    - DOMAIN-SUFFIX,claudeusercontent.com
     - DOMAIN-SUFFIX,cldup.com
     - DOMAIN-SUFFIX,clickup.marketlinc.com
     - DOMAIN-SUFFIX,client-log-forwarder.1password.com
@@ -1957,6 +1957,7 @@ payload:
     - DOMAIN-SUFFIX,forgecdn.net
     - DOMAIN-SUFFIX,form-assets.mailchimp.com
     - DOMAIN-SUFFIX,fourhoi.com
+    - DOMAIN-SUFFIX,frame.claudeusercontent.com
     - DOMAIN-SUFFIX,framercdn.com
     - DOMAIN-SUFFIX,framerstatic.com
     - DOMAIN-SUFFIX,framerusercontent.com
@@ -3982,6 +3983,7 @@ payload:
     - DOMAIN-SUFFIX,static.chaosgroup.com
     - DOMAIN-SUFFIX,static.chessarena.com
     - DOMAIN-SUFFIX,static.chrome-stats.com
+    - DOMAIN-SUFFIX,static.claudeusercontent.com
     - DOMAIN-SUFFIX,static.clips4sale.com
     - DOMAIN-SUFFIX,static.cloud.coveo.com
     - DOMAIN-SUFFIX,static.cloudcachetci.com
@@ -4588,6 +4590,7 @@ payload:
     - DOMAIN-SUFFIX,updates.cdn-apple.com
     - DOMAIN-SUFFIX,updates.signal.org
     - DOMAIN-SUFFIX,updates2.signal.org
+    - DOMAIN-SUFFIX,upload.claudeusercontent.com
     - DOMAIN-SUFFIX,upload.movim.eu
     - DOMAIN-SUFFIX,upload.teftera.com
     - DOMAIN-SUFFIX,upload.wikimedia.org
