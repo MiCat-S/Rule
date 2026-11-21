@@ -331,6 +331,7 @@ host-suffix,assets.mayoclinic.org,proxy
 host-suffix,assets.mcp.corespeed.io,proxy
 host-suffix,assets.media-platform.com,proxy
 host-suffix,assets.monei.com,proxy
+host-suffix,assets.monetizationos.com,proxy
 host-suffix,assets.monica.im,proxy
 host-suffix,assets.mozilla.social,proxy
 host-suffix,assets.msn.com,proxy
@@ -581,6 +582,7 @@ host-suffix,bunnycdn-video-assets.b-cdn.net,proxy
 host-suffix,bunnycdn.com,proxy
 host-suffix,businessunitprofile-cdn.trustpilot.net,proxy
 host-suffix,busuanzi.ibruce.info,proxy
+host-suffix,butterfly-effect-cdn.dev,proxy
 host-suffix,bytebucket.org,proxy
 host-suffix,bytedapm.com,proxy
 host-suffix,bytescale.mobbin.com,proxy
